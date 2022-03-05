@@ -1,8 +1,8 @@
-speed_max          = 5;
-speed_acceleration = 0.5;
-speed_friction     = 0.2;
+speed_max          = 2;
+speed_acceleration = 0.2;
+speed_friction     = 0.1;
 
-collider = noone;
+collider = obj_wall;
 
 // Weapon
 weapon_x = 0;

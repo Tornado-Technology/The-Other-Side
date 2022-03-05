@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"88c060b1-1eaa-4d98-a0fe-f228f897aacd","path":"sprites/spr_player_test/spr_player_test.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"88c060b1-1eaa-4d98-a0fe-f228f897aacd","path":"sprites/spr_player_test/spr_player_test.yy",},"LayerId":{"name":"73600b5c-2d45-459f-9315-ac5bba858cdd","path":"sprites/spr_player_test/spr_player_test.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player_test","path":"sprites/spr_player_test/spr_player_test.yy",},"resourceVersion":"1.0","name":"88c060b1-1eaa-4d98-a0fe-f228f897aacd","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8bb96c00-afce-466c-8bae-69060f6df788","path":"sprites/spr_camera/spr_camera.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8bb96c00-afce-466c-8bae-69060f6df788","path":"sprites/spr_camera/spr_camera.yy",},"LayerId":{"name":"120c0a5a-5efa-4b74-9d7d-5f6a42ebf7aa","path":"sprites/spr_camera/spr_camera.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_camera","path":"sprites/spr_camera/spr_camera.yy",},"resourceVersion":"1.0","name":"8bb96c00-afce-466c-8bae-69060f6df788","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player_test","path":"sprites/spr_player_test/spr_player_test.yy",},
+    "spriteId": {"name":"spr_camera","path":"sprites/spr_camera/spr_camera.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"de851543-3e9e-4a3e-9b68-ae10485a4fc1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"88c060b1-1eaa-4d98-a0fe-f228f897aacd","path":"sprites/spr_player_test/spr_player_test.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6a7fc4b2-93c8-41dd-9a86-5a4385c679e7","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8bb96c00-afce-466c-8bae-69060f6df788","path":"sprites/spr_camera/spr_camera.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player_test","path":"sprites/spr_player_test/spr_player_test.yy",},
+    "parent": {"name":"spr_camera","path":"sprites/spr_camera/spr_camera.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_player_test",
+    "name": "spr_camera",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"73600b5c-2d45-459f-9315-ac5bba858cdd","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"120c0a5a-5efa-4b74-9d7d-5f6a42ebf7aa","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "Technical",
+    "path": "folders/Sprites/Technical.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_player_test",
+  "name": "spr_camera",
   "tags": [],
   "resourceType": "GMSprite",
 }

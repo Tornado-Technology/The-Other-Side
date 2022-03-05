@@ -2,12 +2,17 @@
   "resources": [
     {"id":{"name":"Directions","path":"scripts/Directions/Directions.yy",},"order":1,},
     {"id":{"name":"spr_player_test","path":"sprites/spr_player_test/spr_player_test.yy",},"order":0,},
+    {"id":{"name":"obj_grid","path":"objects/obj_grid/obj_grid.yy",},"order":5,},
+    {"id":{"name":"spr_camera","path":"sprites/spr_camera/spr_camera.yy",},"order":1,},
     {"id":{"name":"spr_sword_test","path":"sprites/spr_sword_test/spr_sword_test.yy",},"order":0,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":4,},
     {"id":{"name":"obj_weapon_sword","path":"objects/obj_weapon_sword/obj_weapon_sword.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"Player","path":"scripts/Player/Player.yy",},"order":2,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":1,},
     {"id":{"name":"Weapon","path":"scripts/Weapon/Weapon.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":2,},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -44,6 +49,7 @@
     {"folderPath":"folders/Sprites/Player.yy","order":1,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Weapons.yy","order":2,"resourceVersion":"1.0","name":"Weapons","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Weapons.yy","order":3,"resourceVersion":"1.0","name":"Weapons","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Technical.yy","order":3,"resourceVersion":"1.0","name":"Technical","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
