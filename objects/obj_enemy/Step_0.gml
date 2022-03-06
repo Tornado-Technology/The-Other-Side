@@ -1,5 +1,5 @@
-var x_player = get_player_x();
-var y_player = get_player_y();
+var x_player = player_get_x();
+var y_player = player_get_y();
 	
 var x_cell = floor(x_player / global.cell_size);
 var y_cell = floor(y_player / global.cell_size);

@@ -21,10 +21,10 @@
     {"keyframes":{"Keyframes":[
           {"id":"06afe04a-5983-457a-ac70-69c1d42416c7","Key":0.0,"Length":30.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"obj_chiken","path":"objects/obj_chiken/obj_chiken.yy",},"resourceVersion":"1.0","resourceType":"AssetInstanceKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<AssetInstanceKeyframe>",},
         ],"resourceVersion":"1.0","resourceType":"KeyframeStore<AssetInstanceKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[
-        {"name":"origin","builtinName":16,"isCreationTrack":true,"keyframes":{"Keyframes":[
+        {"keyframes":{"Keyframes":[
               {"id":"5627b98b-f318-4e13-85f9-bfe8fea690b0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":true,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},"1":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
-            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"traits":0,"interpolation":1,"tracks":[],"events":[],"resourceVersion":"1.0","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
-        {"name":"position","builtinName":14,"isCreationTrack":false,"keyframes":{"Keyframes":[
+            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"builtinName":16,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":true,"resourceVersion":"1.0","name":"origin","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
+        {"keyframes":{"Keyframes":[
               {"id":"aff90d04-b910-4422-815d-a73a4ad3783e","Key":0.0,"Length":60.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":{"function":2,"channels":[
                         {"colour":4290799884,"visible":true,"points":[
                             {"th0":-0.25,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
@@ -52,11 +52,11 @@
                             {"th0":-0.100000337,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.0,},
                           ],"resourceVersion":"1.0","name":"y","tags":[],"resourceType":"GMAnimCurveChannel",},
                       ],"parent":{"name":"position","path":"sequences/seq_chiken_jump/seq_chiken_jump.yy",},"resourceVersion":"1.2","name":"","tags":[],"resourceType":"GMAnimCurve",},"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
-            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"traits":0,"interpolation":1,"tracks":[],"events":[],"resourceVersion":"1.0","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
-        {"name":"rotation","builtinName":8,"isCreationTrack":true,"keyframes":{"Keyframes":[
+            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"builtinName":14,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","name":"position","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
+        {"keyframes":{"Keyframes":[
               {"id":"1b331dbd-70c9-4a07-b7b6-0e0ff821acbc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":true,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
-            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"traits":0,"interpolation":1,"tracks":[],"events":[],"resourceVersion":"1.0","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
-        {"name":"scale","builtinName":15,"isCreationTrack":false,"keyframes":{"Keyframes":[
+            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"builtinName":8,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":true,"resourceVersion":"1.0","name":"rotation","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
+        {"keyframes":{"Keyframes":[
               {"id":"01b62bbf-30b4-4f6a-a2a8-4a9f90345397","Key":0.0,"Length":60.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":{"function":2,"channels":[
                         {"colour":4290799884,"visible":true,"points":[
                             {"th0":0.0,"th1":0.03408072,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.0,},
@@ -84,7 +84,7 @@
                             {"th0":-0.0677130148,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.994012,},
                           ],"resourceVersion":"1.0","name":"y","tags":[],"resourceType":"GMAnimCurveChannel",},
                       ],"parent":{"name":"scale","path":"sequences/seq_chiken_jump/seq_chiken_jump.yy",},"resourceVersion":"1.2","name":"","tags":[],"resourceType":"GMAnimCurve",},"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
-            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"traits":0,"interpolation":1,"tracks":[],"events":[],"resourceVersion":"1.0","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
+            ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4294073160,"inheritsTrackColour":true,"builtinName":15,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","name":"scale","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
       ],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","name":"obj_chiken","tags":[],"resourceType":"GMInstanceTrack","modifiers":[],},
   ],
   "visibleRange": {

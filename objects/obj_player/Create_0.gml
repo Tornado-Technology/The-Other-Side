@@ -1,22 +1,35 @@
 event_inherited();
 
+// -----> Settings <----- \\
+// Speed
 speed_max          = 2;
 speed_acceleration = 1;
 speed_friction     = 1;
 
+// Collision
 collider = obj_wall;
+// -----> ######## <----- \\
 
-// Weapon
-weapon_x = 0;
-weapon_y = 0;
-weapon   = obj_weapon_sword;
 
-// Not settings
+// ------> Systems <----- \\
+// Inventory
+money = 0;
+keys  = 0;
+
+// Move
+can_move = true;
 speed_h = 0;
 speed_v = 0;
 
+// Direction
 dir = DIR.RIGHT;
-can_move = true;
+
+// Weapons
+weapon_x = 0;
+weapon_y = 0;
+weapon   = obj_weapon_sword;
+// ------> ####### <----- \\
+
 
 // Funcs
 function flip() {
