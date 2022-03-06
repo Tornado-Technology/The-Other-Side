@@ -1,15 +1,12 @@
 {
-  "spriteId": {
-    "name": "s2",
-    "path": "sprites/s2/s2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "w",
-    "path": "objects/w/w.yy",
+    "name": "obj_entity",
+    "path": "objects/obj_entity/obj_entity.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Environment",
-    "path": "folders/Objects/Environment.yy",
+    "name": "A - Base",
+    "path": "folders/Objects/Entity/A - Base.yy",
   },
   "resourceVersion": "1.0",
-  "name": "w2",
+  "name": "obj_ally",
   "tags": [],
   "resourceType": "GMObject",
 }
