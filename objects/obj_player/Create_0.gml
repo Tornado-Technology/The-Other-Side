@@ -1,13 +1,13 @@
 speed_max          = 2;
-speed_acceleration = 0.2;
-speed_friction     = 0.1;
+speed_acceleration = 1;
+speed_friction     = 1;
 
 collider = obj_wall;
 
 // Weapon
 weapon_x = 0;
 weapon_y = 0;
-weapon   = 0;
+weapon   = obj_weapon_sword;
 
 // Not settings
 speed_h = 0;
@@ -18,7 +18,7 @@ can_move = true;
 
 // Funcs
 function flip() {
-	var new_scale = sign(-speed_h);
+	var new_scale = sign(speed_h);
 	
 	if (new_scale == 0) return; 
 	
@@ -30,6 +30,16 @@ function move() {
 	
 	var input_h = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 	var input_v = keyboard_check(ord("S")) - keyboard_check(ord("W"));
+	
+	sprite_index = spr_player_idle;
+	if (input_h != 0 || input_v != 0) {
+		sprite_index = spr_player_run;
+	}
+	
+	if (input_h > 0) dir = DIR.RIGHT;
+	if (input_h < 0) dir = DIR.LEFT;
+	if (input_v > 0) dir = DIR.DOWN;
+	if (input_v < 0) dir = DIR.UP;
 	
 	speed_h = lerp(speed_h, speed_max * input_h, input_h == 0 ? speed_friction : speed_acceleration);
 	speed_v = lerp(speed_v, speed_max * input_v, input_v == 0 ? speed_friction : speed_acceleration);
