@@ -1,3 +1,5 @@
+event_inherited();
+
 speed_max          = 2;
 speed_acceleration = 1;
 speed_friction     = 1;

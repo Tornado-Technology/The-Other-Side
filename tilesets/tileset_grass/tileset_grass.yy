@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tileset_first",
-    "path": "sprites/spr_tileset_first/spr_tileset_first.yy",
+    "name": "spr_tileset_grass",
+    "path": "sprites/spr_tileset_grass/spr_tileset_grass.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,

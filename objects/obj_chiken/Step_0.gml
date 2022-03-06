@@ -1,3 +1,5 @@
+event_inherited();
+
 if (in_sequence) exit;
 
 jump_delay--;

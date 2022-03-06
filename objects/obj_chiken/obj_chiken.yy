@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_ally",
+    "path": "objects/obj_ally/obj_ally.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Neutrale",
-    "path": "folders/Objects/Entity/Neutrale.yy",
+    "name": "Ally",
+    "path": "folders/Objects/Entity/Ally.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_chiken",
