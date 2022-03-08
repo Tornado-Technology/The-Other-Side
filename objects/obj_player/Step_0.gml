@@ -1,4 +1,6 @@
 event_inherited();
+
+attack();
 move();
 collision();
 flip();

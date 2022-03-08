@@ -2,9 +2,7 @@ event_inherited();
 
 // -----> Settings <----- \\
 // Speed
-speed_max          = 2;
-speed_acceleration = 1;
-speed_friction     = 1;
+speed_max = 2;
 
 // Collision
 collider = obj_wall;
@@ -23,15 +21,21 @@ speed_v = 0;
 
 // Direction
 dir = DIR.RIGHT;
+dir_attack = 0;
 
 // Weapons
-weapon_x = 0;
-weapon_y = 0;
-weapon   = obj_weapon_sword;
+weapon = weapon_get(WEAPON_ID.SWORD);
 // ------> ####### <----- \\
 
 
-// Funcs
+// -----> Functions <---- \\
+function attack() {
+	if (keyboard_check_pressed(vk_left))  weapon.use(id, DIR.LEFT);
+	if (keyboard_check_pressed(vk_right)) weapon.use(id, DIR.RIGHT);
+	if (keyboard_check_pressed(vk_up))    weapon.use(id, DIR.UP);
+	if (keyboard_check_pressed(vk_down))  weapon.use(id, DIR.DOWN);
+}
+
 function flip() {
 	var new_scale = sign(speed_h);
 	
@@ -56,8 +60,8 @@ function move() {
 	if (input_v > 0) dir = DIR.DOWN;
 	if (input_v < 0) dir = DIR.UP;
 	
-	speed_h = lerp(speed_h, speed_max * input_h, input_h == 0 ? speed_friction : speed_acceleration);
-	speed_v = lerp(speed_v, speed_max * input_v, input_v == 0 ? speed_friction : speed_acceleration);
+	speed_h = speed_max * input_h;
+	speed_v = speed_max * input_v;
 }
 
 function collision() {
