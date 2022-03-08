@@ -1,0 +1,1 @@
+faction = FACTIONS.BASE;

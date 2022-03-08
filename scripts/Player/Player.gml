@@ -19,3 +19,15 @@ function player_add_keys(_value) {
 	if (!instance_exists(obj_player)) return;
 	obj_player.keys += abs(_value);
 }
+
+/// @param value
+function player_get_keys() {
+	if (!instance_exists(obj_player)) return -1;
+	return obj_player.keys;
+}
+
+/// @param value
+function player_remove_keys(_value) {
+	if (!instance_exists(obj_player)) return;
+	obj_player.keys = max(obj_player.keys - abs(_value), 0);
+}

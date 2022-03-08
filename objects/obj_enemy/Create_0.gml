@@ -1,2 +1,2 @@
-path = path_add();
-is_moving = true;
+event_inherited();
+faction = FACTIONS.ENEMY;

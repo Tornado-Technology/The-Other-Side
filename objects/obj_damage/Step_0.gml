@@ -1,5 +1,5 @@
-time--;
+//var insts_enemy = array(instance_place_list(x, y, obj_enemy, true));
+//var insts_neutral = array(instance_place_list(x, y, obj_neutral, true));
 
-if (time <= 0) {
-	instance_destroy();
-}
+// Destroy this 
+time--; if (time <= 0) instance_destroy();

@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Entity",
-    "path": "folders/Objects/Entity.yy",
+    "name": "A - Base",
+    "path": "folders/Objects/Entity/A - Base.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_entity",

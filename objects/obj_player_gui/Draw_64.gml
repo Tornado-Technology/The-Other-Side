@@ -9,6 +9,7 @@ draw_sprite(spr_ui_text_weapon, 0, 26, 8);
 draw_sprite(spr_ui_text_coins,  0, 17, 54);
 draw_sprite(spr_ui_text_keys,   0, 19, 66);
 
+
 if (!instance_exists(obj_player)) exit;
 
 var weapon = obj_player.weapon;
@@ -21,6 +22,7 @@ if (weapon != noone) {
 
 var money = string(obj_player.money);
 var keys  = string(obj_player.keys);
+var _fps = "Fps: " + string(fps_real);
 
 draw_set_halign(fa_left);
 draw_set_valign(fa_center);
@@ -47,3 +49,14 @@ draw_text(_x, _y + 1, keys);
 
 draw_set_color(c_white);
 draw_text(_x, _y, keys);
+
+_x = 10;
+_y = height - 10;
+draw_set_color(c_black);
+draw_text(_x - 1, _y, _fps);
+draw_text(_x + 1, _y, _fps);
+draw_text(_x, _y - 1, _fps);
+draw_text(_x, _y + 1, _fps);
+
+draw_set_color(c_white);
+draw_text(_x, _y, _fps);

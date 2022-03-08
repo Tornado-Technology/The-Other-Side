@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Vectors",
+    "path": "folders/Scripts/GMS+/Math/Vectors.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Directions",
+  "name": "Vector4",
   "tags": [],
   "resourceType": "GMScript",
 }

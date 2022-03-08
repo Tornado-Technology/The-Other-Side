@@ -1,0 +1,6 @@
+enum FACTIONS {
+	BASE,
+	ALLY,
+	NEUTRAL,
+	ENEMY
+}

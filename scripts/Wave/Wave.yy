@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Math",
+    "path": "folders/Scripts/GMS+/Math.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Wave",
+  "name": "wave",
   "tags": [],
   "resourceType": "GMScript",
 }
