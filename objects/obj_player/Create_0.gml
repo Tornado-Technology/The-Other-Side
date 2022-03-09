@@ -29,6 +29,7 @@ dir = DIR.RIGHT;
 
 // Weapons
 weapon = weapon_get(WEAPON_ID.SWORD);
+weapon_depth = -1;
 // ------> ####### <----- \\
 
 
