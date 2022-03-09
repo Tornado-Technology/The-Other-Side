@@ -1,6 +1,11 @@
 event_inherited();
 
 // -----> Settings <----- \\
+
+// Health
+hp = 2;
+hp_max = 5;
+
 // Speed
 speed_max = 2;
 
@@ -21,7 +26,6 @@ speed_v = 0;
 
 // Direction
 dir = DIR.RIGHT;
-dir_attack = 0;
 
 // Weapons
 weapon = weapon_get(WEAPON_ID.SWORD);

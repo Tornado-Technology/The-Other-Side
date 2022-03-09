@@ -60,3 +60,5 @@ draw_text(_x, _y + 1, _fps);
 
 draw_set_color(c_white);
 draw_text(_x, _y, _fps);
+
+event_user(0);
