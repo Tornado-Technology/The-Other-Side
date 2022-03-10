@@ -23,6 +23,7 @@
         ],"resourceVersion":"1.0","resourceType":"KeyframeStore<AssetInstanceKeyframe>",},"trackColour":4293282034,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[
         {"keyframes":{"Keyframes":[
               {"id":"b69c48ea-add2-4d32-9f64-e7bb13c15236","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
+              {"id":"eaa38eb7-db35-44dc-8f16-24f2db5c80c9","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
               {"id":"9a946a3f-f45c-443f-9a84-dc96d4f3dfe4","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":1.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
               {"id":"c849a07a-308b-4ae9-a507-b8fc2d20adc2","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
               {"id":"41f24ee1-07c9-4606-b51a-b039edfe8992","Key":29.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
@@ -31,7 +32,7 @@
               {"id":"31f6329a-cb24-4d9d-8e6f-311ab253a9ed","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":true,"Channels":{"0":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},"1":{"EmbeddedAnimCurve":null,"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<RealKeyframe>",},
             ],"resourceVersion":"1.0","resourceType":"KeyframeStore<RealKeyframe>",},"trackColour":4293282034,"inheritsTrackColour":true,"builtinName":16,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":true,"resourceVersion":"1.0","name":"origin","tags":[],"resourceType":"GMRealTrack","modifiers":[],},
         {"keyframes":{"Keyframes":[
-              {"id":"db86da60-e998-4b38-8728-5181bdb82172","Key":0.0,"Length":30.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":{"function":2,"channels":[
+              {"id":"6139f2d8-e3a0-4278-aa21-8e4ef168178b","Key":0.0,"Length":30.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"EmbeddedAnimCurve":{"function":2,"channels":[
                         {"colour":4290799884,"visible":true,"points":[
                             {"th0":-0.25,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
                             {"th0":-0.2544392,"th1":0.141653627,"tv0":0.0,"tv1":0.0,"x":0.3424808,"y":0.0,},
@@ -45,7 +46,7 @@
                             {"th0":-0.09333333,"th1":0.00666667242,"tv0":0.0,"tv1":0.0,"x":0.966666639,"y":-0.5333328,},
                             {"th0":-0.00666667242,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-0.5333328,},
                           ],"resourceVersion":"1.0","name":"y","tags":[],"resourceType":"GMAnimCurveChannel",},
-                      ],"parent":{"name":"position","path":"sequences/seq_sword_use/seq_sword_use.yy",},"resourceVersion":"1.2","name":"Position","tags":[],"resourceType":"GMAnimCurve",},"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},"1":{"EmbeddedAnimCurve":{"function":2,"channels":[
+                      ],"parent":{"name":"position","path":"sequences/seq_sword_use/seq_sword_use.yy",},"resourceVersion":"1.2","name":"","tags":[],"resourceType":"GMAnimCurve",},"RealValue":0.0,"AnimCurveId":null,"resourceVersion":"1.0","resourceType":"RealKeyframe",},"1":{"EmbeddedAnimCurve":{"function":2,"channels":[
                         {"colour":4290799884,"visible":true,"points":[
                             {"th0":-0.25,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
                             {"th0":-0.2544392,"th1":0.141653627,"tv0":0.0,"tv1":0.0,"x":0.3424808,"y":0.0,},

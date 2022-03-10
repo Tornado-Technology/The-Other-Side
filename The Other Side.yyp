@@ -42,6 +42,7 @@
     {"id":{"name":"spr_bush","path":"sprites/spr_bush/spr_bush.yy",},"order":0,},
     {"id":{"name":"obj_dry_tree","path":"objects/obj_dry_tree/obj_dry_tree.yy",},"order":0,},
     {"id":{"name":"seq_chiken_jump","path":"sequences/seq_chiken_jump/seq_chiken_jump.yy",},"order":0,},
+    {"id":{"name":"spr_ui_heart","path":"sprites/spr_ui_heart/spr_ui_heart.yy",},"order":16,},
     {"id":{"name":"obj_damage","path":"objects/obj_damage/obj_damage.yy",},"order":13,},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":12,},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":8,},
