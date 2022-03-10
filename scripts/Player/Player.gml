@@ -9,6 +9,19 @@ function player_get_y() {
 }
 
 /// @param value
+function player_add_hp(_value = 1) {
+	if (!instance_exists(obj_player)) return;
+	if (obj_player.hp + 1 > obj_player.hp_max) return;
+	obj_player.hp += abs(_value);
+}
+
+/// @param value
+function player_remove_hp(_value = 1) {
+	if (!instance_exists(obj_player)) return;
+	obj_player.hp -= abs(_value);
+}
+
+/// @param value
 function player_add_money(_value) {
 	if (!instance_exists(obj_player)) return;
 	obj_player.money += abs(_value);

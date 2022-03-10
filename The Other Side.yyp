@@ -47,6 +47,8 @@
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"order":12,},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":8,},
     {"id":{"name":"obj_dry_tree_big","path":"objects/obj_dry_tree_big/obj_dry_tree_big.yy",},"order":1,},
+    {"id":{"name":"obj_heal_potion","path":"objects/obj_heal_potion/obj_heal_potion.yy",},"order":16,},
+    {"id":{"name":"spr_heal_potion","path":"sprites/spr_heal_potion/spr_heal_potion.yy",},"order":17,},
     {"id":{"name":"spr_apple","path":"sprites/spr_apple/spr_apple.yy",},"order":0,},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"order":1,},
     {"id":{"name":"obj_monument","path":"objects/obj_monument/obj_monument.yy",},"order":1,},
@@ -143,7 +145,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "The Other Side",
