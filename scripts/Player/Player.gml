@@ -44,3 +44,10 @@ function player_remove_keys(_value) {
 	if (!instance_exists(obj_player)) return;
 	obj_player.keys = max(obj_player.keys - abs(_value), 0);
 }
+
+/// @param value, time
+function reverse_control(_value, _time) {
+	if (!instance_exists(obj_player)) return;
+	obj_player.control_is_reversed = _value;
+	obj_player.time_reverse = _time;
+}

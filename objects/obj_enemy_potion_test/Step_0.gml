@@ -24,7 +24,7 @@ time_path = period_path % time_path;
 if (distance_to_player < distance_shoot) {
 	time_shoot++;
 	if (time_shoot >= period_shoot) {
-		shoot_to(obj_arrow, x_player, y_player);
+		shoot_to(obj_reverse_potion, x_player, y_player - 20);
 		time_shoot = 0;
 	}
 }

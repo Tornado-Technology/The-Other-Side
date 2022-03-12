@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
+  "bbox_left": 1,
   "bbox_right": 8,
   "bbox_top": 0,
-  "bbox_bottom": 2,
+  "bbox_bottom": 8,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 9,
-  "height": 3,
+  "width": 10,
+  "height": 9,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"78a12f76-5ce9-4695-a5e2-c1df7f90a921","path":"sprites/spr_arrow/spr_arrow.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"78a12f76-5ce9-4695-a5e2-c1df7f90a921","path":"sprites/spr_arrow/spr_arrow.yy",},"LayerId":{"name":"d0a0554b-db50-4371-86c4-f980c2c52198","path":"sprites/spr_arrow/spr_arrow.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},"resourceVersion":"1.0","name":"78a12f76-5ce9-4695-a5e2-c1df7f90a921","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"83faee8b-76dc-40f2-8b66-14f335980575","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"83faee8b-76dc-40f2-8b66-14f335980575","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},"LayerId":{"name":"bb8f7c23-e335-47ac-be70-8a3531770a44","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_reverse_potion","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},"resourceVersion":"1.0","name":"83faee8b-76dc-40f2-8b66-14f335980575","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},
+    "spriteId": {"name":"spr_reverse_potion","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a11bb8ba-c1e8-4d15-b315-73f88065c9e2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"78a12f76-5ce9-4695-a5e2-c1df7f90a921","path":"sprites/spr_arrow/spr_arrow.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ff6742f4-a9ad-4c30-acba-031a2f230c32","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"83faee8b-76dc-40f2-8b66-14f335980575","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -54,18 +54,18 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 8,
-    "yorigin": 1,
+    "xorigin": 5,
+    "yorigin": 5,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},
+    "parent": {"name":"spr_reverse_potion","path":"sprites/spr_reverse_potion/spr_reverse_potion.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_arrow",
+    "name": "spr_reverse_potion",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d0a0554b-db50-4371-86c4-f980c2c52198","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb8f7c23-e335-47ac-be70-8a3531770a44","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Bullets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_arrow",
+  "name": "spr_reverse_potion",
   "tags": [],
   "resourceType": "GMSprite",
 }

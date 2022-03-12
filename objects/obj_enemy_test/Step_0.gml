@@ -1,3 +1,5 @@
+event_inherited();
+
 var x_player = player_get_x();
 var y_player = player_get_y();
 	
@@ -7,6 +9,17 @@ var y_cell = floor(y_player / global.cell_size);
 var cell_div2 = global.cell_size / 2;
 var position_x = x_cell * global.cell_size + cell_div2;
 var position_y = y_cell * global.cell_size + cell_div2;
-	
-mp_grid_path(global.grid, path, x + cell_div2, y + cell_div2, position_x, position_y, true);
-path_start(path, 2, path_action_stop, false);
+
+if (collision_circle(x, y, global.cell_size, obj_wall, false, true)) {
+	speed = 0;
+	time_path++;
+	time_path = period_path % time_path;
+	if (time_path == 0) {
+		mp_grid_path(global.grid, path, x + cell_div2, y + cell_div2, position_x, position_y, true);
+		path_start(path, 2, path_action_stop, false);
+	}
+}
+else {
+	speed = 2;
+	direction = point_direction(x, y, position_x, position_y);
+}

@@ -1,12 +1,15 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_lava_bullet",
+    "path": "sprites/spr_lava_bullet/spr_lava_bullet.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_entity",
-    "path": "objects/obj_entity/obj_entity.yy",
+    "name": "obj_bullet",
+    "path": "objects/obj_bullet/obj_bullet.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +30,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "A - Base",
-    "path": "folders/Objects/Entity/A - Base.yy",
+    "name": "Bullets",
+    "path": "folders/Objects/Bullets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy",
+  "name": "obj_lava_bullet",
   "tags": [],
   "resourceType": "GMObject",
 }
