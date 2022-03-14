@@ -32,7 +32,7 @@
     "path": "folders/Objects/System.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obg_generator",
+  "name": "obj_generator",
   "tags": [],
   "resourceType": "GMObject",
 }

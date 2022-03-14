@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"font_fight_stat","path":"fonts/font_fight_stat/font_fight_stat.yy",},"order":0,},
-    {"id":{"name":"obg_generator","path":"objects/obg_generator/obg_generator.yy",},"order":0,},
+    {"id":{"name":"obj_generator","path":"objects/obj_generator/obj_generator.yy",},"order":0,},
     {"id":{"name":"obj_adrenalin","path":"objects/obj_adrenalin/obj_adrenalin.yy",},"order":0,},
     {"id":{"name":"obj_ally","path":"objects/obj_ally/obj_ally.yy",},"order":0,},
     {"id":{"name":"obj_apple","path":"objects/obj_apple/obj_apple.yy",},"order":1,},
