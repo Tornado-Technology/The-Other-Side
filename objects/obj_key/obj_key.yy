@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "PickUps",
+    "path": "folders/Objects/PickUps.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_key",

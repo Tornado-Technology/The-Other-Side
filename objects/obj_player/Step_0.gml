@@ -1,9 +1,10 @@
 event_inherited();
-
+cooldown = approach(cooldown, 0, 1);
 attack();
 move();
 collision();
 flip();
+
 
 inv = approach(inv, 0, 1);
 heal_color_time = approach(heal_color_time, 0, 1);

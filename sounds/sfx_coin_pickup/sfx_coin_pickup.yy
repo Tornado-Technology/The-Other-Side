@@ -8,8 +8,8 @@
   "type": 0,
   "bitDepth": 0,
   "audioGroupId": {
-    "name": "audiogroup_sfx",
-    "path": "audiogroups/audiogroup_sfx",
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sfx_coin_pickup.wav",
   "duration": 1.102177,

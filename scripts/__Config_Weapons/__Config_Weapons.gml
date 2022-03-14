@@ -1,11 +1,12 @@
 global.weapons_array = [];
 enum WEAPON_ID {
 	SWORD = 0,
-	BOW = 0
+	BOW = 1,
+	GUN = 10
 }
 
 #region WEAPON_ID.SWORD[0]
-global.weapons_array[WEAPON_ID.SWORD] = new Weapon(spr_weapon_sword, "Sword", "The basic sword", 
+global.weapons_array[WEAPON_ID.SWORD] = new Weapon(spr_weapon_sword, "Sword", obj_sword, "The basic sword", 
 function(_player, _dir) { //Use
 	var _y = _player.y - _player.sprite_height / 2;
 	var _x = _player.x;
@@ -41,7 +42,7 @@ function(_player, _dir) { //Use
 	var draw_y = _player.y + (draw_dir == DIR.DOWN  ? draw_offset_y : (draw_dir == DIR.UP   ? -draw_offset_y : 0)) - 10;
 		
 	var draw_xscale = (draw_dir == DIR.RIGHT ? 1 : -1);
-	var draw_yscale = (draw_dir == DIR.UP ?   1 : -1);
+	var draw_yscale = (draw_dir == DIR.UP ? 1 : -1);
 	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
 	
 	if (instance_exists(obj_weapon_sword_crutch)) {
@@ -55,10 +56,10 @@ function(_player, _dir) { //Use
 	} else {
 		draw_sprite_ext(spr_weapon_sword, 0, draw_x, draw_y, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
 	}
-}).icon_def(-1, 14, 90)
+}).set_cooldown(20).icon_def(-1, 14, 90);
 #endregion
-#region WEAPON_IU.BOW[0]
-global.weapons_array[WEAPON_ID.BOW] = new Weapon(spr_weapon_bow, "Bow", "...SHOOT!", 
+#region WEAPON_IU.BOW[1]
+global.weapons_array[WEAPON_ID.BOW] = new Weapon(spr_weapon_bow, "Bow", obj_bow, "...SHOOT!", 
 function(_player, _dir) {
 	var _y = _player.y - _player.sprite_height / 2;
 	var _x = _player.x;
@@ -76,9 +77,32 @@ function(_player, _dir) {
 	var draw_y = _player.y + (draw_dir == DIR.DOWN  ? draw_offset_y : (draw_dir == DIR.UP   ? -draw_offset_y : 0)) - 10;
 		
 	var draw_xscale = (draw_dir == DIR.RIGHT ? 1 : -1);
-	var draw_yscale = (draw_dir == DIR.UP ?   1 : -1);
+	var draw_yscale = (draw_dir == DIR.UP ? 1 : -1);
 	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
 	
 	draw_sprite_ext(spr_weapon_bow, 0, draw_x, draw_y, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
-}).icon_def(3, 4, 0);
+}).set_cooldown(15).set_autouse(true).icon_def(3, 4, 0);
+global.weapons_array[WEAPON_ID.GUN] = new Weapon(spr_weapon_gun, "Gun", obj_gun, "RATATATA!",
+function(_player, _dir) {
+	var _y = _player.y - _player.sprite_height / 2;
+	var _x = _player.x;
+	
+	var inst = instance_create_depth(_x, _y + 2, _player.depth, obj_gun_bullet);
+	inst.direction = _dir;
+}, function(_player, _dir) {
+	var draw_dir = _player.use_dir;
+	_player.weapon_depth = (draw_dir == DIR.UP ? -1 : 1);
+	
+	var draw_offset_x = 0;
+	var draw_offset_y = 7;
+		
+	var draw_x = _player.x + (draw_dir == DIR.RIGHT ? draw_offset_x : (draw_dir == DIR.LEFT ? -draw_offset_x : 0));
+	var draw_y = _player.y + (draw_dir == DIR.DOWN  ? draw_offset_y : (draw_dir == DIR.UP   ? -draw_offset_y : 0)) - 10;
+		
+	var draw_xscale = (draw_dir == DIR.RIGHT ? 1 : -1);
+	var draw_yscale = (draw_dir == DIR.UP ? -1 : 1);
+	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
+	
+	draw_sprite_ext(spr_weapon_gun, 0, draw_x, draw_y + 3, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
+}).set_cooldown(5).set_autouse(true).icon_def(-2, 4, 0);
 #endregion

@@ -1,6 +1,8 @@
 /// @desc Collision check & Animation
 depth = -bbox_bottom + wave(create_y, create_y + 7, 1, animation_offset);
 
+speed = approach(speed, 0, 0.05);
+
 // Main
 if (collision_circle(x, y, distance, obj_player, false, false) && !is_picked) is_picked = true;
 

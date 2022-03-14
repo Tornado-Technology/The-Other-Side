@@ -7,6 +7,14 @@ function player_get_y() {
 	if (!instance_exists(obj_player)) return -1;
 	return obj_player.y;
 }
+function player_set_weapon(_weapon) {
+	if (!instance_exists(obj_player)) return;
+	var inst = instance_create_depth(obj_player.x + 8, obj_player.y - 8, obj_player.depth, obj_player.weapon.item);
+	inst.pickable = false;
+	inst.is_picked = false;
+	with (inst) { motion_add(obj_player.use_dir, 1.5) alarm[0] = 60; };
+	obj_player.weapon = _weapon;
+}
 
 /// @param value
 function player_add_hp(_value = 1) {

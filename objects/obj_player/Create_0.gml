@@ -9,6 +9,7 @@ hp_max = 5;
 // Inv
 inv = 0;
 inv_max = 20;
+cooldown = 0;
 
 // Speed
 speed_max = 2;
@@ -45,18 +46,17 @@ weapon_depth = -1;
 
 // -----> Functions <---- \\
 function attack() {
-	if (keyboard_check_pressed(vk_left)) { weapon.use(id, DIR.LEFT); use_dir = DIR.LEFT; return; }
-	if (keyboard_check_pressed(vk_right)) { weapon.use(id, DIR.RIGHT); use_dir = DIR.RIGHT; return; }
-	if (keyboard_check_pressed(vk_up)) { weapon.use(id, DIR.UP); use_dir = DIR.UP; return; }
-	if (keyboard_check_pressed(vk_down)) { weapon.use(id, DIR.DOWN); use_dir = DIR.DOWN; return; }
+	if (cooldown > 0) return;
+	cooldown = weapon.cooldown;
+	
+	if (keyboard_check(vk_left))  { weapon.use(id, DIR.LEFT);  use_dir = DIR.LEFT;  return; }
+	if (keyboard_check(vk_right)) { weapon.use(id, DIR.RIGHT); use_dir = DIR.RIGHT; return; }
+	if (keyboard_check(vk_up))    { weapon.use(id, DIR.UP);    use_dir = DIR.UP;    return; }
+	if (keyboard_check(vk_down))  { weapon.use(id, DIR.DOWN);  use_dir = DIR.DOWN;  return; }
 }
 
 function flip() {
-	var new_scale = sign(speed_h);
-	
-	if (new_scale == 0) return; 
-	
-	image_xscale = new_scale;
+	image_xscale = use_dir == DIR.RIGHT ? 1 : -1;;
 }
 
 function move() {

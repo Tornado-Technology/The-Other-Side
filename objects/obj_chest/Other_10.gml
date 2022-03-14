@@ -2,6 +2,9 @@ repeat(irandom_range(12, 27)) {
 	array_push(loot_insts, instance_create_depth(x, y - 5, 0, obj_coin));
 }
 
+if (irandom_range(0, 100) <= 40) {
+	array_push(loot_insts, instance_create_depth(x, y - 5, 0, obj_bow));
+}
 is_disappear = true;
 
 for (var i = 0; i < array_length(loot_insts); i++) {

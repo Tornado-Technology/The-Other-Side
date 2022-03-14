@@ -1,3 +1,5 @@
+event_inherited();
+
 var x_player = player_get_x();
 var y_player = player_get_y();
 	
