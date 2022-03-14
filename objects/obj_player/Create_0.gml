@@ -25,6 +25,7 @@ speed_h = 0;
 speed_v = 0;
 control_is_reversed = false;
 time_reverse = 0;
+adrenalin_time = 0;
 
 // Direction
 dir = DIR.RIGHT;
@@ -57,13 +58,18 @@ function move() {
 	var input_h = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 	var input_v = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 	
-	if (control_is_reversed) {
+	if (time_reverse > 0) {
 		input_h = -input_h;
 		input_v = -input_v;
 		time_reverse--;
-		if (time_reverse <= 0)
-			control_is_reversed = false;
 	}
+	
+	if (adrenalin_time > 0) {
+		speed_max = 3;
+		adrenalin_time--;
+	}
+	else
+		speed_max = 2;
 	
 	sprite_index = spr_player_idle;
 	if (input_h != 0 || input_v != 0) {

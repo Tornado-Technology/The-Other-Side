@@ -45,9 +45,19 @@ function player_remove_keys(_value) {
 	obj_player.keys = max(obj_player.keys - abs(_value), 0);
 }
 
-/// @param value, time
-function reverse_control(_value, _time) {
+/// @param sec
+function reverse_control(_sec) {
 	if (!instance_exists(obj_player)) return;
-	obj_player.control_is_reversed = _value;
-	obj_player.time_reverse = _time;
+	obj_player.time_reverse = _sec * room_speed;
+}
+
+function player_control_is_reversed(_sec) {
+	if (!instance_exists(obj_player)) return;
+	return obj_player.time_reverse > 0;
+}
+
+/// @param sec
+function player_adrenalin(_sec) {
+	if (!instance_exists(obj_player)) return;
+	obj_player.adrenalin_time = 20 * room_speed;
 }
