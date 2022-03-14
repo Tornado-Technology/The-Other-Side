@@ -1,0 +1,1 @@
+global.water_wave = wave(0, 7, 2, 0)

@@ -6,6 +6,10 @@ event_inherited();
 hp = 2;
 hp_max = 5;
 
+// Inv
+inv = 0;
+inv_max = 20;
+
 // Speed
 speed_max = 2;
 
@@ -23,12 +27,15 @@ keys  = 0;
 can_move = true;
 speed_h = 0;
 speed_v = 0;
+heal_color_time = 0;
 control_is_reversed = false;
 time_reverse = 0;
 adrenalin_time = 0;
+is_draw = true;
 
 // Direction
 dir = DIR.RIGHT;
+use_dir = DIR.RIGHT;
 
 // Weapons
 weapon = weapon_get(WEAPON_ID.SWORD);
@@ -38,10 +45,10 @@ weapon_depth = -1;
 
 // -----> Functions <---- \\
 function attack() {
-	if (keyboard_check_pressed(vk_left))  weapon.use(id, DIR.LEFT);
-	if (keyboard_check_pressed(vk_right)) weapon.use(id, DIR.RIGHT);
-	if (keyboard_check_pressed(vk_up))    weapon.use(id, DIR.UP);
-	if (keyboard_check_pressed(vk_down))  weapon.use(id, DIR.DOWN);
+	if (keyboard_check_pressed(vk_left)) { weapon.use(id, DIR.LEFT); use_dir = DIR.LEFT; return; }
+	if (keyboard_check_pressed(vk_right)) { weapon.use(id, DIR.RIGHT); use_dir = DIR.RIGHT; return; }
+	if (keyboard_check_pressed(vk_up)) { weapon.use(id, DIR.UP); use_dir = DIR.UP; return; }
+	if (keyboard_check_pressed(vk_down)) { weapon.use(id, DIR.DOWN); use_dir = DIR.DOWN; return; }
 }
 
 function flip() {

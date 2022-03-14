@@ -11,13 +11,28 @@ function player_get_y() {
 /// @param value
 function player_add_hp(_value = 1) {
 	if (!instance_exists(obj_player)) return;
-	if (obj_player.hp + 1 > obj_player.hp_max) return;
+	if (obj_player.hp + _value > obj_player.hp_max) return;
+	obj_player.heal_color_time = 60;
 	obj_player.hp += abs(_value);
 }
+
+function player_get_hp() {
+	if (!instance_exists(obj_player)) return;
+	return obj_player.hp;
+}
+
+function player_get_hp_max() {
+	if (!instance_exists(obj_player)) return;
+	return obj_player.hp_max;
+}
+
 
 /// @param value
 function player_remove_hp(_value = 1) {
 	if (!instance_exists(obj_player)) return;
+	if (obj_player.inv > 0) return;
+	obj_player.image_yscale = 0.5;
+	obj_player.inv = obj_player.inv_max;
 	obj_player.hp -= abs(_value);
 }
 

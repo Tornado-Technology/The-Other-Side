@@ -9,4 +9,5 @@ if (target_distance > 10) exit;
 if (player_get_keys() <= 0) exit;
 is_open = true;
 player_remove_keys(1);
+create_sfx_ex(c_orange);
 image_speed = 1;

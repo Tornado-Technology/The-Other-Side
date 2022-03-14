@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Technical",
+    "path": "folders/Sprites/Technical.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_damage_slah",

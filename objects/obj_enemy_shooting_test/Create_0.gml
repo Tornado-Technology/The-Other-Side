@@ -1,3 +1,8 @@
+event_inherited();
+
+hp = 2;
+hp_max = 2;
+
 path = path_add();
 is_moving = true;
 
@@ -10,3 +15,6 @@ time_path = 0;
 period_path = 30;
 
 stop = false;
+
+x_player = 0;
+y_player = 0;

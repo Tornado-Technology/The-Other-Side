@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bullet_arow",
+    "path": "sprites/spr_bullet_arow/spr_bullet_arow.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

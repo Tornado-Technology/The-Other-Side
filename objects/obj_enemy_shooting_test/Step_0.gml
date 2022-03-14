@@ -1,5 +1,7 @@
-var x_player = player_get_x();
-var y_player = player_get_y();
+event_inherited();
+
+x_player = player_get_x();
+y_player = player_get_y();
 	
 var x_cell = floor(x_player / global.cell_size);
 var y_cell = floor(y_player / global.cell_size);
@@ -16,7 +18,7 @@ else
 
 if (time_path == 0 && !stop) {
 	mp_grid_path(global.grid, path, x + cell_div2, y + cell_div2, position_x, position_y, true);
-	path_start(path, 2, path_action_stop, false);
+	path_start(path, 1, path_action_stop, false);
 }
 time_path++;
 time_path = period_path % time_path;

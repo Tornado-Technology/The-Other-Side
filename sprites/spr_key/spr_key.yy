@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Items",
-    "path": "folders/Sprites/Items.yy",
+    "name": "PickUps",
+    "path": "folders/Sprites/PickUps.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_key",

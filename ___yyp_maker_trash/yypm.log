@@ -1,0 +1,2071 @@
+You are using YYP Maker v1.1.2, released in 11-04-2021
+
+
+
+[14-03-2022 18:43:05] Initialized GameMaker Project: The Other Side.yyp
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/animcurves
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/datafiles
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/extensions
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/fonts
+[14-03-2022 18:43:05] Checking font_fight_stat
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/fonts/font_fight_stat
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/fonts/font_fight_stat
+[14-03-2022 18:43:05] Checking font_fight_stat.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/fonts/font_fight_stat/font_fight_stat.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/fonts/font_fight_stat/font_fight_stat.yy
+[14-03-2022 18:43:05] Par: "folders/Fonts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/fonts/font_fight_stat/font_fight_stat.yy"
+[14-03-2022 18:43:05] Found Font: font_fight_stat
+[14-03-2022 18:43:05] Checking font_fight_stat.png
+[14-03-2022 18:43:05] Checking font_fight_stat.otf
+[14-03-2022 18:43:05] Checking font_fight_stat.old.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/notes
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects
+[14-03-2022 18:43:05] Checking obj_weapon_sword_crutch
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_weapon_sword_crutch
+[14-03-2022 18:43:05] Checking obj_wave
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wave
+[14-03-2022 18:43:05] Checking obj_water_static
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water_static
+[14-03-2022 18:43:05] Checking obj_water
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water
+[14-03-2022 18:43:05] Checking obj_wall_half
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall_half
+[14-03-2022 18:43:05] Checking obj_wall
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall
+[14-03-2022 18:43:05] Checking obj_tree
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_tree
+[14-03-2022 18:43:05] Checking obj_sfx_fade
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_sfx_fade
+[14-03-2022 18:43:05] Checking obj_reverse_zone
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_zone
+[14-03-2022 18:43:05] Checking obj_reverse_potion
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_potion
+[14-03-2022 18:43:05] Checking obj_player_gui
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_gui
+[14-03-2022 18:43:05] Checking obj_player_dummy
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_dummy
+[14-03-2022 18:43:05] Checking obj_player
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player
+[14-03-2022 18:43:05] Checking obj_pickup
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_pickup
+[14-03-2022 18:43:05] Checking obj_particle
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_particle
+[14-03-2022 18:43:05] Checking obj_neutral
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_neutral
+[14-03-2022 18:43:05] Checking obj_monument_rock
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument_rock
+[14-03-2022 18:43:05] Checking obj_monument
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument
+[14-03-2022 18:43:05] Checking obj_menu
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_menu
+[14-03-2022 18:43:05] Checking obj_lava_bullet
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_lava_bullet
+[14-03-2022 18:43:05] Checking obj_key
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_key
+[14-03-2022 18:43:05] Checking obj_heal_potion
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_heal_potion
+[14-03-2022 18:43:05] Checking obj_grid
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_grid
+[14-03-2022 18:43:05] Checking obj_entity
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_entity
+[14-03-2022 18:43:05] Checking obj_enemy_test
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_test
+[14-03-2022 18:43:05] Checking obj_enemy_shooting_test
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_shooting_test
+[14-03-2022 18:43:05] Checking obj_enemy_potion_test
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_potion_test
+[14-03-2022 18:43:05] Checking obj_enemy
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy
+[14-03-2022 18:43:05] Checking obj_dry_tree_big
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree_big
+[14-03-2022 18:43:05] Checking obj_dry_tree
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree
+[14-03-2022 18:43:05] Checking obj_damage
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_damage
+[14-03-2022 18:43:05] Checking obj_coin
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_coin
+[14-03-2022 18:43:05] Checking obj_chiken
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chiken
+[14-03-2022 18:43:05] Checking obj_chest
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chest
+[14-03-2022 18:43:05] Checking obj_camera
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_camera
+[14-03-2022 18:43:05] Checking obj_bush
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bush
+[14-03-2022 18:43:05] Checking obj_bullet
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bullet
+[14-03-2022 18:43:05] Checking obj_arrow_player
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow_player
+[14-03-2022 18:43:05] Checking obj_arrow
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow
+[14-03-2022 18:43:05] Checking obj_apple
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_apple
+[14-03-2022 18:43:05] Checking obj_ally
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_ally
+[14-03-2022 18:43:05] Checking obj_adrenalin
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_adrenalin
+[14-03-2022 18:43:05] Checking obg_generator
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obg_generator
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obg_generator
+[14-03-2022 18:43:05] Checking obg_generator.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obg_generator/obg_generator.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obg_generator/obg_generator.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/System" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obg_generator/obg_generator.yy"
+[14-03-2022 18:43:05] Found Object: obg_generator
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_adrenalin
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_adrenalin.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_adrenalin/obj_adrenalin.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_adrenalin/obj_adrenalin.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_adrenalin/obj_adrenalin.yy"
+[14-03-2022 18:43:05] Found Object: obj_adrenalin
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_ally
+[14-03-2022 18:43:05] Checking obj_ally.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_ally/obj_ally.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_ally/obj_ally.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/A - Base" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_ally/obj_ally.yy"
+[14-03-2022 18:43:05] Found Object: obj_ally
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_apple
+[14-03-2022 18:43:05] Checking obj_apple.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_apple/obj_apple.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_apple/obj_apple.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_apple/obj_apple.yy"
+[14-03-2022 18:43:05] Found Object: obj_apple
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_arrow.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow/obj_arrow.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow/obj_arrow.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow/obj_arrow.yy"
+[14-03-2022 18:43:05] Found Object: obj_arrow
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow_player
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_arrow_player.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow_player/obj_arrow_player.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow_player/obj_arrow_player.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_arrow_player/obj_arrow_player.yy"
+[14-03-2022 18:43:05] Found Object: obj_arrow_player
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Checking Collision_obj_enemy.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bullet
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_bullet.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bullet/obj_bullet.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bullet/obj_bullet.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bullet/obj_bullet.yy"
+[14-03-2022 18:43:05] Found Object: obj_bullet
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bush
+[14-03-2022 18:43:05] Checking Other_11.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_bush.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bush/obj_bush.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bush/obj_bush.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_bush/obj_bush.yy"
+[14-03-2022 18:43:05] Found Object: obj_bush
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_camera
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_4.gml
+[14-03-2022 18:43:05] Checking obj_camera.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_camera/obj_camera.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_camera/obj_camera.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/System" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_camera/obj_camera.yy"
+[14-03-2022 18:43:05] Found Object: obj_camera
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chest
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_7.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_chest.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chest/obj_chest.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chest/obj_chest.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chest/obj_chest.yy"
+[14-03-2022 18:43:05] Found Object: obj_chest
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Alarm_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chiken
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_chiken.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chiken/obj_chiken.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chiken/obj_chiken.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/Ally" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_chiken/obj_chiken.yy"
+[14-03-2022 18:43:05] Found Object: obj_chiken
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_coin
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_coin.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_coin/obj_coin.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_coin/obj_coin.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_coin/obj_coin.yy"
+[14-03-2022 18:43:05] Found Object: obj_coin
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_damage
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_damage.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_damage/obj_damage.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_damage/obj_damage.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_damage/obj_damage.yy"
+[14-03-2022 18:43:05] Found Object: obj_damage
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_enemy.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_dry_tree.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree/obj_dry_tree.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree/obj_dry_tree.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree/obj_dry_tree.yy"
+[14-03-2022 18:43:05] Found Object: obj_dry_tree
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree_big
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_dry_tree_big.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree_big/obj_dry_tree_big.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree_big/obj_dry_tree_big.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_dry_tree_big/obj_dry_tree_big.yy"
+[14-03-2022 18:43:05] Found Object: obj_dry_tree_big
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy
+[14-03-2022 18:43:05] Checking Step_2.gml
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_enemy.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy/obj_enemy.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy/obj_enemy.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/A - Base" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy/obj_enemy.yy"
+[14-03-2022 18:43:05] Found Object: obj_enemy
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_potion_test
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_8.gml
+[14-03-2022 18:43:05] Checking obj_enemy_potion_test.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_potion_test/obj_enemy_potion_test.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_potion_test/obj_enemy_potion_test.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/Enemy" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_potion_test/obj_enemy_potion_test.yy"
+[14-03-2022 18:43:05] Found Object: obj_enemy_potion_test
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_shooting_test
+[14-03-2022 18:43:05] Checking Step_1.gml
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_8.gml
+[14-03-2022 18:43:05] Checking obj_enemy_shooting_test.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_shooting_test/obj_enemy_shooting_test.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_shooting_test/obj_enemy_shooting_test.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/Enemy" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_shooting_test/obj_enemy_shooting_test.yy"
+[14-03-2022 18:43:05] Found Object: obj_enemy_shooting_test
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Destroy_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_test
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_8.gml
+[14-03-2022 18:43:05] Checking obj_enemy_test.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_test/obj_enemy_test.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_test/obj_enemy_test.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/Enemy" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_enemy_test/obj_enemy_test.yy"
+[14-03-2022 18:43:05] Found Object: obj_enemy_test
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Destroy_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_entity
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_entity.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_entity/obj_entity.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_entity/obj_entity.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/A - Base" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_entity/obj_entity.yy"
+[14-03-2022 18:43:05] Found Object: obj_entity
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_grid
+[14-03-2022 18:43:05] Checking obj_grid.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_grid/obj_grid.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_grid/obj_grid.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/System" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_grid/obj_grid.yy"
+[14-03-2022 18:43:05] Found Object: obj_grid
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_heal_potion
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_heal_potion.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_heal_potion/obj_heal_potion.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_heal_potion/obj_heal_potion.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_heal_potion/obj_heal_potion.yy"
+[14-03-2022 18:43:05] Found Object: obj_heal_potion
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_key
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_key.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_key/obj_key.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_key/obj_key.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_key/obj_key.yy"
+[14-03-2022 18:43:05] Found Object: obj_key
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_lava_bullet
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_lava_bullet.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_lava_bullet/obj_lava_bullet.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_lava_bullet/obj_lava_bullet.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_lava_bullet/obj_lava_bullet.yy"
+[14-03-2022 18:43:05] Found Object: obj_lava_bullet
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_menu
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_menu.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_menu/obj_menu.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_menu/obj_menu.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/System" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_menu/obj_menu.yy"
+[14-03-2022 18:43:05] Found Object: obj_menu
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_monument.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument/obj_monument.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument/obj_monument.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument/obj_monument.yy"
+[14-03-2022 18:43:05] Found Object: obj_monument
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument_rock
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_monument_rock.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument_rock/obj_monument_rock.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument_rock/obj_monument_rock.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_monument_rock/obj_monument_rock.yy"
+[14-03-2022 18:43:05] Found Object: obj_monument_rock
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_neutral
+[14-03-2022 18:43:05] Checking obj_neutral.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_neutral/obj_neutral.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_neutral/obj_neutral.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity/A - Base" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_neutral/obj_neutral.yy"
+[14-03-2022 18:43:05] Found Object: obj_neutral
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_particle
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_particle.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_particle/obj_particle.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_particle/obj_particle.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_particle/obj_particle.yy"
+[14-03-2022 18:43:05] Found Object: obj_particle
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_pickup
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_pickup.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_pickup/obj_pickup.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_pickup/obj_pickup.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_pickup/obj_pickup.yy"
+[14-03-2022 18:43:05] Found Object: obj_pickup
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_player.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player/obj_player.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player/obj_player.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Entity" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player/obj_player.yy"
+[14-03-2022 18:43:05] Found Object: obj_player
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_wall.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_dummy
+[14-03-2022 18:43:05] Checking Other_7.gml
+[14-03-2022 18:43:05] Checking obj_player_dummy.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_dummy/obj_player_dummy.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_dummy/obj_player_dummy.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/SFX" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_dummy/obj_player_dummy.yy"
+[14-03-2022 18:43:05] Found Object: obj_player_dummy
+[14-03-2022 18:43:05] Checking Draw_75.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_gui
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_player_gui.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_gui/obj_player_gui.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_gui/obj_player_gui.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_player_gui/obj_player_gui.yy"
+[14-03-2022 18:43:05] Found Object: obj_player_gui
+[14-03-2022 18:43:05] Checking Draw_64.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_potion
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_reverse_potion.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_potion/obj_reverse_potion.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_potion/obj_reverse_potion.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_potion/obj_reverse_potion.yy"
+[14-03-2022 18:43:05] Found Object: obj_reverse_potion
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_zone
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_reverse_zone.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_zone/obj_reverse_zone.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_zone/obj_reverse_zone.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_reverse_zone/obj_reverse_zone.yy"
+[14-03-2022 18:43:05] Found Object: obj_reverse_zone
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_sfx_fade
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_sfx_fade.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_sfx_fade/obj_sfx_fade.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_sfx_fade/obj_sfx_fade.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/SFX" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_sfx_fade/obj_sfx_fade.yy"
+[14-03-2022 18:43:05] Found Object: obj_sfx_fade
+[14-03-2022 18:43:05] Checking Draw_64.gml
+[14-03-2022 18:43:05] Checking Destroy_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Alarm_1.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_tree
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_11.gml
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_tree.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_tree/obj_tree.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_tree/obj_tree.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_tree/obj_tree.yy"
+[14-03-2022 18:43:05] Found Object: obj_tree
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Checking Collision_obj_damage.gml
+[14-03-2022 18:43:05] Checking Collision_obj_bullet.gml
+[14-03-2022 18:43:05] Checking Collision_obj_arrow_player.gml
+[14-03-2022 18:43:05] Checking Alarm_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall
+[14-03-2022 18:43:05] Checking Other_10.gml
+[14-03-2022 18:43:05] Checking obj_wall.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall/obj_wall.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall/obj_wall.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Collision" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall/obj_wall.yy"
+[14-03-2022 18:43:05] Found Object: obj_wall
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall_half
+[14-03-2022 18:43:05] Checking obj_wall_half.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall_half/obj_wall_half.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall_half/obj_wall_half.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Collision" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wall_half/obj_wall_half.yy"
+[14-03-2022 18:43:05] Found Object: obj_wall_half
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking Other_40.gml
+[14-03-2022 18:43:05] Checking obj_water.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water/obj_water.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water/obj_water.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Collision" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water/obj_water.yy"
+[14-03-2022 18:43:05] Found Object: obj_water
+[14-03-2022 18:43:05] Checking Draw_0.gml
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water_static
+[14-03-2022 18:43:05] Checking obj_water_static.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water_static/obj_water_static.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water_static/obj_water_static.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/Collision" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_water_static/obj_water_static.yy"
+[14-03-2022 18:43:05] Found Object: obj_water_static
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wave
+[14-03-2022 18:43:05] Checking Step_0.gml
+[14-03-2022 18:43:05] Checking obj_wave.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wave/obj_wave.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wave/obj_wave.yy
+[14-03-2022 18:43:05] Par: "folders/Objects/System" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_wave/obj_wave.yy"
+[14-03-2022 18:43:05] Found Object: obj_wave
+[14-03-2022 18:43:05] Checking Create_0.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_weapon_sword_crutch
+[14-03-2022 18:43:05] Checking Other_7.gml
+[14-03-2022 18:43:05] Checking obj_weapon_sword_crutch.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_weapon_sword_crutch/obj_weapon_sword_crutch.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_weapon_sword_crutch/obj_weapon_sword_crutch.yy
+[14-03-2022 18:43:05] Par: "folders/Objects" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/objects/obj_weapon_sword_crutch/obj_weapon_sword_crutch.yy"
+[14-03-2022 18:43:05] Found Object: obj_weapon_sword_crutch
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options
+[14-03-2022 18:43:05] Checking windows
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/windows
+[14-03-2022 18:43:05] Checking operagx
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/operagx
+[14-03-2022 18:43:05] Checking main
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/main
+[14-03-2022 18:43:05] Checking mac
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/mac
+[14-03-2022 18:43:05] Checking linux
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/linux
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/linux
+[14-03-2022 18:43:05] Checking options_linux.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/options/linux/options_linux.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/options/linux/options_linux.yy
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/mac
+[14-03-2022 18:43:05] Checking options_mac.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/options/mac/options_mac.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/options/mac/options_mac.yy
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/main
+[14-03-2022 18:43:05] Checking template_icon.png
+[14-03-2022 18:43:05] Checking options_main.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/options/main/options_main.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/options/main/options_main.yy
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/operagx
+[14-03-2022 18:43:05] Checking options_operagx.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/options/operagx/options_operagx.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/options/operagx/options_operagx.yy
+[14-03-2022 18:43:05] Invalid file: options_operagx.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/windows
+[14-03-2022 18:43:05] Checking options_windows.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/options/windows/options_windows.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/options/windows/options_windows.yy
+[14-03-2022 18:43:05] Checking icons
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/windows/icons
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/options/windows/icons
+[14-03-2022 18:43:05] Checking icon.ico
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/paths
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/rooms
+[14-03-2022 18:43:05] Checking room_menu
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_menu
+[14-03-2022 18:43:05] Checking room_1
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_1
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_1
+[14-03-2022 18:43:05] Checking room_1.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_1/room_1.yy
+[14-03-2022 18:43:05] Invalid .yy file: D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_1/room_1.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_1/room_1.yy
+[14-03-2022 18:43:05] Invalid file: room_1.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_menu
+[14-03-2022 18:43:05] Checking room_menu.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_menu/room_menu.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_menu/room_menu.yy
+[14-03-2022 18:43:05] Par: "folders/Rooms" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/rooms/room_menu/room_menu.yy"
+[14-03-2022 18:43:05] Found Room: room_menu
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts
+[14-03-2022 18:43:05] Checking __Config_Weapons
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Weapons
+[14-03-2022 18:43:05] Checking __Config_Rare
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Rare
+[14-03-2022 18:43:05] Checking __Config_Factions
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Factions
+[14-03-2022 18:43:05] Checking __Config_Directions
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Directions
+[14-03-2022 18:43:05] Checking __Config_CoinTypes
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_CoinTypes
+[14-03-2022 18:43:05] Checking Weapon
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Weapon
+[14-03-2022 18:43:05] Checking wave
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/wave
+[14-03-2022 18:43:05] Checking Vector4
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector4
+[14-03-2022 18:43:05] Checking Vector2
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector2
+[14-03-2022 18:43:05] Checking Player
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Player
+[14-03-2022 18:43:05] Checking ennemy_damage
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/ennemy_damage
+[14-03-2022 18:43:05] Checking draw_shader_outine
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/draw_shader_outine
+[14-03-2022 18:43:05] Checking depth_sort
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/depth_sort
+[14-03-2022 18:43:05] Checking create_sfx_ex
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/create_sfx_ex
+[14-03-2022 18:43:05] Checking Camera
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Camera
+[14-03-2022 18:43:05] Checking Bullet
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Bullet
+[14-03-2022 18:43:05] Checking array
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/array
+[14-03-2022 18:43:05] Checking approach
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/approach
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/approach
+[14-03-2022 18:43:05] Checking approach.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/approach/approach.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/approach/approach.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/GMS+/Math" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/approach/approach.yy"
+[14-03-2022 18:43:05] Found Script: approach
+[14-03-2022 18:43:05] Checking approach.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/array
+[14-03-2022 18:43:05] Checking array.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/array/array.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/array/array.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/GMS+/Types/Arrays" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/array/array.yy"
+[14-03-2022 18:43:05] Found Script: array
+[14-03-2022 18:43:05] Checking array.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Bullet
+[14-03-2022 18:43:05] Checking Bullet.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Bullet/Bullet.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Bullet/Bullet.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Bullet/Bullet.yy"
+[14-03-2022 18:43:05] Found Script: Bullet
+[14-03-2022 18:43:05] Checking Bullet.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Camera
+[14-03-2022 18:43:05] Checking Camera.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Camera/Camera.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Camera/Camera.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Camera" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Camera/Camera.yy"
+[14-03-2022 18:43:05] Found Script: Camera
+[14-03-2022 18:43:05] Checking Camera.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/create_sfx_ex
+[14-03-2022 18:43:05] Checking create_sfx_ex.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/create_sfx_ex/create_sfx_ex.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/create_sfx_ex/create_sfx_ex.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/create_sfx_ex/create_sfx_ex.yy"
+[14-03-2022 18:43:05] Found Script: create_sfx_ex
+[14-03-2022 18:43:05] Checking create_sfx_ex.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/depth_sort
+[14-03-2022 18:43:05] Checking depth_sort.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/depth_sort/depth_sort.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/depth_sort/depth_sort.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/depth_sort/depth_sort.yy"
+[14-03-2022 18:43:05] Found Script: depth_sort
+[14-03-2022 18:43:05] Checking depth_sort.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/draw_shader_outine
+[14-03-2022 18:43:05] Checking draw_shader_outine.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/draw_shader_outine/draw_shader_outine.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/draw_shader_outine/draw_shader_outine.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/draw_shader_outine/draw_shader_outine.yy"
+[14-03-2022 18:43:05] Found Script: draw_shader_outine
+[14-03-2022 18:43:05] Checking draw_shader_outine.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/ennemy_damage
+[14-03-2022 18:43:05] Checking ennemy_damage.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/ennemy_damage/ennemy_damage.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/ennemy_damage/ennemy_damage.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/ennemy_damage/ennemy_damage.yy"
+[14-03-2022 18:43:05] Found Script: ennemy_damage
+[14-03-2022 18:43:05] Checking ennemy_damage.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Player
+[14-03-2022 18:43:05] Checking Player.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Player/Player.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Player/Player.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Player/Player.yy"
+[14-03-2022 18:43:05] Found Script: Player
+[14-03-2022 18:43:05] Checking Player.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector2
+[14-03-2022 18:43:05] Checking Vector2.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector2/Vector2.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector2/Vector2.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/GMS+/Math/Vectors" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector2/Vector2.yy"
+[14-03-2022 18:43:05] Found Script: Vector2
+[14-03-2022 18:43:05] Checking Vector2.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector4
+[14-03-2022 18:43:05] Checking Vector4.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector4/Vector4.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector4/Vector4.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/GMS+/Math/Vectors" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Vector4/Vector4.yy"
+[14-03-2022 18:43:05] Found Script: Vector4
+[14-03-2022 18:43:05] Checking Vector4.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/wave
+[14-03-2022 18:43:05] Checking wave.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/wave/wave.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/wave/wave.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/GMS+/Math" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/wave/wave.yy"
+[14-03-2022 18:43:05] Found Script: wave
+[14-03-2022 18:43:05] Checking wave.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Weapon
+[14-03-2022 18:43:05] Checking Weapon.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Weapon/Weapon.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Weapon/Weapon.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts/Engine" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/Weapon/Weapon.yy"
+[14-03-2022 18:43:05] Found Script: Weapon
+[14-03-2022 18:43:05] Checking Weapon.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_CoinTypes
+[14-03-2022 18:43:05] Checking __Config_CoinTypes.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_CoinTypes/__Config_CoinTypes.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_CoinTypes/__Config_CoinTypes.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_CoinTypes/__Config_CoinTypes.yy"
+[14-03-2022 18:43:05] Found Script: __Config_CoinTypes
+[14-03-2022 18:43:05] Checking __Config_CoinTypes.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Directions
+[14-03-2022 18:43:05] Checking __Config_Directions.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Directions/__Config_Directions.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Directions/__Config_Directions.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Directions/__Config_Directions.yy"
+[14-03-2022 18:43:05] Found Script: __Config_Directions
+[14-03-2022 18:43:05] Checking __Config_Directions.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Factions
+[14-03-2022 18:43:05] Checking __Config_Factions.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Factions/__Config_Factions.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Factions/__Config_Factions.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Factions/__Config_Factions.yy"
+[14-03-2022 18:43:05] Found Script: __Config_Factions
+[14-03-2022 18:43:05] Checking __Config_Factions.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Rare
+[14-03-2022 18:43:05] Checking __Config_Rare.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Rare/__Config_Rare.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Rare/__Config_Rare.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Rare/__Config_Rare.yy"
+[14-03-2022 18:43:05] Found Script: __Config_Rare
+[14-03-2022 18:43:05] Checking __Config_Rare.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Weapons
+[14-03-2022 18:43:05] Checking __Config_Weapons.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Weapons/__Config_Weapons.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Weapons/__Config_Weapons.yy
+[14-03-2022 18:43:05] Par: "folders/Scripts" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/scripts/__Config_Weapons/__Config_Weapons.yy"
+[14-03-2022 18:43:05] Found Script: __Config_Weapons
+[14-03-2022 18:43:05] Checking __Config_Weapons.gml
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sequences
+[14-03-2022 18:43:05] Checking seq_coin
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_coin
+[14-03-2022 18:43:05] Checking seq_chiken_jump
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_chiken_jump
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_chiken_jump
+[14-03-2022 18:43:05] Checking seq_chiken_jump.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_chiken_jump/seq_chiken_jump.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_chiken_jump/seq_chiken_jump.yy
+[14-03-2022 18:43:05] Par: "folders/Sequences" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_chiken_jump/seq_chiken_jump.yy"
+[14-03-2022 18:43:05] Found Sequence: seq_chiken_jump
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_coin
+[14-03-2022 18:43:05] Checking seq_coin.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_coin/seq_coin.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_coin/seq_coin.yy
+[14-03-2022 18:43:05] Par: "folders/Sequences" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sequences/seq_coin/seq_coin.yy"
+[14-03-2022 18:43:05] Found Sequence: seq_coin
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/shaders
+[14-03-2022 18:43:05] Checking shd_outline
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/shaders/shd_outline
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/shaders/shd_outline
+[14-03-2022 18:43:05] Checking shd_outline.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/shaders/shd_outline/shd_outline.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/shaders/shd_outline/shd_outline.yy
+[14-03-2022 18:43:05] Par: "folders/Shaders" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/shaders/shd_outline/shd_outline.yy"
+[14-03-2022 18:43:05] Found Shader: shd_outline
+[14-03-2022 18:43:05] Checking shd_outline.vsh
+[14-03-2022 18:43:05] Checking shd_outline.fsh
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sounds
+[14-03-2022 18:43:05] Checking sfx_coin_pickup
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sounds/sfx_coin_pickup
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sounds/sfx_coin_pickup
+[14-03-2022 18:43:05] Checking sfx_coin_pickup.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sounds/sfx_coin_pickup/sfx_coin_pickup.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sounds/sfx_coin_pickup/sfx_coin_pickup.yy
+[14-03-2022 18:43:05] Par: "folders/SFX" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sounds/sfx_coin_pickup/sfx_coin_pickup.yy"
+[14-03-2022 18:43:05] Found Sound: sfx_coin_pickup
+[14-03-2022 18:43:05] Checking sfx_coin_pickup.wav
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites
+[14-03-2022 18:43:05] Checking spr_wood_chest
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest
+[14-03-2022 18:43:05] Checking spr_weapon_sword
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword
+[14-03-2022 18:43:05] Checking spr_weapon_bow_mini
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini
+[14-03-2022 18:43:05] Checking spr_weapon_bow
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow
+[14-03-2022 18:43:05] Checking spr_wall_half
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half
+[14-03-2022 18:43:05] Checking spr_wall
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall
+[14-03-2022 18:43:05] Checking spr_up_button
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button
+[14-03-2022 18:43:05] Checking spr_ui_wepon_box
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box
+[14-03-2022 18:43:05] Checking spr_ui_text_weapon
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon
+[14-03-2022 18:43:05] Checking spr_ui_text_keys
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys
+[14-03-2022 18:43:05] Checking spr_ui_text_coins
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins
+[14-03-2022 18:43:05] Checking spr_ui_heart
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart
+[14-03-2022 18:43:05] Checking spr_tree
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree
+[14-03-2022 18:43:05] Checking spr_tile_water_solid
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid
+[14-03-2022 18:43:05] Checking spr_tile_water
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water
+[14-03-2022 18:43:05] Checking spr_tileset_grass
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass
+[14-03-2022 18:43:05] Checking spr_tileset_first
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first
+[14-03-2022 18:43:05] Checking spr_sfx_square_fall
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall
+[14-03-2022 18:43:05] Checking spr_right_button
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button
+[14-03-2022 18:43:05] Checking spr_reverse_zone
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone
+[14-03-2022 18:43:05] Checking spr_reverse_potion
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion
+[14-03-2022 18:43:05] Checking spr_player_to_fall
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall
+[14-03-2022 18:43:05] Checking spr_player_test
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test
+[14-03-2022 18:43:05] Checking spr_player_run
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run
+[14-03-2022 18:43:05] Checking spr_player_idle
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle
+[14-03-2022 18:43:05] Checking spr_player_fall
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall
+[14-03-2022 18:43:05] Checking spr_particle
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle
+[14-03-2022 18:43:05] Checking spr_monument_rock
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock
+[14-03-2022 18:43:05] Checking spr_monument
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument
+[14-03-2022 18:43:05] Checking spr_left_button
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button
+[14-03-2022 18:43:05] Checking spr_lava_bullet
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet
+[14-03-2022 18:43:05] Checking spr_key
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key
+[14-03-2022 18:43:05] Checking spr_heal_potion
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion
+[14-03-2022 18:43:05] Checking spr_enemy_zombi
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi
+[14-03-2022 18:43:05] Checking spr_enemy_skeleton_idle
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle
+[14-03-2022 18:43:05] Checking spr_dry_tree_big
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big
+[14-03-2022 18:43:05] Checking spr_dry_tree
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree
+[14-03-2022 18:43:05] Checking spr_down_button
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button
+[14-03-2022 18:43:05] Checking spr_damage_slah
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah
+[14-03-2022 18:43:05] Checking spr_coin
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin
+[14-03-2022 18:43:05] Checking spr_chiken
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken
+[14-03-2022 18:43:05] Checking spr_camera
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera
+[14-03-2022 18:43:05] Checking spr_bush
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush
+[14-03-2022 18:43:05] Checking spr_bullet_arow
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow
+[14-03-2022 18:43:05] Checking spr_apple
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple
+[14-03-2022 18:43:05] Checking spr_adrenalin
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin
+[14-03-2022 18:43:05] Checking spr_adrenalin.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/spr_adrenalin.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/spr_adrenalin.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Items" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/spr_adrenalin.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_adrenalin
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/layers
+[14-03-2022 18:43:05] Checking 8186b133-5d9b-49eb-8b59-f1534cd987c0.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/layers
+[14-03-2022 18:43:05] Checking 8186b133-5d9b-49eb-8b59-f1534cd987c0
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/layers/8186b133-5d9b-49eb-8b59-f1534cd987c0
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_adrenalin/layers/8186b133-5d9b-49eb-8b59-f1534cd987c0
+[14-03-2022 18:43:05] Checking eaed3060-55fe-4e38-827a-b8bac02661a7.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple
+[14-03-2022 18:43:05] Checking spr_apple.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/spr_apple.yy
+[14-03-2022 18:43:05] Invalid .yy file: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/spr_apple.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/spr_apple.yy
+[14-03-2022 18:43:05] Invalid file: spr_apple.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/layers
+[14-03-2022 18:43:05] Checking 12923f33-ae83-4ad6-882e-8288d57b012f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/layers
+[14-03-2022 18:43:05] Checking 12923f33-ae83-4ad6-882e-8288d57b012f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/layers/12923f33-ae83-4ad6-882e-8288d57b012f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_apple/layers/12923f33-ae83-4ad6-882e-8288d57b012f
+[14-03-2022 18:43:05] Checking a3b8a637-42fe-4cca-8aad-06eaeb2f00cb.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow
+[14-03-2022 18:43:05] Checking spr_bullet_arow.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/spr_bullet_arow.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/spr_bullet_arow.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Weapons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/spr_bullet_arow.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_bullet_arow
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/layers
+[14-03-2022 18:43:05] Checking 68eda9a8-0219-417b-8b28-705419ee5d48.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/layers
+[14-03-2022 18:43:05] Checking 68eda9a8-0219-417b-8b28-705419ee5d48
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/layers/68eda9a8-0219-417b-8b28-705419ee5d48
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bullet_arow/layers/68eda9a8-0219-417b-8b28-705419ee5d48
+[14-03-2022 18:43:05] Checking 4cd7e5a1-57e4-4c08-b2ec-f20d8de09bce.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush
+[14-03-2022 18:43:05] Checking spr_bush.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/spr_bush.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/spr_bush.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Environment/Bushs" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/spr_bush.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_bush
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers
+[14-03-2022 18:43:05] Checking e9342cb7-92ca-4d74-ba3e-6386126b7a8c.png
+[14-03-2022 18:43:05] Checking bdd6d9df-6b05-44df-819c-298a249dee01.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers
+[14-03-2022 18:43:05] Checking e9342cb7-92ca-4d74-ba3e-6386126b7a8c
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers/e9342cb7-92ca-4d74-ba3e-6386126b7a8c
+[14-03-2022 18:43:05] Checking bdd6d9df-6b05-44df-819c-298a249dee01
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers/bdd6d9df-6b05-44df-819c-298a249dee01
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers/bdd6d9df-6b05-44df-819c-298a249dee01
+[14-03-2022 18:43:05] Checking 4a58a43f-9ba9-4399-ac2e-73424c4770ee.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_bush/layers/e9342cb7-92ca-4d74-ba3e-6386126b7a8c
+[14-03-2022 18:43:05] Checking 4a58a43f-9ba9-4399-ac2e-73424c4770ee.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera
+[14-03-2022 18:43:05] Checking spr_camera.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/spr_camera.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/spr_camera.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Technical" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/spr_camera.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_camera
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/layers
+[14-03-2022 18:43:05] Checking 8bb96c00-afce-466c-8bae-69060f6df788.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/layers
+[14-03-2022 18:43:05] Checking 8bb96c00-afce-466c-8bae-69060f6df788
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/layers/8bb96c00-afce-466c-8bae-69060f6df788
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_camera/layers/8bb96c00-afce-466c-8bae-69060f6df788
+[14-03-2022 18:43:05] Checking 120c0a5a-5efa-4b74-9d7d-5f6a42ebf7aa.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken
+[14-03-2022 18:43:05] Checking spr_chiken.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/spr_chiken.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/spr_chiken.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Ally" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/spr_chiken.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_chiken
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/layers
+[14-03-2022 18:43:05] Checking bc133f36-79f2-4067-ae86-8a81f266bb7f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/layers
+[14-03-2022 18:43:05] Checking bc133f36-79f2-4067-ae86-8a81f266bb7f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/layers/bc133f36-79f2-4067-ae86-8a81f266bb7f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_chiken/layers/bc133f36-79f2-4067-ae86-8a81f266bb7f
+[14-03-2022 18:43:05] Checking 62b4628e-706e-40be-8434-99047f5fe977.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin
+[14-03-2022 18:43:05] Checking spr_coin.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/spr_coin.yy
+[14-03-2022 18:43:05] Invalid .yy file: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/spr_coin.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/spr_coin.yy
+[14-03-2022 18:43:05] Invalid file: spr_coin.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers
+[14-03-2022 18:43:05] Checking c1d54c3e-c5b4-47d5-b078-4d739218f942.png
+[14-03-2022 18:43:05] Checking afc31df5-0210-464e-8eb6-50603c3a9681.png
+[14-03-2022 18:43:05] Checking 3005c7d0-2df5-4909-a1a1-537034ea5534.png
+[14-03-2022 18:43:05] Checking 1a2434aa-5310-462a-b351-9ae9051e6250.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers
+[14-03-2022 18:43:05] Checking c1d54c3e-c5b4-47d5-b078-4d739218f942
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/c1d54c3e-c5b4-47d5-b078-4d739218f942
+[14-03-2022 18:43:05] Checking afc31df5-0210-464e-8eb6-50603c3a9681
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/afc31df5-0210-464e-8eb6-50603c3a9681
+[14-03-2022 18:43:05] Checking 3005c7d0-2df5-4909-a1a1-537034ea5534
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/3005c7d0-2df5-4909-a1a1-537034ea5534
+[14-03-2022 18:43:05] Checking 1a2434aa-5310-462a-b351-9ae9051e6250
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/1a2434aa-5310-462a-b351-9ae9051e6250
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/1a2434aa-5310-462a-b351-9ae9051e6250
+[14-03-2022 18:43:05] Checking 38173e9b-b96a-4dfd-9a69-e6ac96eda7db.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/3005c7d0-2df5-4909-a1a1-537034ea5534
+[14-03-2022 18:43:05] Checking 38173e9b-b96a-4dfd-9a69-e6ac96eda7db.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/afc31df5-0210-464e-8eb6-50603c3a9681
+[14-03-2022 18:43:05] Checking 38173e9b-b96a-4dfd-9a69-e6ac96eda7db.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_coin/layers/c1d54c3e-c5b4-47d5-b078-4d739218f942
+[14-03-2022 18:43:05] Checking 38173e9b-b96a-4dfd-9a69-e6ac96eda7db.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah
+[14-03-2022 18:43:05] Checking spr_damage_slah.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/spr_damage_slah.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/spr_damage_slah.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Technical" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/spr_damage_slah.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_damage_slah
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/layers
+[14-03-2022 18:43:05] Checking 5897e99c-d041-4610-ac85-989cc99ecd20.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/layers
+[14-03-2022 18:43:05] Checking 5897e99c-d041-4610-ac85-989cc99ecd20
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/layers/5897e99c-d041-4610-ac85-989cc99ecd20
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_damage_slah/layers/5897e99c-d041-4610-ac85-989cc99ecd20
+[14-03-2022 18:43:05] Checking 7278684f-9a87-4216-8645-1194ab882e9b.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button
+[14-03-2022 18:43:05] Checking spr_down_button.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/spr_down_button.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/spr_down_button.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Buttons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/spr_down_button.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_down_button
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_down_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Checking f8e9d1eb-399f-435c-bc55-c436b49a62f4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree
+[14-03-2022 18:43:05] Checking spr_dry_tree.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/spr_dry_tree.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/spr_dry_tree.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/spr_dry_tree.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_dry_tree
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/layers
+[14-03-2022 18:43:05] Checking 914cede8-56c2-4dfd-99dd-09613fe93d50.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/layers
+[14-03-2022 18:43:05] Checking 914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/layers/914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree/layers/914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Checking f4e52371-2dd4-40f2-923b-e81b66e85667.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big
+[14-03-2022 18:43:05] Checking spr_dry_tree_big.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/spr_dry_tree_big.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/spr_dry_tree_big.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/spr_dry_tree_big.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_dry_tree_big
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/layers
+[14-03-2022 18:43:05] Checking 914cede8-56c2-4dfd-99dd-09613fe93d50.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/layers
+[14-03-2022 18:43:05] Checking 914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/layers/914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_dry_tree_big/layers/914cede8-56c2-4dfd-99dd-09613fe93d50
+[14-03-2022 18:43:05] Checking f4e52371-2dd4-40f2-923b-e81b66e85667.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle
+[14-03-2022 18:43:05] Checking spr_enemy_skeleton_idle.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/spr_enemy_skeleton_idle.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/spr_enemy_skeleton_idle.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Enemy" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/spr_enemy_skeleton_idle.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_enemy_skeleton_idle
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers
+[14-03-2022 18:43:05] Checking d58e79f1-d3ef-481a-999a-3c0a0dd200c4.png
+[14-03-2022 18:43:05] Checking 96be67ed-1941-46ba-875b-f8190a23064d.png
+[14-03-2022 18:43:05] Checking 7d8a5d02-4a74-4f10-8632-b19f1f0d51ce.png
+[14-03-2022 18:43:05] Checking 3070a790-9e3e-46a0-bc86-73569c6eb260.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers
+[14-03-2022 18:43:05] Checking d58e79f1-d3ef-481a-999a-3c0a0dd200c4
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/d58e79f1-d3ef-481a-999a-3c0a0dd200c4
+[14-03-2022 18:43:05] Checking 96be67ed-1941-46ba-875b-f8190a23064d
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/96be67ed-1941-46ba-875b-f8190a23064d
+[14-03-2022 18:43:05] Checking 7d8a5d02-4a74-4f10-8632-b19f1f0d51ce
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/7d8a5d02-4a74-4f10-8632-b19f1f0d51ce
+[14-03-2022 18:43:05] Checking 3070a790-9e3e-46a0-bc86-73569c6eb260
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/3070a790-9e3e-46a0-bc86-73569c6eb260
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/3070a790-9e3e-46a0-bc86-73569c6eb260
+[14-03-2022 18:43:05] Checking a071c3fa-4bcf-4d6c-88a6-07f213d93c31.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/7d8a5d02-4a74-4f10-8632-b19f1f0d51ce
+[14-03-2022 18:43:05] Checking a071c3fa-4bcf-4d6c-88a6-07f213d93c31.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/96be67ed-1941-46ba-875b-f8190a23064d
+[14-03-2022 18:43:05] Checking a071c3fa-4bcf-4d6c-88a6-07f213d93c31.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_skeleton_idle/layers/d58e79f1-d3ef-481a-999a-3c0a0dd200c4
+[14-03-2022 18:43:05] Checking a071c3fa-4bcf-4d6c-88a6-07f213d93c31.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi
+[14-03-2022 18:43:05] Checking spr_enemy_zombi.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/spr_enemy_zombi.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/spr_enemy_zombi.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Enemy" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/spr_enemy_zombi.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_enemy_zombi
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers
+[14-03-2022 18:43:05] Checking cbe81824-9207-42d4-bf80-c520b17cd9de.png
+[14-03-2022 18:43:05] Checking ca32c3f4-faaf-4c0d-a05d-4c4e8e4a875c.png
+[14-03-2022 18:43:05] Checking 9e959e0c-a029-4b0b-bda0-bda0f7058fc8.png
+[14-03-2022 18:43:05] Checking 7ce5063a-dccd-4796-abc6-35a222321656.png
+[14-03-2022 18:43:05] Checking 1d955797-e417-461a-97d7-58c49495e09f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers
+[14-03-2022 18:43:05] Checking cbe81824-9207-42d4-bf80-c520b17cd9de
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/cbe81824-9207-42d4-bf80-c520b17cd9de
+[14-03-2022 18:43:05] Checking ca32c3f4-faaf-4c0d-a05d-4c4e8e4a875c
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/ca32c3f4-faaf-4c0d-a05d-4c4e8e4a875c
+[14-03-2022 18:43:05] Checking 9e959e0c-a029-4b0b-bda0-bda0f7058fc8
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/9e959e0c-a029-4b0b-bda0-bda0f7058fc8
+[14-03-2022 18:43:05] Checking 7ce5063a-dccd-4796-abc6-35a222321656
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/7ce5063a-dccd-4796-abc6-35a222321656
+[14-03-2022 18:43:05] Checking 1d955797-e417-461a-97d7-58c49495e09f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/1d955797-e417-461a-97d7-58c49495e09f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/1d955797-e417-461a-97d7-58c49495e09f
+[14-03-2022 18:43:05] Checking f5b93469-9974-4d3c-9cda-4a02f7c238e8.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/7ce5063a-dccd-4796-abc6-35a222321656
+[14-03-2022 18:43:05] Checking f5b93469-9974-4d3c-9cda-4a02f7c238e8.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/9e959e0c-a029-4b0b-bda0-bda0f7058fc8
+[14-03-2022 18:43:05] Checking f5b93469-9974-4d3c-9cda-4a02f7c238e8.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/ca32c3f4-faaf-4c0d-a05d-4c4e8e4a875c
+[14-03-2022 18:43:05] Checking f5b93469-9974-4d3c-9cda-4a02f7c238e8.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_enemy_zombi/layers/cbe81824-9207-42d4-bf80-c520b17cd9de
+[14-03-2022 18:43:05] Checking f5b93469-9974-4d3c-9cda-4a02f7c238e8.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion
+[14-03-2022 18:43:05] Checking spr_heal_potion.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/spr_heal_potion.yy
+[14-03-2022 18:43:05] Invalid .yy file: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/spr_heal_potion.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/spr_heal_potion.yy
+[14-03-2022 18:43:05] Invalid file: spr_heal_potion.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/layers
+[14-03-2022 18:43:05] Checking 83faee8b-76dc-40f2-8b66-14f335980575.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/layers
+[14-03-2022 18:43:05] Checking 83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/layers/83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_heal_potion/layers/83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Checking bb8f7c23-e335-47ac-be70-8a3531770a44.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key
+[14-03-2022 18:43:05] Checking spr_key.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/spr_key.yy
+[14-03-2022 18:43:05] Invalid .yy file: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/spr_key.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/spr_key.yy
+[14-03-2022 18:43:05] Invalid file: spr_key.yy, will be moved to ___yyp_maker_trash
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/layers
+[14-03-2022 18:43:05] Checking 3088a645-e0b1-45cf-9e82-4fa516515ac9.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/layers
+[14-03-2022 18:43:05] Checking 3088a645-e0b1-45cf-9e82-4fa516515ac9
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/layers/3088a645-e0b1-45cf-9e82-4fa516515ac9
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_key/layers/3088a645-e0b1-45cf-9e82-4fa516515ac9
+[14-03-2022 18:43:05] Checking a845cf37-b2d0-4bff-a732-7c4896fbd026.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet
+[14-03-2022 18:43:05] Checking spr_lava_bullet.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/spr_lava_bullet.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/spr_lava_bullet.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/spr_lava_bullet.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_lava_bullet
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers
+[14-03-2022 18:43:05] Checking d6849fae-3e7b-496e-a80a-bc6a8a83708c.png
+[14-03-2022 18:43:05] Checking 97a8c5ea-10b4-42ea-ab0b-9e2f6d0d73e2.png
+[14-03-2022 18:43:05] Checking 939f5f90-cc0d-48d8-8908-c880e84f6cdb.png
+[14-03-2022 18:43:05] Checking 2bccbe26-1842-4b9e-bf3f-5c0a597b4570.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers
+[14-03-2022 18:43:05] Checking d6849fae-3e7b-496e-a80a-bc6a8a83708c
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/d6849fae-3e7b-496e-a80a-bc6a8a83708c
+[14-03-2022 18:43:05] Checking 97a8c5ea-10b4-42ea-ab0b-9e2f6d0d73e2
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/97a8c5ea-10b4-42ea-ab0b-9e2f6d0d73e2
+[14-03-2022 18:43:05] Checking 939f5f90-cc0d-48d8-8908-c880e84f6cdb
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/939f5f90-cc0d-48d8-8908-c880e84f6cdb
+[14-03-2022 18:43:05] Checking 2bccbe26-1842-4b9e-bf3f-5c0a597b4570
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/2bccbe26-1842-4b9e-bf3f-5c0a597b4570
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/2bccbe26-1842-4b9e-bf3f-5c0a597b4570
+[14-03-2022 18:43:05] Checking 76db3608-adfc-4b4a-a3a4-9ea60a5fddf3.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/939f5f90-cc0d-48d8-8908-c880e84f6cdb
+[14-03-2022 18:43:05] Checking 76db3608-adfc-4b4a-a3a4-9ea60a5fddf3.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/97a8c5ea-10b4-42ea-ab0b-9e2f6d0d73e2
+[14-03-2022 18:43:05] Checking 76db3608-adfc-4b4a-a3a4-9ea60a5fddf3.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_lava_bullet/layers/d6849fae-3e7b-496e-a80a-bc6a8a83708c
+[14-03-2022 18:43:05] Checking 76db3608-adfc-4b4a-a3a4-9ea60a5fddf3.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button
+[14-03-2022 18:43:05] Checking spr_left_button.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/spr_left_button.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/spr_left_button.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Buttons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/spr_left_button.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_left_button
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_left_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Checking f8e9d1eb-399f-435c-bc55-c436b49a62f4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument
+[14-03-2022 18:43:05] Checking spr_monument.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/spr_monument.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/spr_monument.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Environment" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/spr_monument.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_monument
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/layers
+[14-03-2022 18:43:05] Checking 2ed5f99e-0138-46c5-898c-49f78b885eff.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/layers
+[14-03-2022 18:43:05] Checking 2ed5f99e-0138-46c5-898c-49f78b885eff
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/layers/2ed5f99e-0138-46c5-898c-49f78b885eff
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument/layers/2ed5f99e-0138-46c5-898c-49f78b885eff
+[14-03-2022 18:43:05] Checking b2e0c7e1-26bd-41c9-9f58-13f835a4cce0.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock
+[14-03-2022 18:43:05] Checking spr_monument_rock.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/spr_monument_rock.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/spr_monument_rock.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Environment" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/spr_monument_rock.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_monument_rock
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/layers
+[14-03-2022 18:43:05] Checking a9a2f855-9b10-4a5f-9295-51ec549226cd.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/layers
+[14-03-2022 18:43:05] Checking a9a2f855-9b10-4a5f-9295-51ec549226cd
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/layers/a9a2f855-9b10-4a5f-9295-51ec549226cd
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_monument_rock/layers/a9a2f855-9b10-4a5f-9295-51ec549226cd
+[14-03-2022 18:43:05] Checking 06202592-c599-4a8f-9c62-7036211047ca.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle
+[14-03-2022 18:43:05] Checking spr_particle.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/spr_particle.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/spr_particle.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/spr_particle.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_particle
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/layers
+[14-03-2022 18:43:05] Checking 96073f18-40a9-4a7f-bb39-2438914e3b9d.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/layers
+[14-03-2022 18:43:05] Checking 96073f18-40a9-4a7f-bb39-2438914e3b9d
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/layers/96073f18-40a9-4a7f-bb39-2438914e3b9d
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_particle/layers/96073f18-40a9-4a7f-bb39-2438914e3b9d
+[14-03-2022 18:43:05] Checking bfa40540-b92f-45e2-bee1-0121d52a82be.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall
+[14-03-2022 18:43:05] Checking spr_player_fall.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/spr_player_fall.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/spr_player_fall.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Player" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/spr_player_fall.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_player_fall
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/layers
+[14-03-2022 18:43:05] Checking 74de8b52-7df9-411f-9e6d-53ee427f1d1f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/layers
+[14-03-2022 18:43:05] Checking 74de8b52-7df9-411f-9e6d-53ee427f1d1f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/layers/74de8b52-7df9-411f-9e6d-53ee427f1d1f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_fall/layers/74de8b52-7df9-411f-9e6d-53ee427f1d1f
+[14-03-2022 18:43:05] Checking 64b68dee-6baf-4c0a-9715-ae532dc9136f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle
+[14-03-2022 18:43:05] Checking spr_player_idle.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/spr_player_idle.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/spr_player_idle.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Player" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/spr_player_idle.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_player_idle
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers
+[14-03-2022 18:43:05] Checking ca66435d-57c5-4f51-a525-78792a4d42be.png
+[14-03-2022 18:43:05] Checking c05e044f-87bd-4ab4-9707-ad956ea18e99.png
+[14-03-2022 18:43:05] Checking b11363bb-a0a8-47e2-bcc1-f037d0a77f4f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers
+[14-03-2022 18:43:05] Checking ca66435d-57c5-4f51-a525-78792a4d42be
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/ca66435d-57c5-4f51-a525-78792a4d42be
+[14-03-2022 18:43:05] Checking c05e044f-87bd-4ab4-9707-ad956ea18e99
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/c05e044f-87bd-4ab4-9707-ad956ea18e99
+[14-03-2022 18:43:05] Checking b11363bb-a0a8-47e2-bcc1-f037d0a77f4f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/b11363bb-a0a8-47e2-bcc1-f037d0a77f4f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/b11363bb-a0a8-47e2-bcc1-f037d0a77f4f
+[14-03-2022 18:43:05] Checking e09b5986-4757-4fc8-89c1-d2c4a5887f96.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/c05e044f-87bd-4ab4-9707-ad956ea18e99
+[14-03-2022 18:43:05] Checking e09b5986-4757-4fc8-89c1-d2c4a5887f96.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_idle/layers/ca66435d-57c5-4f51-a525-78792a4d42be
+[14-03-2022 18:43:05] Checking e09b5986-4757-4fc8-89c1-d2c4a5887f96.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run
+[14-03-2022 18:43:05] Checking spr_player_run.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/spr_player_run.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/spr_player_run.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Player" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/spr_player_run.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_player_run
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers
+[14-03-2022 18:43:05] Checking 800026ad-9f8b-4b4f-8b4c-1883215734a5.png
+[14-03-2022 18:43:05] Checking 67579ae3-59a8-41e0-8b3c-b9c3412a697d.png
+[14-03-2022 18:43:05] Checking 3125a321-b0c7-4480-9378-26ce1be4e883.png
+[14-03-2022 18:43:05] Checking 30d1c7f4-336c-48c4-a846-b695376e1677.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers
+[14-03-2022 18:43:05] Checking 800026ad-9f8b-4b4f-8b4c-1883215734a5
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/800026ad-9f8b-4b4f-8b4c-1883215734a5
+[14-03-2022 18:43:05] Checking 67579ae3-59a8-41e0-8b3c-b9c3412a697d
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/67579ae3-59a8-41e0-8b3c-b9c3412a697d
+[14-03-2022 18:43:05] Checking 3125a321-b0c7-4480-9378-26ce1be4e883
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/3125a321-b0c7-4480-9378-26ce1be4e883
+[14-03-2022 18:43:05] Checking 30d1c7f4-336c-48c4-a846-b695376e1677
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/30d1c7f4-336c-48c4-a846-b695376e1677
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/30d1c7f4-336c-48c4-a846-b695376e1677
+[14-03-2022 18:43:05] Checking a53acb94-0449-49e6-b8db-e4b5ad824e4d.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/3125a321-b0c7-4480-9378-26ce1be4e883
+[14-03-2022 18:43:05] Checking a53acb94-0449-49e6-b8db-e4b5ad824e4d.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/67579ae3-59a8-41e0-8b3c-b9c3412a697d
+[14-03-2022 18:43:05] Checking a53acb94-0449-49e6-b8db-e4b5ad824e4d.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_run/layers/800026ad-9f8b-4b4f-8b4c-1883215734a5
+[14-03-2022 18:43:05] Checking a53acb94-0449-49e6-b8db-e4b5ad824e4d.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test
+[14-03-2022 18:43:05] Checking spr_player_test.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/spr_player_test.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/spr_player_test.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Player" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/spr_player_test.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_player_test
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/layers
+[14-03-2022 18:43:05] Checking 88c060b1-1eaa-4d98-a0fe-f228f897aacd.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/layers
+[14-03-2022 18:43:05] Checking 88c060b1-1eaa-4d98-a0fe-f228f897aacd
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/layers/88c060b1-1eaa-4d98-a0fe-f228f897aacd
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_test/layers/88c060b1-1eaa-4d98-a0fe-f228f897aacd
+[14-03-2022 18:43:05] Checking 73600b5c-2d45-459f-9315-ac5bba858cdd.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall
+[14-03-2022 18:43:05] Checking spr_player_to_fall.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/spr_player_to_fall.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/spr_player_to_fall.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Player" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/spr_player_to_fall.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_player_to_fall
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers
+[14-03-2022 18:43:05] Checking f011e18d-e8ce-482b-a7ba-17ef94352cf7.png
+[14-03-2022 18:43:05] Checking 54a2f57e-4996-464d-9581-ffdff67aff7c.png
+[14-03-2022 18:43:05] Checking 1d1ac934-aa31-49f4-80e3-ce733c0cd686.png
+[14-03-2022 18:43:05] Checking 06f8a328-850c-4f5a-870d-f5093455d31f.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers
+[14-03-2022 18:43:05] Checking f011e18d-e8ce-482b-a7ba-17ef94352cf7
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/f011e18d-e8ce-482b-a7ba-17ef94352cf7
+[14-03-2022 18:43:05] Checking 54a2f57e-4996-464d-9581-ffdff67aff7c
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/54a2f57e-4996-464d-9581-ffdff67aff7c
+[14-03-2022 18:43:05] Checking 1d1ac934-aa31-49f4-80e3-ce733c0cd686
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/1d1ac934-aa31-49f4-80e3-ce733c0cd686
+[14-03-2022 18:43:05] Checking 06f8a328-850c-4f5a-870d-f5093455d31f
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/06f8a328-850c-4f5a-870d-f5093455d31f
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/06f8a328-850c-4f5a-870d-f5093455d31f
+[14-03-2022 18:43:05] Checking 4b226292-a5ce-413c-bc2f-e8c15cee10a4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/1d1ac934-aa31-49f4-80e3-ce733c0cd686
+[14-03-2022 18:43:05] Checking 4b226292-a5ce-413c-bc2f-e8c15cee10a4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/54a2f57e-4996-464d-9581-ffdff67aff7c
+[14-03-2022 18:43:05] Checking 4b226292-a5ce-413c-bc2f-e8c15cee10a4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_player_to_fall/layers/f011e18d-e8ce-482b-a7ba-17ef94352cf7
+[14-03-2022 18:43:05] Checking 4b226292-a5ce-413c-bc2f-e8c15cee10a4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion
+[14-03-2022 18:43:05] Checking spr_reverse_potion.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/spr_reverse_potion.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/spr_reverse_potion.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/spr_reverse_potion.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_reverse_potion
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/layers
+[14-03-2022 18:43:05] Checking 83faee8b-76dc-40f2-8b66-14f335980575.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/layers
+[14-03-2022 18:43:05] Checking 83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/layers/83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_potion/layers/83faee8b-76dc-40f2-8b66-14f335980575
+[14-03-2022 18:43:05] Checking bb8f7c23-e335-47ac-be70-8a3531770a44.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone
+[14-03-2022 18:43:05] Checking spr_reverse_zone.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/spr_reverse_zone.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/spr_reverse_zone.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Bullets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/spr_reverse_zone.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_reverse_zone
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/layers
+[14-03-2022 18:43:05] Checking be92ce9c-cdec-48f3-a505-6c324a7e0e15.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/layers
+[14-03-2022 18:43:05] Checking be92ce9c-cdec-48f3-a505-6c324a7e0e15
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/layers/be92ce9c-cdec-48f3-a505-6c324a7e0e15
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_reverse_zone/layers/be92ce9c-cdec-48f3-a505-6c324a7e0e15
+[14-03-2022 18:43:05] Checking 1362cd6c-6093-48da-ad69-bb0eecb44f13.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button
+[14-03-2022 18:43:05] Checking spr_right_button.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/spr_right_button.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/spr_right_button.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/Buttons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/spr_right_button.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_right_button
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/layers
+[14-03-2022 18:43:05] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_right_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:05] Checking f8e9d1eb-399f-435c-bc55-c436b49a62f4.png
+[14-03-2022 18:43:05] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall
+[14-03-2022 18:43:05] Checking spr_sfx_square_fall.yy
+[14-03-2022 18:43:05] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/spr_sfx_square_fall.yy
+[14-03-2022 18:43:05] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/spr_sfx_square_fall.yy
+[14-03-2022 18:43:05] Par: "folders/Sprites/SFX" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/spr_sfx_square_fall.yy"
+[14-03-2022 18:43:05] Found Sprite: spr_sfx_square_fall
+[14-03-2022 18:43:05] Checking layers
+[14-03-2022 18:43:05] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers
+[14-03-2022 18:43:05] Checking ff77c4a6-3643-4d0b-804a-b091f2d93489.png
+[14-03-2022 18:43:05] Checking fcd8d415-058a-4948-9a14-460f1de5db91.png
+[14-03-2022 18:43:05] Checking fb138c1b-2ca0-4640-9b6c-227652e9ee34.png
+[14-03-2022 18:43:05] Checking f3e64f1e-b82f-4dae-b638-08fe119dffc2.png
+[14-03-2022 18:43:05] Checking f2e99629-1518-4b05-9e87-9b1e6d667e74.png
+[14-03-2022 18:43:05] Checking f1d147ed-964a-4f41-8186-0b65d20eaa73.png
+[14-03-2022 18:43:05] Checking f1c6b5f6-c0fb-4bcb-8f24-118419eb7e5b.png
+[14-03-2022 18:43:05] Checking ed4bcc1b-135a-41b3-8990-015033457a08.png
+[14-03-2022 18:43:05] Checking e9eee1c1-e7f5-4e84-888c-68f9ab5f56ec.png
+[14-03-2022 18:43:05] Checking e8c62e6a-f8d7-4d08-9e4f-7d6a5ca1dfe7.png
+[14-03-2022 18:43:06] Checking dafce646-aab8-4acf-97f9-599d1c14c7da.png
+[14-03-2022 18:43:06] Checking d9997618-a8fe-411f-b129-7b104a3184e9.png
+[14-03-2022 18:43:06] Checking d721a693-6850-422b-846f-192a1b7990ec.png
+[14-03-2022 18:43:06] Checking d4a278c6-96ab-4a59-88be-9cce353abcd2.png
+[14-03-2022 18:43:06] Checking d428e8f9-d22b-44d3-9f99-3d7099c69f63.png
+[14-03-2022 18:43:06] Checking d274ea93-f24d-4cca-84d7-63cc399ecccf.png
+[14-03-2022 18:43:06] Checking cd29ec7e-7a4a-4f77-89a6-2e2a8bf88c72.png
+[14-03-2022 18:43:06] Checking c524764c-924e-4905-a67d-e7bea3725f27.png
+[14-03-2022 18:43:06] Checking c4837ffa-b31a-465e-9b37-5a4a8cd6ebbf.png
+[14-03-2022 18:43:06] Checking c3f8297f-b923-4ee2-92f6-fb14de6c5362.png
+[14-03-2022 18:43:06] Checking c17c7f5b-8d01-45eb-8c45-0d46adeadb4b.png
+[14-03-2022 18:43:06] Checking bbf4ea52-8bd9-41a5-9187-0f28572c0c74.png
+[14-03-2022 18:43:06] Checking bbd082b9-7fca-4c93-a8cb-2fc70fb0db8a.png
+[14-03-2022 18:43:06] Checking b86a7c46-15e8-4173-9b8d-23588225498b.png
+[14-03-2022 18:43:06] Checking b856ccd4-adb8-4bc2-b1cc-b8142a0730c8.png
+[14-03-2022 18:43:06] Checking b7b22438-8bb5-48ba-99ae-fef6a45f759f.png
+[14-03-2022 18:43:06] Checking b677c0a1-d458-4fe7-8063-a9f22101efd7.png
+[14-03-2022 18:43:06] Checking b5e4b91f-90e6-4d1c-8dc1-3857a1f63ae7.png
+[14-03-2022 18:43:06] Checking b18e556f-ea4c-4fd8-b5a1-4ad3d6324bd5.png
+[14-03-2022 18:43:06] Checking adeef52c-2942-4c09-9bb8-f010a3bf8f65.png
+[14-03-2022 18:43:06] Checking ab91777d-d650-45f4-a00d-bb794c59042d.png
+[14-03-2022 18:43:06] Checking a9beeed4-8adc-4bd9-bf52-dadd60e23c76.png
+[14-03-2022 18:43:06] Checking a9931e2f-210d-47b4-b3a8-edf6e6555f56.png
+[14-03-2022 18:43:06] Checking a98ab824-b74e-4a23-8aee-9f4294bc5fde.png
+[14-03-2022 18:43:06] Checking a910086d-0810-4caf-a238-9b90d0ba3781.png
+[14-03-2022 18:43:06] Checking a8c216f1-a0a8-4ebf-8203-9741a795fdae.png
+[14-03-2022 18:43:06] Checking a37de77b-4e71-4000-be93-40a02fab0ab7.png
+[14-03-2022 18:43:06] Checking a20a262c-ef75-4511-b7f4-1acdd42f66f1.png
+[14-03-2022 18:43:06] Checking 9d772ec4-74d3-49f7-b8b9-f354761cbf7b.png
+[14-03-2022 18:43:06] Checking 9c8892a0-43e1-4068-9929-31461746a80f.png
+[14-03-2022 18:43:06] Checking 9a0c7537-f114-485d-8e7b-fff8d1f79802.png
+[14-03-2022 18:43:06] Checking 96ce1934-dd2b-4d9e-a50e-f32438dc9571.png
+[14-03-2022 18:43:06] Checking 954c52e9-5c18-4fd5-a76a-29ef28b648b8.png
+[14-03-2022 18:43:06] Checking 8e26b32e-810c-4989-9820-8017d703b68a.png
+[14-03-2022 18:43:06] Checking 89bc63de-bab6-47b2-9404-ee524896da0e.png
+[14-03-2022 18:43:06] Checking 8847a181-0132-46ff-bf42-963868ee0344.png
+[14-03-2022 18:43:06] Checking 85c0a77e-1fda-47cf-9594-8bf85ac86095.png
+[14-03-2022 18:43:06] Checking 85126359-3932-4cec-a802-242dbaef1787.png
+[14-03-2022 18:43:06] Checking 80ae1939-68da-48d7-8938-78a7a869095a.png
+[14-03-2022 18:43:06] Checking 7d48ef9b-6950-459c-a94a-a1fb29114e6a.png
+[14-03-2022 18:43:06] Checking 77204372-bb8b-4f1f-836b-e24068a15959.png
+[14-03-2022 18:43:06] Checking 75320e15-41c3-4821-b68e-879a15451f73.png
+[14-03-2022 18:43:06] Checking 74cec6d4-235e-487a-a698-aac1f14aa54f.png
+[14-03-2022 18:43:06] Checking 6fee5453-76db-44cb-b6e3-3713261dd896.png
+[14-03-2022 18:43:06] Checking 69842c69-2b10-46c7-93fd-c76d4271ea80.png
+[14-03-2022 18:43:06] Checking 67e0d0e9-a2b2-4067-a0ec-06014bba2cba.png
+[14-03-2022 18:43:06] Checking 65335fec-cc0e-4008-8ead-26d13cab8587.png
+[14-03-2022 18:43:06] Checking 5dd311ec-95ca-4f07-a3e6-ac36bc5f00aa.png
+[14-03-2022 18:43:06] Checking 5c30e865-76d7-4f3d-b8da-5fd5fe94c9d4.png
+[14-03-2022 18:43:06] Checking 59420661-c593-4354-9b89-cbb11e522c07.png
+[14-03-2022 18:43:06] Checking 5855fc8c-46e5-48bc-8946-e16e1e295224.png
+[14-03-2022 18:43:06] Checking 52cb5e49-c676-4799-88bd-706e1264ea81.png
+[14-03-2022 18:43:06] Checking 51cf2fd9-7686-4ec4-a2af-6dfb659c0ca9.png
+[14-03-2022 18:43:06] Checking 4e656fd6-17e5-409b-8dda-29bfb0649e0f.png
+[14-03-2022 18:43:06] Checking 4c4701d5-02ad-44a7-9494-58cc6f70fe39.png
+[14-03-2022 18:43:06] Checking 4b531220-f3b2-4ce5-a08f-307c46ee70e3.png
+[14-03-2022 18:43:06] Checking 443a34ae-b9e2-4631-833b-012fd20b45f1.png
+[14-03-2022 18:43:06] Checking 431f1065-d167-4b78-8952-0ed14234174f.png
+[14-03-2022 18:43:06] Checking 3e1b1cd4-b164-4f8d-ba2d-8d551fee75c1.png
+[14-03-2022 18:43:06] Checking 35d59082-0dc1-43de-9f13-8acec80a42d5.png
+[14-03-2022 18:43:06] Checking 2e331c8c-d303-4ac5-8d51-702509e46a2c.png
+[14-03-2022 18:43:06] Checking 2d9afb7d-f0bb-41c4-90cc-0f43b9dd5a4a.png
+[14-03-2022 18:43:06] Checking 2d30e661-fcfd-4356-85fa-ea3a288bfe27.png
+[14-03-2022 18:43:06] Checking 152bd998-11ec-4681-8f0c-f6bf1b0e20e8.png
+[14-03-2022 18:43:06] Checking 1529d0b5-d2fe-4b1e-bbd6-99d5204ee8e2.png
+[14-03-2022 18:43:06] Checking 10ba45c4-41f6-4c7d-a71c-5c9fc9179eff.png
+[14-03-2022 18:43:06] Checking 0a44858f-4dcf-4157-842b-a9b469d81dab.png
+[14-03-2022 18:43:06] Checking 049bcecc-0c09-4c9d-835c-7399e98f7087.png
+[14-03-2022 18:43:06] Checking 0176267d-1a92-4776-907a-92a90ab67d7c.png
+[14-03-2022 18:43:06] Checking 0111093e-c059-426a-90e5-61a353d20f28.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers
+[14-03-2022 18:43:06] Checking ff77c4a6-3643-4d0b-804a-b091f2d93489
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ff77c4a6-3643-4d0b-804a-b091f2d93489
+[14-03-2022 18:43:06] Checking fcd8d415-058a-4948-9a14-460f1de5db91
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/fcd8d415-058a-4948-9a14-460f1de5db91
+[14-03-2022 18:43:06] Checking fb138c1b-2ca0-4640-9b6c-227652e9ee34
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/fb138c1b-2ca0-4640-9b6c-227652e9ee34
+[14-03-2022 18:43:06] Checking f3e64f1e-b82f-4dae-b638-08fe119dffc2
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f3e64f1e-b82f-4dae-b638-08fe119dffc2
+[14-03-2022 18:43:06] Checking f2e99629-1518-4b05-9e87-9b1e6d667e74
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f2e99629-1518-4b05-9e87-9b1e6d667e74
+[14-03-2022 18:43:06] Checking f1d147ed-964a-4f41-8186-0b65d20eaa73
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f1d147ed-964a-4f41-8186-0b65d20eaa73
+[14-03-2022 18:43:06] Checking f1c6b5f6-c0fb-4bcb-8f24-118419eb7e5b
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f1c6b5f6-c0fb-4bcb-8f24-118419eb7e5b
+[14-03-2022 18:43:06] Checking ed4bcc1b-135a-41b3-8990-015033457a08
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ed4bcc1b-135a-41b3-8990-015033457a08
+[14-03-2022 18:43:06] Checking e9eee1c1-e7f5-4e84-888c-68f9ab5f56ec
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/e9eee1c1-e7f5-4e84-888c-68f9ab5f56ec
+[14-03-2022 18:43:06] Checking e8c62e6a-f8d7-4d08-9e4f-7d6a5ca1dfe7
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/e8c62e6a-f8d7-4d08-9e4f-7d6a5ca1dfe7
+[14-03-2022 18:43:06] Checking dafce646-aab8-4acf-97f9-599d1c14c7da
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/dafce646-aab8-4acf-97f9-599d1c14c7da
+[14-03-2022 18:43:06] Checking d9997618-a8fe-411f-b129-7b104a3184e9
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d9997618-a8fe-411f-b129-7b104a3184e9
+[14-03-2022 18:43:06] Checking d721a693-6850-422b-846f-192a1b7990ec
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d721a693-6850-422b-846f-192a1b7990ec
+[14-03-2022 18:43:06] Checking d4a278c6-96ab-4a59-88be-9cce353abcd2
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d4a278c6-96ab-4a59-88be-9cce353abcd2
+[14-03-2022 18:43:06] Checking d428e8f9-d22b-44d3-9f99-3d7099c69f63
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d428e8f9-d22b-44d3-9f99-3d7099c69f63
+[14-03-2022 18:43:06] Checking d274ea93-f24d-4cca-84d7-63cc399ecccf
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d274ea93-f24d-4cca-84d7-63cc399ecccf
+[14-03-2022 18:43:06] Checking cd29ec7e-7a4a-4f77-89a6-2e2a8bf88c72
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/cd29ec7e-7a4a-4f77-89a6-2e2a8bf88c72
+[14-03-2022 18:43:06] Checking c524764c-924e-4905-a67d-e7bea3725f27
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c524764c-924e-4905-a67d-e7bea3725f27
+[14-03-2022 18:43:06] Checking c4837ffa-b31a-465e-9b37-5a4a8cd6ebbf
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c4837ffa-b31a-465e-9b37-5a4a8cd6ebbf
+[14-03-2022 18:43:06] Checking c3f8297f-b923-4ee2-92f6-fb14de6c5362
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c3f8297f-b923-4ee2-92f6-fb14de6c5362
+[14-03-2022 18:43:06] Checking c17c7f5b-8d01-45eb-8c45-0d46adeadb4b
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c17c7f5b-8d01-45eb-8c45-0d46adeadb4b
+[14-03-2022 18:43:06] Checking bbf4ea52-8bd9-41a5-9187-0f28572c0c74
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/bbf4ea52-8bd9-41a5-9187-0f28572c0c74
+[14-03-2022 18:43:06] Checking bbd082b9-7fca-4c93-a8cb-2fc70fb0db8a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/bbd082b9-7fca-4c93-a8cb-2fc70fb0db8a
+[14-03-2022 18:43:06] Checking b86a7c46-15e8-4173-9b8d-23588225498b
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b86a7c46-15e8-4173-9b8d-23588225498b
+[14-03-2022 18:43:06] Checking b856ccd4-adb8-4bc2-b1cc-b8142a0730c8
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b856ccd4-adb8-4bc2-b1cc-b8142a0730c8
+[14-03-2022 18:43:06] Checking b7b22438-8bb5-48ba-99ae-fef6a45f759f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b7b22438-8bb5-48ba-99ae-fef6a45f759f
+[14-03-2022 18:43:06] Checking b677c0a1-d458-4fe7-8063-a9f22101efd7
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b677c0a1-d458-4fe7-8063-a9f22101efd7
+[14-03-2022 18:43:06] Checking b5e4b91f-90e6-4d1c-8dc1-3857a1f63ae7
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b5e4b91f-90e6-4d1c-8dc1-3857a1f63ae7
+[14-03-2022 18:43:06] Checking b18e556f-ea4c-4fd8-b5a1-4ad3d6324bd5
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b18e556f-ea4c-4fd8-b5a1-4ad3d6324bd5
+[14-03-2022 18:43:06] Checking adeef52c-2942-4c09-9bb8-f010a3bf8f65
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/adeef52c-2942-4c09-9bb8-f010a3bf8f65
+[14-03-2022 18:43:06] Checking ab91777d-d650-45f4-a00d-bb794c59042d
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ab91777d-d650-45f4-a00d-bb794c59042d
+[14-03-2022 18:43:06] Checking a9beeed4-8adc-4bd9-bf52-dadd60e23c76
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a9beeed4-8adc-4bd9-bf52-dadd60e23c76
+[14-03-2022 18:43:06] Checking a9931e2f-210d-47b4-b3a8-edf6e6555f56
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a9931e2f-210d-47b4-b3a8-edf6e6555f56
+[14-03-2022 18:43:06] Checking a98ab824-b74e-4a23-8aee-9f4294bc5fde
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a98ab824-b74e-4a23-8aee-9f4294bc5fde
+[14-03-2022 18:43:06] Checking a910086d-0810-4caf-a238-9b90d0ba3781
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a910086d-0810-4caf-a238-9b90d0ba3781
+[14-03-2022 18:43:06] Checking a8c216f1-a0a8-4ebf-8203-9741a795fdae
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a8c216f1-a0a8-4ebf-8203-9741a795fdae
+[14-03-2022 18:43:06] Checking a37de77b-4e71-4000-be93-40a02fab0ab7
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a37de77b-4e71-4000-be93-40a02fab0ab7
+[14-03-2022 18:43:06] Checking a20a262c-ef75-4511-b7f4-1acdd42f66f1
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a20a262c-ef75-4511-b7f4-1acdd42f66f1
+[14-03-2022 18:43:06] Checking 9d772ec4-74d3-49f7-b8b9-f354761cbf7b
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9d772ec4-74d3-49f7-b8b9-f354761cbf7b
+[14-03-2022 18:43:06] Checking 9c8892a0-43e1-4068-9929-31461746a80f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9c8892a0-43e1-4068-9929-31461746a80f
+[14-03-2022 18:43:06] Checking 9a0c7537-f114-485d-8e7b-fff8d1f79802
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9a0c7537-f114-485d-8e7b-fff8d1f79802
+[14-03-2022 18:43:06] Checking 96ce1934-dd2b-4d9e-a50e-f32438dc9571
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/96ce1934-dd2b-4d9e-a50e-f32438dc9571
+[14-03-2022 18:43:06] Checking 954c52e9-5c18-4fd5-a76a-29ef28b648b8
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/954c52e9-5c18-4fd5-a76a-29ef28b648b8
+[14-03-2022 18:43:06] Checking 8e26b32e-810c-4989-9820-8017d703b68a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/8e26b32e-810c-4989-9820-8017d703b68a
+[14-03-2022 18:43:06] Checking 89bc63de-bab6-47b2-9404-ee524896da0e
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/89bc63de-bab6-47b2-9404-ee524896da0e
+[14-03-2022 18:43:06] Checking 8847a181-0132-46ff-bf42-963868ee0344
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/8847a181-0132-46ff-bf42-963868ee0344
+[14-03-2022 18:43:06] Checking 85c0a77e-1fda-47cf-9594-8bf85ac86095
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/85c0a77e-1fda-47cf-9594-8bf85ac86095
+[14-03-2022 18:43:06] Checking 85126359-3932-4cec-a802-242dbaef1787
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/85126359-3932-4cec-a802-242dbaef1787
+[14-03-2022 18:43:06] Checking 80ae1939-68da-48d7-8938-78a7a869095a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/80ae1939-68da-48d7-8938-78a7a869095a
+[14-03-2022 18:43:06] Checking 7d48ef9b-6950-459c-a94a-a1fb29114e6a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/7d48ef9b-6950-459c-a94a-a1fb29114e6a
+[14-03-2022 18:43:06] Checking 77204372-bb8b-4f1f-836b-e24068a15959
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/77204372-bb8b-4f1f-836b-e24068a15959
+[14-03-2022 18:43:06] Checking 75320e15-41c3-4821-b68e-879a15451f73
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/75320e15-41c3-4821-b68e-879a15451f73
+[14-03-2022 18:43:06] Checking 74cec6d4-235e-487a-a698-aac1f14aa54f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/74cec6d4-235e-487a-a698-aac1f14aa54f
+[14-03-2022 18:43:06] Checking 6fee5453-76db-44cb-b6e3-3713261dd896
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/6fee5453-76db-44cb-b6e3-3713261dd896
+[14-03-2022 18:43:06] Checking 69842c69-2b10-46c7-93fd-c76d4271ea80
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/69842c69-2b10-46c7-93fd-c76d4271ea80
+[14-03-2022 18:43:06] Checking 67e0d0e9-a2b2-4067-a0ec-06014bba2cba
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/67e0d0e9-a2b2-4067-a0ec-06014bba2cba
+[14-03-2022 18:43:06] Checking 65335fec-cc0e-4008-8ead-26d13cab8587
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/65335fec-cc0e-4008-8ead-26d13cab8587
+[14-03-2022 18:43:06] Checking 5dd311ec-95ca-4f07-a3e6-ac36bc5f00aa
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5dd311ec-95ca-4f07-a3e6-ac36bc5f00aa
+[14-03-2022 18:43:06] Checking 5c30e865-76d7-4f3d-b8da-5fd5fe94c9d4
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5c30e865-76d7-4f3d-b8da-5fd5fe94c9d4
+[14-03-2022 18:43:06] Checking 59420661-c593-4354-9b89-cbb11e522c07
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/59420661-c593-4354-9b89-cbb11e522c07
+[14-03-2022 18:43:06] Checking 5855fc8c-46e5-48bc-8946-e16e1e295224
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5855fc8c-46e5-48bc-8946-e16e1e295224
+[14-03-2022 18:43:06] Checking 52cb5e49-c676-4799-88bd-706e1264ea81
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/52cb5e49-c676-4799-88bd-706e1264ea81
+[14-03-2022 18:43:06] Checking 51cf2fd9-7686-4ec4-a2af-6dfb659c0ca9
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/51cf2fd9-7686-4ec4-a2af-6dfb659c0ca9
+[14-03-2022 18:43:06] Checking 4e656fd6-17e5-409b-8dda-29bfb0649e0f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4e656fd6-17e5-409b-8dda-29bfb0649e0f
+[14-03-2022 18:43:06] Checking 4c4701d5-02ad-44a7-9494-58cc6f70fe39
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4c4701d5-02ad-44a7-9494-58cc6f70fe39
+[14-03-2022 18:43:06] Checking 4b531220-f3b2-4ce5-a08f-307c46ee70e3
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4b531220-f3b2-4ce5-a08f-307c46ee70e3
+[14-03-2022 18:43:06] Checking 443a34ae-b9e2-4631-833b-012fd20b45f1
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/443a34ae-b9e2-4631-833b-012fd20b45f1
+[14-03-2022 18:43:06] Checking 431f1065-d167-4b78-8952-0ed14234174f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/431f1065-d167-4b78-8952-0ed14234174f
+[14-03-2022 18:43:06] Checking 3e1b1cd4-b164-4f8d-ba2d-8d551fee75c1
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/3e1b1cd4-b164-4f8d-ba2d-8d551fee75c1
+[14-03-2022 18:43:06] Checking 35d59082-0dc1-43de-9f13-8acec80a42d5
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/35d59082-0dc1-43de-9f13-8acec80a42d5
+[14-03-2022 18:43:06] Checking 2e331c8c-d303-4ac5-8d51-702509e46a2c
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2e331c8c-d303-4ac5-8d51-702509e46a2c
+[14-03-2022 18:43:06] Checking 2d9afb7d-f0bb-41c4-90cc-0f43b9dd5a4a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2d9afb7d-f0bb-41c4-90cc-0f43b9dd5a4a
+[14-03-2022 18:43:06] Checking 2d30e661-fcfd-4356-85fa-ea3a288bfe27
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2d30e661-fcfd-4356-85fa-ea3a288bfe27
+[14-03-2022 18:43:06] Checking 152bd998-11ec-4681-8f0c-f6bf1b0e20e8
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/152bd998-11ec-4681-8f0c-f6bf1b0e20e8
+[14-03-2022 18:43:06] Checking 1529d0b5-d2fe-4b1e-bbd6-99d5204ee8e2
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/1529d0b5-d2fe-4b1e-bbd6-99d5204ee8e2
+[14-03-2022 18:43:06] Checking 10ba45c4-41f6-4c7d-a71c-5c9fc9179eff
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/10ba45c4-41f6-4c7d-a71c-5c9fc9179eff
+[14-03-2022 18:43:06] Checking 0a44858f-4dcf-4157-842b-a9b469d81dab
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0a44858f-4dcf-4157-842b-a9b469d81dab
+[14-03-2022 18:43:06] Checking 049bcecc-0c09-4c9d-835c-7399e98f7087
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/049bcecc-0c09-4c9d-835c-7399e98f7087
+[14-03-2022 18:43:06] Checking 0176267d-1a92-4776-907a-92a90ab67d7c
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0176267d-1a92-4776-907a-92a90ab67d7c
+[14-03-2022 18:43:06] Checking 0111093e-c059-426a-90e5-61a353d20f28
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0111093e-c059-426a-90e5-61a353d20f28
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0111093e-c059-426a-90e5-61a353d20f28
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0176267d-1a92-4776-907a-92a90ab67d7c
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/049bcecc-0c09-4c9d-835c-7399e98f7087
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/0a44858f-4dcf-4157-842b-a9b469d81dab
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/10ba45c4-41f6-4c7d-a71c-5c9fc9179eff
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/1529d0b5-d2fe-4b1e-bbd6-99d5204ee8e2
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/152bd998-11ec-4681-8f0c-f6bf1b0e20e8
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2d30e661-fcfd-4356-85fa-ea3a288bfe27
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2d9afb7d-f0bb-41c4-90cc-0f43b9dd5a4a
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/2e331c8c-d303-4ac5-8d51-702509e46a2c
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/35d59082-0dc1-43de-9f13-8acec80a42d5
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/3e1b1cd4-b164-4f8d-ba2d-8d551fee75c1
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/431f1065-d167-4b78-8952-0ed14234174f
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/443a34ae-b9e2-4631-833b-012fd20b45f1
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4b531220-f3b2-4ce5-a08f-307c46ee70e3
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4c4701d5-02ad-44a7-9494-58cc6f70fe39
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/4e656fd6-17e5-409b-8dda-29bfb0649e0f
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/51cf2fd9-7686-4ec4-a2af-6dfb659c0ca9
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/52cb5e49-c676-4799-88bd-706e1264ea81
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5855fc8c-46e5-48bc-8946-e16e1e295224
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/59420661-c593-4354-9b89-cbb11e522c07
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5c30e865-76d7-4f3d-b8da-5fd5fe94c9d4
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/5dd311ec-95ca-4f07-a3e6-ac36bc5f00aa
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/65335fec-cc0e-4008-8ead-26d13cab8587
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/67e0d0e9-a2b2-4067-a0ec-06014bba2cba
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/69842c69-2b10-46c7-93fd-c76d4271ea80
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/6fee5453-76db-44cb-b6e3-3713261dd896
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/74cec6d4-235e-487a-a698-aac1f14aa54f
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/75320e15-41c3-4821-b68e-879a15451f73
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/77204372-bb8b-4f1f-836b-e24068a15959
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/7d48ef9b-6950-459c-a94a-a1fb29114e6a
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/80ae1939-68da-48d7-8938-78a7a869095a
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/85126359-3932-4cec-a802-242dbaef1787
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/85c0a77e-1fda-47cf-9594-8bf85ac86095
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/8847a181-0132-46ff-bf42-963868ee0344
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/89bc63de-bab6-47b2-9404-ee524896da0e
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/8e26b32e-810c-4989-9820-8017d703b68a
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/954c52e9-5c18-4fd5-a76a-29ef28b648b8
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/96ce1934-dd2b-4d9e-a50e-f32438dc9571
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9a0c7537-f114-485d-8e7b-fff8d1f79802
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9c8892a0-43e1-4068-9929-31461746a80f
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/9d772ec4-74d3-49f7-b8b9-f354761cbf7b
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a20a262c-ef75-4511-b7f4-1acdd42f66f1
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a37de77b-4e71-4000-be93-40a02fab0ab7
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a8c216f1-a0a8-4ebf-8203-9741a795fdae
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a910086d-0810-4caf-a238-9b90d0ba3781
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a98ab824-b74e-4a23-8aee-9f4294bc5fde
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a9931e2f-210d-47b4-b3a8-edf6e6555f56
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/a9beeed4-8adc-4bd9-bf52-dadd60e23c76
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ab91777d-d650-45f4-a00d-bb794c59042d
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/adeef52c-2942-4c09-9bb8-f010a3bf8f65
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b18e556f-ea4c-4fd8-b5a1-4ad3d6324bd5
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b5e4b91f-90e6-4d1c-8dc1-3857a1f63ae7
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b677c0a1-d458-4fe7-8063-a9f22101efd7
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b7b22438-8bb5-48ba-99ae-fef6a45f759f
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b856ccd4-adb8-4bc2-b1cc-b8142a0730c8
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/b86a7c46-15e8-4173-9b8d-23588225498b
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/bbd082b9-7fca-4c93-a8cb-2fc70fb0db8a
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/bbf4ea52-8bd9-41a5-9187-0f28572c0c74
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c17c7f5b-8d01-45eb-8c45-0d46adeadb4b
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c3f8297f-b923-4ee2-92f6-fb14de6c5362
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c4837ffa-b31a-465e-9b37-5a4a8cd6ebbf
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/c524764c-924e-4905-a67d-e7bea3725f27
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/cd29ec7e-7a4a-4f77-89a6-2e2a8bf88c72
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d274ea93-f24d-4cca-84d7-63cc399ecccf
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d428e8f9-d22b-44d3-9f99-3d7099c69f63
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d4a278c6-96ab-4a59-88be-9cce353abcd2
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d721a693-6850-422b-846f-192a1b7990ec
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/d9997618-a8fe-411f-b129-7b104a3184e9
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/dafce646-aab8-4acf-97f9-599d1c14c7da
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/e8c62e6a-f8d7-4d08-9e4f-7d6a5ca1dfe7
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/e9eee1c1-e7f5-4e84-888c-68f9ab5f56ec
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ed4bcc1b-135a-41b3-8990-015033457a08
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f1c6b5f6-c0fb-4bcb-8f24-118419eb7e5b
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f1d147ed-964a-4f41-8186-0b65d20eaa73
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f2e99629-1518-4b05-9e87-9b1e6d667e74
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/f3e64f1e-b82f-4dae-b638-08fe119dffc2
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/fb138c1b-2ca0-4640-9b6c-227652e9ee34
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/fcd8d415-058a-4948-9a14-460f1de5db91
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_sfx_square_fall/layers/ff77c4a6-3643-4d0b-804a-b091f2d93489
+[14-03-2022 18:43:06] Checking 1fd8be49-37f2-41a3-a979-cf23ce5c5e30.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first
+[14-03-2022 18:43:06] Checking spr_tileset_first.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/spr_tileset_first.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/spr_tileset_first.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/spr_tileset_first.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_tileset_first
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/layers
+[14-03-2022 18:43:06] Checking 0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/layers
+[14-03-2022 18:43:06] Checking 0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/layers/0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_first/layers/0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Checking c72ef4b8-e217-4de4-9336-4452d92b2989.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass
+[14-03-2022 18:43:06] Checking spr_tileset_grass.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/spr_tileset_grass.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/spr_tileset_grass.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/spr_tileset_grass.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_tileset_grass
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/layers
+[14-03-2022 18:43:06] Checking 0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/layers
+[14-03-2022 18:43:06] Checking 0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/layers/0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tileset_grass/layers/0c2499bc-5e4b-4dd3-93c4-bfbd7f8e0294
+[14-03-2022 18:43:06] Checking c72ef4b8-e217-4de4-9336-4452d92b2989.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water
+[14-03-2022 18:43:06] Checking spr_tile_water.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/spr_tile_water.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/spr_tile_water.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/spr_tile_water.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_tile_water
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/layers
+[14-03-2022 18:43:06] Checking 22572c32-2a85-4f59-aeb7-c63a144bcf3f.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/layers
+[14-03-2022 18:43:06] Checking 22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/layers/22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water/layers/22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Checking a132d1ee-f5ad-4325-ad19-086df83489de.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid
+[14-03-2022 18:43:06] Checking spr_tile_water_solid.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/spr_tile_water_solid.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/spr_tile_water_solid.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/spr_tile_water_solid.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_tile_water_solid
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/layers
+[14-03-2022 18:43:06] Checking 22572c32-2a85-4f59-aeb7-c63a144bcf3f.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/layers
+[14-03-2022 18:43:06] Checking 22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/layers/22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tile_water_solid/layers/22572c32-2a85-4f59-aeb7-c63a144bcf3f
+[14-03-2022 18:43:06] Checking a132d1ee-f5ad-4325-ad19-086df83489de.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree
+[14-03-2022 18:43:06] Checking spr_tree.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/spr_tree.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/spr_tree.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Environment/Trees" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/spr_tree.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_tree
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/layers
+[14-03-2022 18:43:06] Checking 9e1967d8-b2cb-49d4-9b92-d3e349a53797.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/layers
+[14-03-2022 18:43:06] Checking 9e1967d8-b2cb-49d4-9b92-d3e349a53797
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/layers/9e1967d8-b2cb-49d4-9b92-d3e349a53797
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_tree/layers/9e1967d8-b2cb-49d4-9b92-d3e349a53797
+[14-03-2022 18:43:06] Checking c6a46426-12c4-4b73-abec-2e0c7e0d9b67.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart
+[14-03-2022 18:43:06] Checking spr_ui_heart.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/spr_ui_heart.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/spr_ui_heart.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/UI" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/spr_ui_heart.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_ui_heart
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers
+[14-03-2022 18:43:06] Checking 7038e583-caf9-46a1-b7d6-87f26d44eca9.png
+[14-03-2022 18:43:06] Checking 53924063-eb6d-4180-8b7a-7fd6a22de4bd.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers
+[14-03-2022 18:43:06] Checking 7038e583-caf9-46a1-b7d6-87f26d44eca9
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers/7038e583-caf9-46a1-b7d6-87f26d44eca9
+[14-03-2022 18:43:06] Checking 53924063-eb6d-4180-8b7a-7fd6a22de4bd
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers/53924063-eb6d-4180-8b7a-7fd6a22de4bd
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers/53924063-eb6d-4180-8b7a-7fd6a22de4bd
+[14-03-2022 18:43:06] Checking ba4e96bf-0887-4585-bbf2-ed290f34d2a5.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_heart/layers/7038e583-caf9-46a1-b7d6-87f26d44eca9
+[14-03-2022 18:43:06] Checking ba4e96bf-0887-4585-bbf2-ed290f34d2a5.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins
+[14-03-2022 18:43:06] Checking spr_ui_text_coins.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/spr_ui_text_coins.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/spr_ui_text_coins.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/UI/Text" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/spr_ui_text_coins.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_ui_text_coins
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/layers
+[14-03-2022 18:43:06] Checking d2a00192-44af-42a4-acfe-ceb0fb9d1e62.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/layers
+[14-03-2022 18:43:06] Checking d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/layers/d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_coins/layers/d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Checking 0265ec07-ae5a-41dc-9a92-5ae5714270fc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys
+[14-03-2022 18:43:06] Checking spr_ui_text_keys.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/spr_ui_text_keys.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/spr_ui_text_keys.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/UI/Text" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/spr_ui_text_keys.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_ui_text_keys
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/layers
+[14-03-2022 18:43:06] Checking d2a00192-44af-42a4-acfe-ceb0fb9d1e62.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/layers
+[14-03-2022 18:43:06] Checking d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/layers/d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_keys/layers/d2a00192-44af-42a4-acfe-ceb0fb9d1e62
+[14-03-2022 18:43:06] Checking 0265ec07-ae5a-41dc-9a92-5ae5714270fc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon
+[14-03-2022 18:43:06] Checking spr_ui_text_weapon.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/spr_ui_text_weapon.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/spr_ui_text_weapon.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/UI/Text" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/spr_ui_text_weapon.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_ui_text_weapon
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/layers
+[14-03-2022 18:43:06] Checking 82bdbe76-7f0e-4f4f-a9b8-25754e5fe1b5.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/layers
+[14-03-2022 18:43:06] Checking 82bdbe76-7f0e-4f4f-a9b8-25754e5fe1b5
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/layers/82bdbe76-7f0e-4f4f-a9b8-25754e5fe1b5
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_text_weapon/layers/82bdbe76-7f0e-4f4f-a9b8-25754e5fe1b5
+[14-03-2022 18:43:06] Checking 8a7b61a2-73b5-4db1-8ae3-74147856d2d0.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box
+[14-03-2022 18:43:06] Checking spr_ui_wepon_box.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/spr_ui_wepon_box.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/spr_ui_wepon_box.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/UI" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/spr_ui_wepon_box.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_ui_wepon_box
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/layers
+[14-03-2022 18:43:06] Checking 6ceb08ae-0103-4556-9df8-00cd0f7e40cf.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/layers
+[14-03-2022 18:43:06] Checking 6ceb08ae-0103-4556-9df8-00cd0f7e40cf
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/layers/6ceb08ae-0103-4556-9df8-00cd0f7e40cf
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_ui_wepon_box/layers/6ceb08ae-0103-4556-9df8-00cd0f7e40cf
+[14-03-2022 18:43:06] Checking fb0f91bd-623d-492f-9f19-a7dec627ef8e.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button
+[14-03-2022 18:43:06] Checking spr_up_button.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/spr_up_button.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/spr_up_button.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Buttons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/spr_up_button.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_up_button
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/layers
+[14-03-2022 18:43:06] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/layers
+[14-03-2022 18:43:06] Checking 25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_up_button/layers/25fa1e8d-611c-4717-b386-d6be4be9f108
+[14-03-2022 18:43:06] Checking f8e9d1eb-399f-435c-bc55-c436b49a62f4.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall
+[14-03-2022 18:43:06] Checking spr_wall.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/spr_wall.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/spr_wall.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Technical" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/spr_wall.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_wall
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/layers
+[14-03-2022 18:43:06] Checking 59ae9e39-3281-4097-b328-fa77ca770412.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/layers
+[14-03-2022 18:43:06] Checking 59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/layers/59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall/layers/59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Checking a8d0754b-ce72-48fb-864c-28a0cd050286.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half
+[14-03-2022 18:43:06] Checking spr_wall_half.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/spr_wall_half.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/spr_wall_half.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Technical" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/spr_wall_half.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_wall_half
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/layers
+[14-03-2022 18:43:06] Checking 59ae9e39-3281-4097-b328-fa77ca770412.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/layers
+[14-03-2022 18:43:06] Checking 59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/layers/59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wall_half/layers/59ae9e39-3281-4097-b328-fa77ca770412
+[14-03-2022 18:43:06] Checking a8d0754b-ce72-48fb-864c-28a0cd050286.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow
+[14-03-2022 18:43:06] Checking spr_weapon_bow.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/spr_weapon_bow.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/spr_weapon_bow.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Weapons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/spr_weapon_bow.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_weapon_bow
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/layers
+[14-03-2022 18:43:06] Checking c8242080-2d9d-4ded-86f3-c46ffeac1ed1.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/layers
+[14-03-2022 18:43:06] Checking c8242080-2d9d-4ded-86f3-c46ffeac1ed1
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/layers/c8242080-2d9d-4ded-86f3-c46ffeac1ed1
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow/layers/c8242080-2d9d-4ded-86f3-c46ffeac1ed1
+[14-03-2022 18:43:06] Checking a6557a9e-cc0d-443c-bb6d-8d2a9464a6aa.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini
+[14-03-2022 18:43:06] Checking spr_weapon_bow_mini.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/spr_weapon_bow_mini.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/spr_weapon_bow_mini.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Weapons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/spr_weapon_bow_mini.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_weapon_bow_mini
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/layers
+[14-03-2022 18:43:06] Checking a8f3cda0-a130-4d8d-ae57-848c3752fd73.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/layers
+[14-03-2022 18:43:06] Checking a8f3cda0-a130-4d8d-ae57-848c3752fd73
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/layers/a8f3cda0-a130-4d8d-ae57-848c3752fd73
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_bow_mini/layers/a8f3cda0-a130-4d8d-ae57-848c3752fd73
+[14-03-2022 18:43:06] Checking e58aae6b-58af-428e-864e-a31e2f98783c.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword
+[14-03-2022 18:43:06] Checking spr_weapon_sword.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/spr_weapon_sword.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/spr_weapon_sword.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites/Weapons" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/spr_weapon_sword.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_weapon_sword
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers
+[14-03-2022 18:43:06] Checking e78912ac-ece2-4c05-95e3-88ad32d0b224.png
+[14-03-2022 18:43:06] Checking 64f33152-58ca-42d0-8aab-7bb58b1ab8d4.png
+[14-03-2022 18:43:06] Checking 3fb9cb19-d64d-44ab-8cce-ca40a312c08a.png
+[14-03-2022 18:43:06] Checking 2ac6d2e8-b434-4297-aaf6-9b3b26976cb8.png
+[14-03-2022 18:43:06] Checking 22cdded1-bb92-4a3a-ac7f-e590d81b5e51.png
+[14-03-2022 18:43:06] Checking 1994565a-96f3-49fe-9b5b-e4458fed2821.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers
+[14-03-2022 18:43:06] Checking e78912ac-ece2-4c05-95e3-88ad32d0b224
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/e78912ac-ece2-4c05-95e3-88ad32d0b224
+[14-03-2022 18:43:06] Checking 64f33152-58ca-42d0-8aab-7bb58b1ab8d4
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/64f33152-58ca-42d0-8aab-7bb58b1ab8d4
+[14-03-2022 18:43:06] Checking 3fb9cb19-d64d-44ab-8cce-ca40a312c08a
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/3fb9cb19-d64d-44ab-8cce-ca40a312c08a
+[14-03-2022 18:43:06] Checking 2ac6d2e8-b434-4297-aaf6-9b3b26976cb8
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/2ac6d2e8-b434-4297-aaf6-9b3b26976cb8
+[14-03-2022 18:43:06] Checking 22cdded1-bb92-4a3a-ac7f-e590d81b5e51
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/22cdded1-bb92-4a3a-ac7f-e590d81b5e51
+[14-03-2022 18:43:06] Checking 1994565a-96f3-49fe-9b5b-e4458fed2821
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/1994565a-96f3-49fe-9b5b-e4458fed2821
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/1994565a-96f3-49fe-9b5b-e4458fed2821
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/22cdded1-bb92-4a3a-ac7f-e590d81b5e51
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/2ac6d2e8-b434-4297-aaf6-9b3b26976cb8
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/3fb9cb19-d64d-44ab-8cce-ca40a312c08a
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/64f33152-58ca-42d0-8aab-7bb58b1ab8d4
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_weapon_sword/layers/e78912ac-ece2-4c05-95e3-88ad32d0b224
+[14-03-2022 18:43:06] Checking cc44ef43-8473-4ee4-a268-ab88ee56e221.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest
+[14-03-2022 18:43:06] Checking spr_wood_chest.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/spr_wood_chest.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/spr_wood_chest.yy
+[14-03-2022 18:43:06] Par: "folders/Sprites" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/spr_wood_chest.yy"
+[14-03-2022 18:43:06] Found Sprite: spr_wood_chest
+[14-03-2022 18:43:06] Checking layers
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers
+[14-03-2022 18:43:06] Checking f8ca701a-fc11-451d-8b78-e21d5b7ba935.png
+[14-03-2022 18:43:06] Checking f3a68b8f-95ed-4547-b6b5-c04b01a25b91.png
+[14-03-2022 18:43:06] Checking cd1cecb7-51f2-4b89-9dc9-1c891ec12d7d.png
+[14-03-2022 18:43:06] Checking c8126963-9548-42a9-b650-08d1dfb49f67.png
+[14-03-2022 18:43:06] Checking b7934f65-3701-4331-a0db-53a3ced57e74.png
+[14-03-2022 18:43:06] Checking 6cd1c740-83d5-4d99-9166-93fb17152731.png
+[14-03-2022 18:43:06] Checking 24847b97-2324-472e-9a82-4a1d8ce69b75.png
+[14-03-2022 18:43:06] Checking 18fc1996-7e90-4e70-9a1e-055ce42c836d.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers
+[14-03-2022 18:43:06] Checking f8ca701a-fc11-451d-8b78-e21d5b7ba935
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/f8ca701a-fc11-451d-8b78-e21d5b7ba935
+[14-03-2022 18:43:06] Checking f3a68b8f-95ed-4547-b6b5-c04b01a25b91
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/f3a68b8f-95ed-4547-b6b5-c04b01a25b91
+[14-03-2022 18:43:06] Checking cd1cecb7-51f2-4b89-9dc9-1c891ec12d7d
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/cd1cecb7-51f2-4b89-9dc9-1c891ec12d7d
+[14-03-2022 18:43:06] Checking c8126963-9548-42a9-b650-08d1dfb49f67
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/c8126963-9548-42a9-b650-08d1dfb49f67
+[14-03-2022 18:43:06] Checking b7934f65-3701-4331-a0db-53a3ced57e74
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/b7934f65-3701-4331-a0db-53a3ced57e74
+[14-03-2022 18:43:06] Checking 6cd1c740-83d5-4d99-9166-93fb17152731
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/6cd1c740-83d5-4d99-9166-93fb17152731
+[14-03-2022 18:43:06] Checking 24847b97-2324-472e-9a82-4a1d8ce69b75
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/24847b97-2324-472e-9a82-4a1d8ce69b75
+[14-03-2022 18:43:06] Checking 18fc1996-7e90-4e70-9a1e-055ce42c836d
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/18fc1996-7e90-4e70-9a1e-055ce42c836d
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/18fc1996-7e90-4e70-9a1e-055ce42c836d
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/24847b97-2324-472e-9a82-4a1d8ce69b75
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/6cd1c740-83d5-4d99-9166-93fb17152731
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/b7934f65-3701-4331-a0db-53a3ced57e74
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/c8126963-9548-42a9-b650-08d1dfb49f67
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/cd1cecb7-51f2-4b89-9dc9-1c891ec12d7d
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/f3a68b8f-95ed-4547-b6b5-c04b01a25b91
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/sprites/spr_wood_chest/layers/f8ca701a-fc11-451d-8b78-e21d5b7ba935
+[14-03-2022 18:43:06] Checking 4ed6be24-4d92-4af4-92c4-825e10f10ccc.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/tilesets
+[14-03-2022 18:43:06] Checking tileset_grass
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_grass
+[14-03-2022 18:43:06] Checking tileset_first
+[14-03-2022 18:43:06] Directory: D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_first
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_first
+[14-03-2022 18:43:06] Checking tileset_first.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_first/tileset_first.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_first/tileset_first.yy
+[14-03-2022 18:43:06] Par: "folders/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_first/tileset_first.yy"
+[14-03-2022 18:43:06] Found TileSet: tileset_first
+[14-03-2022 18:43:06] Checking output_tileset.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_grass
+[14-03-2022 18:43:06] Checking tileset_grass.yy
+[14-03-2022 18:43:06] Parsing D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_grass/tileset_grass.yy
+[14-03-2022 18:43:06] Reading D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_grass/tileset_grass.yy
+[14-03-2022 18:43:06] Par: "folders/Tile Sets" at dir: "D:/GameMaker Studio 2 Workspace/The Other Side/tilesets/tileset_grass/tileset_grass.yy"
+[14-03-2022 18:43:06] Found TileSet: tileset_grass
+[14-03-2022 18:43:06] Checking output_tileset.png
+[14-03-2022 18:43:06] Current parent directory: D:/GameMaker Studio 2 Workspace/The Other Side/timelines
+[14-03-2022 18:43:06] Moving files to trash...
+[14-03-2022 18:43:06] Files yeeted successfully!
+[14-03-2022 18:43:06] Generating YYP...
+[14-03-2022 18:43:06] The Other Side.yyp created successfully!

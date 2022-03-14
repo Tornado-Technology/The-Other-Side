@@ -1,5 +1,5 @@
-if (!variable_global_exists("grid"))
-	exit;
+/// @desc Map
+if (!variable_global_exists("grid"))  exit;
 
 var x_cell = floor(x / global.cell_size);
 var y_cell = floor(y / global.cell_size);
