@@ -10,7 +10,7 @@ var cell_div2 = global.cell_size / 2;
 var position_x = x_cell * global.cell_size + cell_div2;
 var position_y = y_cell * global.cell_size + cell_div2;
 
-if (collision_circle(x, y, global.cell_size, obj_wall, false, true)) {
+if (collision_circle(x, y, global.cell_size * 2, obj_wall, false, true)) {
 	speed = 0;
 	time_path++;
 	time_path = period_path % time_path;
@@ -25,7 +25,7 @@ else {
 }
 
 // Growl
-if (point_distance(x, y, x_player, y_player) < 110 and !growled) {
+if (collision_circle(x, y, 110, obj_player, false, false) and !growled) {
 	audio_play_sound(sfx_zombu, 0, false);
 	growled = true;
 }
