@@ -15,7 +15,7 @@
   "duration": 0.313458,
   "parent": {
     "name": "SFX",
-    "path": "folders/SFX.yy",
+    "path": "folders/Sequences/SFX.yy",
   },
   "resourceVersion": "1.0",
   "name": "sfx_skeleton_shooting",

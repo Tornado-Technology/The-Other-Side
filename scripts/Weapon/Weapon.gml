@@ -17,6 +17,7 @@ function Weapon(_icon, _name, _item, _desc, _use, _draw) constructor {
 	
 	use  = _use;
 	draw = _draw;
+	release = function(_player) {};
 	
 	static icon_def = function(_x, _y, _angle) {
 		icon_x = _x;
@@ -28,6 +29,12 @@ function Weapon(_icon, _name, _item, _desc, _use, _draw) constructor {
 	
 	static set_item = function(_item) {
 		item = _item;
+		
+		return self;
+	}
+	
+	static set_release = function(_item) {
+		release = _item;
 		
 		return self;
 	}

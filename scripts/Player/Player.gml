@@ -42,6 +42,7 @@ function player_remove_hp(_value = 1) {
 	obj_player.image_yscale = 0.5;
 	obj_player.inv = obj_player.inv_max;
 	obj_player.hp -= abs(_value);
+	audio_play_sound(sfx_damage, 0, false);
 }
 
 /// @param value

@@ -1,1 +1,1 @@
-room_goto(room_night);
+room_goto(taget_toom);

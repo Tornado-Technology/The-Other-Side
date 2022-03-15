@@ -1,0 +1,1 @@
+if (speed != 0) traget_scalex = sign(x - xprevious) >= 0 ? -1 : 1;

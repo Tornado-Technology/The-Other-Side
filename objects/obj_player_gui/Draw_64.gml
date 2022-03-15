@@ -19,6 +19,12 @@ if (weapon != noone) {
 	shader_reset();
 }
 
+if (instance_exists(obj_time)) {
+	draw_set_halign(fa_center);
+	draw_set_valign(fa_center);
+	draw_set_font(font_fight_stat);
+	draw_text_outline(width / 2, 3, "Time: " + convert_to_time(obj_time.time));
+}
 
 var money = string(obj_player.money);
 var keys  = string(obj_player.keys);

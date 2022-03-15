@@ -15,6 +15,6 @@ switch(tab) {
 		if (keyboard_check_pressed(vk_left)) //Press back
 			tab = MenuTabName.About;
 		if (keyboard_check_pressed(vk_right)) //Press ok
-			{} // play game
+			{room_goto(room_day);} // play game
 		break;
 }

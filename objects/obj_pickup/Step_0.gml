@@ -13,8 +13,8 @@ if (is_picked) {
 	if (pickable) {
 		if (hp < hp_max || !heal_check) {
 			event_user(0); // Collision
-			x = lerp(x, player_get_x(), 0.2);
-			y = lerp(y, player_get_y(), 0.2);
+			x = approach(x, player_get_x(), 3);
+			y = approach(y, player_get_y(), 3);
 			exit;
 		}
 	}

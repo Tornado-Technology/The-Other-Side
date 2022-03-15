@@ -39,6 +39,7 @@ dir = DIR.RIGHT;
 use_dir = DIR.RIGHT;
 
 // Weapons
+can_weapon_use = true;
 weapon = weapon_get(WEAPON_ID.SWORD);
 weapon_depth = -1;
 // ------> ####### <----- \\
@@ -46,13 +47,24 @@ weapon_depth = -1;
 
 // -----> Functions <---- \\
 function attack() {
-	if (cooldown > 0) return;
-	cooldown = weapon.cooldown;
+	if (keyboard_check_released(vk_left))  { weapon.release(id); }
+	if (keyboard_check_released(vk_right)) { weapon.release(id); }
+	if (keyboard_check_released(vk_up))    { weapon.release(id); }
+	if (keyboard_check_released(vk_down))  { weapon.release(id); }
 	
-	if (keyboard_check(vk_left))  { weapon.use(id, DIR.LEFT);  use_dir = DIR.LEFT;  return; }
-	if (keyboard_check(vk_right)) { weapon.use(id, DIR.RIGHT); use_dir = DIR.RIGHT; return; }
-	if (keyboard_check(vk_up))    { weapon.use(id, DIR.UP);    use_dir = DIR.UP;    return; }
-	if (keyboard_check(vk_down))  { weapon.use(id, DIR.DOWN);  use_dir = DIR.DOWN;  return; }
+	
+	if (cooldown > 0 || !can_weapon_use) return;
+	var autouse = weapon.autouse;
+	if (autouse ? keyboard_check(vk_left)  : keyboard_check_pressed(vk_left))  { weapon_use(DIR.LEFT);  return; }
+	if (autouse ? keyboard_check(vk_right) : keyboard_check_pressed(vk_right)) { weapon_use(DIR.RIGHT); return; }
+	if (autouse ? keyboard_check(vk_up)    : keyboard_check_pressed(vk_up))    { weapon_use(DIR.UP);    return; }
+	if (autouse ? keyboard_check(vk_down)  : keyboard_check_pressed(vk_down))  { weapon_use(DIR.DOWN);  return; }
+}
+
+function weapon_use(_dir) {
+	weapon.use(id, _dir);  
+	use_dir = _dir; 	
+	cooldown = weapon.cooldown;
 }
 
 function flip() {

@@ -15,7 +15,7 @@
   "duration": 0.496292,
   "parent": {
     "name": "SFX",
-    "path": "folders/SFX.yy",
+    "path": "folders/Sequences/SFX.yy",
   },
   "resourceVersion": "1.0",
   "name": "sfx_food_pickup",
