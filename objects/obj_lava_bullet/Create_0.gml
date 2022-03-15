@@ -1,2 +1,2 @@
-damage = 1;
+damage = 60;
 speed = 5;

@@ -10,3 +10,7 @@ function enemy_damage(_enemy, _damage) {
 		}
 	}
 }
+
+function enemy_slow(_enemy) {
+	_enemy.slow = true;
+}

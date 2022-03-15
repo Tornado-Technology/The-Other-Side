@@ -18,7 +18,7 @@ else
 
 if (time_path == 0 && !stop) {
 	mp_grid_path(global.grid, path, x + cell_div2, y + cell_div2, position_x, position_y, true);
-	path_start(path, 1, path_action_stop, false);
+	path_start(path, speed_normal, path_action_stop, false);
 }
 time_path++;
 time_path = period_path % time_path;
@@ -27,6 +27,7 @@ if (distance_to_player < distance_shoot) {
 	time_shoot++;
 	if (time_shoot >= period_shoot) {
 		shoot_to(obj_arrow, x_player, y_player);
+		audio_play_sound(sfx_skeleton_shooting, 0, false);
 		time_shoot = 0;
 	}
 }

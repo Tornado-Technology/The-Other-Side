@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Weapons",
-    "path": "folders/Sprites/Weapons.yy",
+    "name": "Bullets",
+    "path": "folders/Sprites/Bullets.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bullet_arow",

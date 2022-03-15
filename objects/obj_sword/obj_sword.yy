@@ -31,8 +31,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PickUps",
-    "path": "folders/Objects/PickUps.yy",
+    "name": "Weapons",
+    "path": "folders/Objects/Weapons.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_sword",

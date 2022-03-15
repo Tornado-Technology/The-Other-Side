@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_weapon_gun",
-    "path": "sprites/spr_weapon_gun/spr_weapon_gun.yy",
+    "name": "spr_weapon_assault_rifle",
+    "path": "sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,11 +31,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PickUps",
-    "path": "folders/Objects/PickUps.yy",
+    "name": "Weapons",
+    "path": "folders/Objects/Weapons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_gun",
+  "name": "obj_assault_rifle",
   "tags": [],
   "resourceType": "GMObject",
 }

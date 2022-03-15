@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PickUps",
-    "path": "folders/Objects/PickUps.yy",
+    "name": "Bullets",
+    "path": "folders/Objects/Bullets.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_damage",

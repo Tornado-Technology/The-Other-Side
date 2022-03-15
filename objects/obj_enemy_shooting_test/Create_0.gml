@@ -1,7 +1,9 @@
 event_inherited();
 
-hp = 2;
-hp_max = 2;
+hp = 60;
+hp_max = 60;
+speed_max = 1;
+speed_normal = speed_max;
 
 path = path_add();
 is_moving = true;
@@ -14,6 +16,7 @@ time_shoot = 0;
 time_path = 0;
 period_path = 30;
 
+slow = false;
 stop = false;
 
 x_player = 0;

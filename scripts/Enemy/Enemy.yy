@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Engine.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ennemy_damage",
+  "name": "Enemy",
   "tags": [],
   "resourceType": "GMScript",
 }

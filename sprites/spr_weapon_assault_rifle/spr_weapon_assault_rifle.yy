@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},"LayerId":{"name":"9b24cea3-233a-41b7-9d62-423a5c42d99c","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_weapon_gun","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},"resourceVersion":"1.0","name":"9d07bdfc-4639-4341-8980-8110a5f72a88","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},"LayerId":{"name":"9b24cea3-233a-41b7-9d62-423a5c42d99c","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_weapon_assault_rifle","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},"resourceVersion":"1.0","name":"9d07bdfc-4639-4341-8980-8110a5f72a88","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_weapon_gun","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},
+    "spriteId": {"name":"spr_weapon_assault_rifle","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f84838f2-1109-4e38-a6d4-3176de5aa52b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f84838f2-1109-4e38-a6d4-3176de5aa52b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d07bdfc-4639-4341-8980-8110a5f72a88","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 9,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_weapon_gun","path":"sprites/spr_weapon_gun/spr_weapon_gun.yy",},
+    "parent": {"name":"spr_weapon_assault_rifle","path":"sprites/spr_weapon_assault_rifle/spr_weapon_assault_rifle.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_weapon_gun",
+    "name": "spr_weapon_assault_rifle",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Weapons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_weapon_gun",
+  "name": "spr_weapon_assault_rifle",
   "tags": [],
   "resourceType": "GMSprite",
 }

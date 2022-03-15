@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_enemy_zombi",
-    "path": "sprites/spr_enemy_zombi/spr_enemy_zombi.yy",
+    "name": "spr_weapon_inhibitor_gun",
+    "path": "sprites/spr_weapon_inhibitor_gun/spr_weapon_inhibitor_gun.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_enemy",
-    "path": "objects/obj_enemy/obj_enemy.yy",
+    "name": "obj_pickup",
+    "path": "objects/obj_pickup/obj_pickup.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,18 +25,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":8,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemy",
-    "path": "folders/Objects/Entity/Enemy.yy",
+    "name": "Weapons",
+    "path": "folders/Objects/Weapons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy_test",
+  "name": "obj_inhibitor_gun",
   "tags": [],
   "resourceType": "GMObject",
 }
