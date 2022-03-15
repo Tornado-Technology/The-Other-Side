@@ -6,7 +6,7 @@
     "path": "folders/Scripts/Engine.yy",
   },
   "resourceVersion": "1.0",
-  "name": "create_sfx_ex",
+  "name": "Particle",
   "tags": [],
   "resourceType": "GMScript",
 }

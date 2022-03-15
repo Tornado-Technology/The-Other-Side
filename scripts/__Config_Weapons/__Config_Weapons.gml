@@ -97,18 +97,13 @@ function(_player, _dir) {
 	var _fy = 0;
 	
 	switch (_dir) {
-		case DIR.UP:    _fy = -20; break;
-		case DIR.DOWN:  _fy =  20; break;
-		case DIR.RIGHT: _fx =  18; break;
-		case DIR.LEFT:  _fx = -18; break;
+		case DIR.UP:    _fy = -18; break;
+		case DIR.DOWN:  _fy =  18; break;
+		case DIR.RIGHT: _fx =  16; break;
+		case DIR.LEFT:  _fx = -16; break;
 	}
 	
-	if (!instance_exists(obj_inhibitor_damage)) {
-		var inst = instance_create_depth(_x + _fx, _y + _fy, _player.depth, obj_inhibitor_damage);
-		inst.image_angle = _dir;
-		inst.direction   = _dir;
-		audio_play_sound(sfx_inhibitor_gun_start, 0, false);
-	}
+	create_sfx_shot(_x + _fx, _y + _fy, _dir, c_aqua);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
@@ -125,7 +120,12 @@ function(_player, _dir) {
 	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
 	
 	draw_sprite_ext(spr_weapon_inhibitor_gun, 0, draw_x, draw_y + 3, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
-}).set_cooldown(5).set_autouse(true).icon_def(-2, 4, 0);
+}).set_cooldown(5).set_autouse(true).icon_def(-2, 4, 0).set_press( function(_player) {
+	audio_play_sound(sfx_inhibitor_gun_start, 0, false);
+	audio_play_sound(sfx_inhibitor_gun, 0, true);
+}).set_release(function(_player) {
+	audio_stop_sound(sfx_inhibitor_gun);
+});
 #endregion
 #region WEAPON_ID.SHURIKEN[3]
 global.weapons_array[WEAPON_ID.SHURIKEN] = new Weapon(spr_weapon_shuriken, "Assault Rifle", obj_shuriken, "RATATATA!",
@@ -135,7 +135,9 @@ function(_player, _dir) {
 	
 	var inst = instance_create_depth(_x, _y, 0, obj_bulllet_shuriken);
 	inst.image_angle = _dir;
-	inst.direction   = _dir;	
+	inst.direction   = _dir;
+	
+	audio_play_sound(sfx_shuriken, 0, false);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
@@ -152,7 +154,7 @@ function(_player, _dir) {
 	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
 	
 	draw_sprite_ext(spr_weapon_shuriken, 0, draw_x, draw_y + 3, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
-}).set_cooldown(6).icon_def(0, 4, 0);
+}).set_cooldown(6).set_autouse(false).icon_def(0, 4, 0);
 #endregion
 #region WEAPON_ID.GUN[10]
 global.weapons_array[WEAPON_ID.GUN] = new Weapon(spr_weapon_assault_rifle, "Assault Rifle", obj_assault_rifle, "RATATATA!",
@@ -174,7 +176,9 @@ function(_player, _dir) {
 	inst.image_angle = _dir;
 	inst.direction   = _dir;
 	inst = instance_create_depth(_x + _fx, _y + _fy, 0, obj_sfx_explosion);
-	inst.image_angle = _dir;	
+	inst.image_angle = _dir;
+	
+	audio_play_sound(sfx_assault_rifle, 0, false);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;

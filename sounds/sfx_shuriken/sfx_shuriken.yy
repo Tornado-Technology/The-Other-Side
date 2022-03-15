@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "sfx_inhibitor_gun.mp3",
-  "duration": 41.45629,
+  "soundFile": "sfx_shuriken.mp3",
+  "duration": 0.182833,
   "parent": {
     "name": "SFX",
     "path": "folders/Sequences/SFX.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sfx_inhibitor_gun",
+  "name": "sfx_shuriken",
   "tags": [],
   "resourceType": "GMSound",
 }

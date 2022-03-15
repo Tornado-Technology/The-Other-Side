@@ -47,6 +47,12 @@ weapon_depth = -1;
 
 // -----> Functions <---- \\
 function attack() {
+	
+	if (keyboard_check_pressed(vk_left))  { weapon.press(id); }
+	if (keyboard_check_pressed(vk_right)) { weapon.press(id); }
+	if (keyboard_check_pressed(vk_up))    { weapon.press(id); }
+	if (keyboard_check_pressed(vk_down))  { weapon.press(id); }
+	
 	if (keyboard_check_released(vk_left))  { weapon.release(id); }
 	if (keyboard_check_released(vk_right)) { weapon.release(id); }
 	if (keyboard_check_released(vk_up))    { weapon.release(id); }

@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_damage_inhibitor",
-    "path": "sprites/spr_damage_inhibitor/spr_damage_inhibitor.yy",
+    "name": "spr_particle",
+    "path": "sprites/spr_particle/spr_particle.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_inhibitor_damage",
+    "path": "objects/obj_inhibitor_damage/obj_inhibitor_damage.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,9 +24,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +35,7 @@
     "path": "folders/Objects/Bullets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_inhibitor_damage",
+  "name": "obj_particle_inhibitor",
   "tags": [],
   "resourceType": "GMObject",
 }
