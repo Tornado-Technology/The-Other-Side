@@ -1,3 +1,5 @@
+event_user(0);
+
 var layer_id = layer_get_id("Tiles");
 var layer_tile = layer_tilemap_get_id(layer_id);
 var tile_whitelist = [1, 2, 5, 6];

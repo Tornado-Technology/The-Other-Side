@@ -8,11 +8,13 @@ instance_create_depth(-100, -100, -100, obj_player_dummy);
 
 obj_player.can_move = false;
 obj_player.is_draw = false;
-taget_toom = noone;
+obj_player.can_weapon_use = false;
+
+rooms_night = [room_night1, room_night2, room_night_final];
+
 player_save();
-if (room != room_day)
-	instance_destroy(obj_player);
 
 alarm[0] = 1;
 alarm[1] = room_speed * 7;
 
+audio_sound_gain(obj_bgm.sound, 0, 1000);

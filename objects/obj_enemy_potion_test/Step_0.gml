@@ -27,6 +27,7 @@ if (distance_to_player < distance_shoot) {
 	time_shoot++;
 	if (time_shoot >= period_shoot) {
 		shoot_to(obj_reverse_potion, x_player, y_player - 20);
+		audio_play_sound(sfx_shuriken, 0, false);
 		time_shoot = 0;
 	}
 }

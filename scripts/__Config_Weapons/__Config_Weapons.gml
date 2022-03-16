@@ -220,6 +220,7 @@ function(_player, _dir) {
 	var _x = _player.x;
 	
 	var inst = instance_create_depth(_x, _y, _player.depth, obj_bullet_racket);
+	audio_play_sound(sfx_rocket_launcher, 0, false);
 	inst.direction = _dir;
 	audio_play_sound(sfx_inhibitor_gun_start, 0, false);
 }, function(_player, _dir) {
@@ -246,6 +247,7 @@ function(_player, _dir) {
 	var _x = _player.x;
 	
 	if (!instance_exists(obj_bullet_boomerang)) instance_create_depth(_x, _y, _player.depth, obj_bullet_boomerang);
+	audio_play_sound(sfx_shuriken, 0, false);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
@@ -271,6 +273,7 @@ function(_player, _dir) {
 	var _x = _player.x;
 	
 	if (!instance_exists(obj_bullet_boomerang_v2)) instance_create_depth(_x, _y, _player.depth, obj_bullet_boomerang_v2);
+	audio_play_sound(sfx_shuriken, 0, false);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;

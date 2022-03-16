@@ -98,9 +98,17 @@ function move() {
 	else
 		speed_max = 2;
 	
-	sprite_index = spr_player_idle;
-	if (input_h != 0 || input_v != 0) {
-		sprite_index = spr_player_run;
+	if (use_dir == DIR.UP) {
+		sprite_index = spr_player_idle_back;
+		if (input_h != 0 || input_v != 0) {
+			sprite_index = spr_player_run_back;
+		}
+	}
+	else {
+		sprite_index = spr_player_idle;
+		if (input_h != 0 || input_v != 0) {
+			sprite_index = spr_player_run;
+		}
 	}
 	
 	if (input_h > 0) dir = DIR.RIGHT;

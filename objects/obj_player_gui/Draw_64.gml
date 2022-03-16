@@ -12,7 +12,8 @@ if (instance_exists(obj_time)) {
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_center);
 	draw_set_font(font_fight_stat);
-	draw_text_outline(width / 2, 3, "Time: " + convert_to_time(obj_time.time));
+	draw_text_outline(width / 2, 3, "Day " + string(obj_time.day_num));
+	draw_text_outline(width / 2, 12, "Time: " + convert_to_time(obj_time.time));
 }
 
 if (!instance_exists(obj_player)) exit;
@@ -27,6 +28,15 @@ draw_sprite(spr_ui_wepon_box,   0, 16 + wbox_padding, 20 + wbox_padding);
 
 if (weapon != noone) {
 	shader_reset();
+}
+
+if (player_control_is_reversed()) {
+	draw_shader_outine(spr_ui_effect_box);
+	draw_sprite(spr_ui_effect_box,   0, 16 + wbox_padding, 88 + wbox_padding);
+	shader_reset();
+	_x = 28;
+	_y = 118;
+	draw_text_outline(_x, _y, "Time: " + convert_to_time(obj_player.time_reverse));
 }
 
 if (weapon != noone) {
@@ -51,8 +61,10 @@ _x = 38;
 _y = 52;
 draw_text_outline(_x, _y, keys);
 
-_x = 10;
-_y = height - 10;
-draw_text_outline(_x, _y, _fps);
+if (show_fps) {
+	_x = 10;
+	_y = height - 10;
+	draw_text_outline(_x, _y, _fps);
+}
 
 event_user(0);

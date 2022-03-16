@@ -1,5 +1,8 @@
 event_inherited();
 
+name = "Shuriken";
+description = "Standard edged weapon";
+
 // overwrite
 image_angle = DIR.UP;
 image_speed = 0;

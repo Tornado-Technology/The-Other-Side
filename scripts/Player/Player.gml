@@ -83,7 +83,9 @@ function player_remove_keys(_value) {
 /// @param sec
 function reverse_control(_sec) {
 	if (!instance_exists(obj_player)) return;
-	obj_player.time_reverse = _sec * room_speed;
+	obj_player.time_reverse = _sec * 60;
+	if (!audio_is_playing(sfx_reverse))
+		audio_play_sound(sfx_reverse, 0, false);
 }
 
 function player_control_is_reversed(_sec) {
@@ -94,5 +96,5 @@ function player_control_is_reversed(_sec) {
 /// @param sec
 function player_adrenalin(_sec) {
 	if (!instance_exists(obj_player)) return;
-	obj_player.adrenalin_time = 20 * room_speed;
+	obj_player.adrenalin_time = _sec * 60;
 }

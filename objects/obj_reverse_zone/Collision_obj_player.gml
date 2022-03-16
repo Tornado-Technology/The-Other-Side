@@ -1,1 +1,1 @@
-reverse_control(true, effect_time);
+reverse_control(effect_time);

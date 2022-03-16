@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_item_generator",
-    "path": "sprites/spr_item_generator/spr_item_generator.yy",
+    "name": "spr_generator_item",
+    "path": "sprites/spr_generator_item/spr_generator_item.yy",
   },
   "solid": false,
   "visible": false,
@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -1,1 +1,5 @@
-time += player_get_stabelizers() * 420;
+time = time_max;
+
+day_num = 0;
+night = false;
+teleporting = false;

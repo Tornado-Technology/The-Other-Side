@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_chiken",
-    "path": "sprites/spr_chiken/spr_chiken.yy",
+    "name": "spr_generator_enemy",
+    "path": "sprites/spr_generator_enemy/spr_generator_enemy.yy",
   },
   "solid": false,
   "visible": false,

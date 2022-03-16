@@ -9,6 +9,11 @@ if (time == 0) {
 	var spd = irandom_range(3, 7);
 	
 	motion_add(direction, spd);
+	
+	var x_player = player_get_x();
+	var y_player = player_get_y();
+	if (point_distance(x, y, x_player, y_player) < 120)
+		audio_play_sound(sfx_slime_move, 0, false);
 }
 
 if (speed > 0) {
