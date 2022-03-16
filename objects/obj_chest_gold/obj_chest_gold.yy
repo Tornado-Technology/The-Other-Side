@@ -33,8 +33,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PickUps",
-    "path": "folders/Objects/PickUps.yy",
+    "name": "Chests",
+    "path": "folders/Objects/Chests.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_chest_gold",

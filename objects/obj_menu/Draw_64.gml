@@ -1,9 +1,14 @@
 draw_set_font(font_fight_stat)
 draw_set_color(c_white);
 
+draw_shader_outine(spr_ui_logo, new Vector4(0, 0, 0, 0.5));
+draw_sprite_ext(spr_ui_logo, 0, room_width / 2, room_height / 10, 1, 1, 0, c_white, 1);
+shader_reset();
+
 switch(tab) {
 	case MenuTabName.Main:
-		draw_text_outline(room_width/4, room_height/2, "PLAY");
+		draw_set_halign(fa_center);
+		draw_text_outline(room_width / 2, room_height / 6, "PLAY\nPress any key!");
 		break;
 	
 	case MenuTabName.About:

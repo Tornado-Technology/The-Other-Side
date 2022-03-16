@@ -23,6 +23,7 @@ collider = obj_wall;
 // Inventory
 money = 0;
 keys  = 0;
+stabelizers = 0;
 
 // Move
 can_move = true;
@@ -48,6 +49,7 @@ stage = 0;
 
 // -----> Functions <---- \\
 function attack() {
+	if (!can_weapon_use) return;
 	
 	if (keyboard_check_pressed(vk_left))  { weapon.press(id); }
 	if (keyboard_check_pressed(vk_right)) { weapon.press(id); }
@@ -59,8 +61,7 @@ function attack() {
 	if (keyboard_check_released(vk_up))    { weapon.release(id); }
 	if (keyboard_check_released(vk_down))  { weapon.release(id); }
 	
-	
-	if (cooldown > 0 || !can_weapon_use) return;
+	if (cooldown > 0) return;
 	var autouse = weapon.autouse;
 	if (autouse ? keyboard_check(vk_left)  : keyboard_check_pressed(vk_left))  { weapon_use(DIR.LEFT);  return; }
 	if (autouse ? keyboard_check(vk_right) : keyboard_check_pressed(vk_right)) { weapon_use(DIR.RIGHT); return; }

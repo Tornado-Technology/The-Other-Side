@@ -1,0 +1,1 @@
+obj_player.can_weapon_use = true;

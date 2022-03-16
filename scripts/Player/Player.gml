@@ -24,6 +24,17 @@ function player_add_hp(_value = 1) {
 	obj_player.hp += abs(_value);
 }
 
+function player_add_stabelizers(_value = 1) {
+	if (!instance_exists(obj_player)) return;
+	timer_add_time(240);
+	obj_player.stabelizers += _value;
+}
+
+function player_get_stabelizers() {
+	if (!instance_exists(obj_player)) return;
+	return obj_player.stabelizers;
+}
+
 function player_get_hp() {
 	if (!instance_exists(obj_player)) return;
 	return obj_player.hp;
@@ -36,11 +47,11 @@ function player_get_hp_max() {
 
 
 /// @param value
-function player_remove_hp(_value = 1) {
+function player_remove_hp(_value = 1, _inv_add = 0) {
 	if (!instance_exists(obj_player)) return;
 	if (obj_player.inv > 0) return;
 	obj_player.image_yscale = 0.5;
-	obj_player.inv = obj_player.inv_max;
+	obj_player.inv = obj_player.inv_max + _inv_add;
 	obj_player.hp -= abs(_value);
 	audio_play_sound(sfx_damage, 0, false);
 }

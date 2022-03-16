@@ -1,0 +1,1 @@
+player_remove_hp(1, 60);

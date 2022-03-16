@@ -7,7 +7,8 @@ function player_save() {
 		keys: p.keys,
 		weapon: p.weapon,
 		hp: p.hp,
-		hp_max: p.hp_max
+		hp_max: p.hp_max,
+		stabelizers: p.stabelizers
 	}
 }
 
@@ -22,4 +23,5 @@ function player_load() {
 	p.weapon = d.weapon;
 	p.hp = d.hp;
 	p.hp_max = d.hp_max;
+	p.stabelizers = d.stabelizers;
 }

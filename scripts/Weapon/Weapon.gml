@@ -1,4 +1,4 @@
-function Weapon(_icon, _name, _item, _desc, _use, _draw) constructor {	
+function Weapon(_icon, _name, _item, _rare, _desc, _use, _draw) constructor {	
 	icon_x = 0;
 	icon_y = 0;
 	icon_angle = 0;
@@ -14,6 +14,7 @@ function Weapon(_icon, _name, _item, _desc, _use, _draw) constructor {
 	icon = _icon;
 	name = _name;
 	desc = _desc;
+	rare = _rare;
 	
 	use  = _use;
 	draw = _draw;

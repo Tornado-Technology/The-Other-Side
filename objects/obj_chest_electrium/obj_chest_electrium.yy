@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_wood_chest",
-    "path": "sprites/spr_wood_chest/spr_wood_chest.yy",
+    "name": "spr_electrium_chest",
+    "path": "sprites/spr_electrium_chest/spr_electrium_chest.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,8 +33,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "PickUps",
-    "path": "folders/Objects/PickUps.yy",
+    "name": "Chests",
+    "path": "folders/Objects/Chests.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_chest_electrium",
