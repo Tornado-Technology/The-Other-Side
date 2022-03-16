@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Damage",
+    "path": "folders/Objects/Entity/Damage.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_reverse_zone",

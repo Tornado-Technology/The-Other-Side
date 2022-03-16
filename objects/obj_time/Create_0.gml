@@ -1,0 +1,1 @@
+time += player_get_stabelizers() * 420;

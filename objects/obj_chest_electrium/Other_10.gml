@@ -1,18 +1,26 @@
-repeat(irandom_range(12, 27)) {
-	array_push(loot_insts, instance_create_depth(x, y - 5, 0, obj_coin));
+repeat(irandom_range(20, 23)) {
+	var inst = instance_create_depth(x, y - 5, 0, obj_coin);
+	inst.rare = COIN_RARE.GOLD;
+	array_push(loot_insts, inst);
 }
 
 if (irandom_range(0, 100) <= 4) {
-	array_push(loot_insts, instance_create_depth(x, y - 5, 0, choose(obj_inhibitor_gun, obj_shuriken)));
+	var inst = instance_create_depth(x, y - 5, 0, obj_coin);
+	inst.rare = COIN_RARE.ELECTRUM;
+	inst.count = 10;
+	array_push(loot_insts, inst);
+} 
+
+if (irandom_range(0, 100) <= 44) {
+	array_push(loot_insts, instance_create_depth(x, y - 5, 0,choose(obj_assault_rifle, obj_lavagun, obj_boomerang)));
 } else {
-	if (irandom_range(0, 100) <= 44) {
-		array_push(loot_insts, instance_create_depth(x, y - 5, 0, obj_bow));
-	} else {
-		repeat(irandom_range(5, 17)) {
-			array_push(loot_insts, instance_create_depth(x, y - 5, 0, obj_coin));
-		}
+	repeat(irandom_range(3, 4)) {
+		var inst = instance_create_depth(x, y - 5, 0, obj_coin);
+		inst.rare = COIN_RARE.ELECTRUM;
+		array_push(loot_insts, inst);
 	}
 }
+
 
 is_disappear = true;
 

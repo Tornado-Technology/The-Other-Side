@@ -2,7 +2,7 @@ depth_sort();
 if (!collision_circle(x, y, 25, obj_player, false, false)) { 
 	if (set_player_false) {
 		set_player_false = false;
-		obj_player.can_weapon_use = true;
+		if (instance_exists(obj_player)) obj_player.can_weapon_use = true;
 	}
 	
 	exit;

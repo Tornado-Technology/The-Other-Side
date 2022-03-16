@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "111",
+    "path": "folders/Objects/111.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_trail",

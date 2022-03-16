@@ -1,9 +1,11 @@
-products = [
-	{cost: 320,  count: 2, item: obj_heal_potion},
-	{cost: 320,  count: 1, item: obj_key},
-	{cost: 1720, count: 1, item: obj_assault_rifle},
-	{cost: 820,  count: 1, item: obj_inhibitor_gun},
-];
+position = instance_find(obj_trader_pos, irandom_range(0, instance_number(obj_trader_pos) - 1));
+products = global.shop[irandom_range(0, array_length(global.shop) - 1)];
+
+if (position != noone) {
+	x = position.x;
+	y = position.y;
+	position.sprite_index = noone;
+}
 
 buttons = [
 	{key: vk_down,  image: spr_down_button},

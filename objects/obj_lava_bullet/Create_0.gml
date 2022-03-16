@@ -1,2 +1,3 @@
-damage = 60;
-speed = 5;
+damage = 120;
+speed = 3;
+balcklist = noone;
