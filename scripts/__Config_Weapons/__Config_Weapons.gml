@@ -175,8 +175,10 @@ function(_player, _dir) {
 	var inst = instance_create_depth(_x + _fx, _y + _fy, 0, obj_gun_bullet);
 	inst.image_angle = _dir;
 	inst.direction   = _dir;
-	inst = instance_create_depth(_x + _fx, _y + _fy, 0, obj_sfx_explosion);
-	inst.image_angle = _dir;
+	
+	_player.stage = _player.stage == 0 ? 1 : 0;
+	//inst = instance_create_depth(_x + _fx, _y + _fy, 0, obj_sfx_explosion);
+	//inst.image_angle = _dir;
 	
 	audio_play_sound(sfx_assault_rifle, 0, false);
 	
@@ -194,6 +196,8 @@ function(_player, _dir) {
 	var draw_yscale = (draw_dir == DIR.UP ? -1 : 1);
 	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
 	
-	draw_sprite_ext(spr_weapon_assault_rifle, 0, draw_x, draw_y + 3, draw_xscale, draw_yscale, draw_angle, c_white, 1);	
-}).set_cooldown(5).set_autouse(true).icon_def(-2, 4, 0);
+	draw_sprite_ext(spr_weapon_assault_rifle, _player.stage, draw_x, draw_y + 3, draw_xscale, draw_yscale, draw_angle, c_white, 1);
+}).set_cooldown(5).set_autouse(true).icon_def(-2, 4, 0).set_release(function(_player) {
+	_player.stage = 0;
+});
 #endregion

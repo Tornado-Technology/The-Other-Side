@@ -1,7 +1,7 @@
 /// @desc Camera On
 view_enabled    = true;
 view_visible[0] = true;
-
+camera = view_camera[0];
 camera_set_view_size(camera, view_width, view_height);
 
 display_set_gui_size(view_width, view_height);

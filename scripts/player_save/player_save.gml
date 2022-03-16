@@ -13,6 +13,8 @@ function player_save() {
 
 function player_load() {
 	if (!instance_exists(obj_player)) return;
+	obj_player.can_move = true;
+	obj_player.is_draw = true;
 	var d = global.player_data;
 	var p = obj_player; 
 	p.money = d.money;

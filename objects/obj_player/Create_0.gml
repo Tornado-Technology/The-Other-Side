@@ -42,6 +42,7 @@ use_dir = DIR.RIGHT;
 can_weapon_use = true;
 weapon = weapon_get(WEAPON_ID.SWORD);
 weapon_depth = -1;
+stage = 0;
 // ------> ####### <----- \\
 
 
