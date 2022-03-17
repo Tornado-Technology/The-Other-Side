@@ -2,8 +2,8 @@
 zoom         = 4;
 view_width   = 1920 / zoom;
 view_height  = 1080 / zoom;
-scale_width  = 3;
-scale_height = 3;
+scale_width  = 4;
+scale_height = 4;
 
 // Modes
 mode = CAMERA_MODE.FOLLOW_OBJECT;
