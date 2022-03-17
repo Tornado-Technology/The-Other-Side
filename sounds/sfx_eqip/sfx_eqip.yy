@@ -15,7 +15,7 @@
   "duration": 0.365714,
   "parent": {
     "name": "SFX",
-    "path": "folders/Sequences/SFX.yy",
+    "path": "folders/SFX.yy",
   },
   "resourceVersion": "1.0",
   "name": "sfx_eqip",
