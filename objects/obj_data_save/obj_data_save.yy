@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_data_save",
+    "path": "sprites/spr_data_save/spr_data_save.yy",
+  },
   "solid": false,
   "visible": false,
   "spriteMaskId": null,

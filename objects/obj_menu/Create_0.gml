@@ -1,4 +1,6 @@
+sprite_index = noone;
 randomize();
+
 enum MenuTabName {
 	Main,
 	About,

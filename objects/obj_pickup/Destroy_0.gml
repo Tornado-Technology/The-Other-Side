@@ -1,0 +1,1 @@
+show_item_lore(id);

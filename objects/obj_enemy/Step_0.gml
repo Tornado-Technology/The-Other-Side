@@ -1,7 +1,7 @@
 event_inherited();
 
 var inst = instance_place(x, y, obj_entity);
-if (inst != noone) {
+if (inst != noone && collision_self) {
 	speed = 0;
 	//motion_add(point_direction(x, y, inst.x, inst.y), 10);
 }

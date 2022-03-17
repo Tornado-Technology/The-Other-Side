@@ -9,7 +9,7 @@ draw_rectangle(0, 0, size.x, size.y, false);
 
 // SFX
 if (draw_speed_sfx) {
-	draw_sprite_ext(spr_sfx_square_fall, indx, size.x / 2, size.y, size.x / 100, 1, 0, c_white, 1);
+	draw_sprite_ext(spr_sfx_square_fall, indx, size.x / 2, size.y, size.x / 100, 1, 0, c_white, draw_alpha_sfx);
 }
 
 if (alpha >= 0.8 && !fflag) {

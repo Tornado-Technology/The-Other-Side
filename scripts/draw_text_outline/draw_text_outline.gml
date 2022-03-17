@@ -1,11 +1,11 @@
-function draw_text_outline(_x, _y, _text) {
+function draw_text_outline(_x, _y, _text, _color = c_white) {
 	draw_set_color(c_black);
 	draw_text(_x + 1, _y, _text);
 	draw_text(_x - 1, _y, _text);
 	draw_text(_x, _y + 1, _text);
 	draw_text(_x, _y - 1, _text);
 	
-	draw_set_color(c_white);
+	draw_set_color(_color);
 	draw_text(_x, _y, _text);
 }
 

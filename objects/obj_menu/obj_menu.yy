@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_menu",
+    "path": "sprites/spr_menu/spr_menu.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

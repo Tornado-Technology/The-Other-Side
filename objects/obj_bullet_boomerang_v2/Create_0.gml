@@ -6,3 +6,5 @@ enemys = noone;
 enemy_limit = 0;
 enemy_limit_max = 7;
 balcklist = noone;
+need_to_null = true;
+clear_blacklist = 60;

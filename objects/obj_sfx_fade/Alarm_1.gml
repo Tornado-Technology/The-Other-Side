@@ -1,2 +1,3 @@
-instance_destroy();
-instance_destroy(obj_player_dummy);
+ending = true;
+obj_player_dummy.ending = true;
+alarm[2] = 120;

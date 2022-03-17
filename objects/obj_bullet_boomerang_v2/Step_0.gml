@@ -16,6 +16,7 @@ if (enemys == noone || ds_list_size(enemys) <= 0) {
 	
 	if (ds_list_size(enemys) > 0) {
 		enemy = enemys[| 0];
+		need_to_null = false;
 	} else {
 		finde_player = true;
 		exit;

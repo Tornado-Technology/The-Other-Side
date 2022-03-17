@@ -1,3 +1,4 @@
+pause = false
 time = time_max;
 
 day_num = 0;

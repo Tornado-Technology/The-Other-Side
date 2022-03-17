@@ -18,6 +18,7 @@ if (in_sequence) exit;
 
 image_xscale = approach(image_xscale, traget_scalex, 0.16);
 
+/*
 jump_delay--;
 
 if (jump_delay <= 0) {

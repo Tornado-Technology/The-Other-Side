@@ -33,37 +33,12 @@ function(_player, _dir) { //Use
 			_y += off;
 			break;
 	}
-	var inst = instance_create_depth(_x, _y, _player.depth, obj_weapon_sword_crutch);
-	inst.image_alpha = 0;
+	_player.use_sword = true;
 	inst = instance_create_depth(_x, _y, _player.depth, obj_damage);
 	inst.image_angle = _dir;
 	audio_play_sound(sfx_sword, 0, false);
 	
 }, function(_player) { // Draw
-	var draw_dir = _player.use_dir;
-	_player.weapon_depth = (draw_dir == DIR.UP ? -1 : 1);
-	
-	var draw_offset_x = 6;
-	var draw_offset_y = 4;
-		
-	var draw_x = _player.x + (draw_dir == DIR.RIGHT ? draw_offset_x : (draw_dir == DIR.LEFT ? -draw_offset_x : 0));
-	var draw_y = _player.y + (draw_dir == DIR.DOWN  ? draw_offset_y : (draw_dir == DIR.UP   ? -draw_offset_y : 0)) - 10;
-		
-	var draw_xscale = (draw_dir == DIR.RIGHT ? 1 : -1);
-	var draw_yscale = (draw_dir == DIR.UP ? 1 : -1);
-	var draw_angle  = (draw_dir == DIR.UP ? -90 : (draw_dir == DIR.DOWN ? 90 : 0));
-	
-	if (instance_exists(obj_weapon_sword_crutch)) {
-		obj_weapon_sword_crutch.x = draw_x;
-		obj_weapon_sword_crutch.image_alpha = 1;
-		obj_weapon_sword_crutch.y = draw_y;
-		obj_weapon_sword_crutch.image_xscale = draw_xscale;
-		obj_weapon_sword_crutch.image_yscale = draw_yscale;
-		obj_weapon_sword_crutch.image_angle  = draw_angle;
-		obj_weapon_sword_crutch.depth = _player.depth - draw_dir == DIR.UP ? -1 : 1;
-	} else {
-		draw_sprite_ext(spr_weapon_sword, 0, draw_x, draw_y, draw_xscale, draw_yscale, draw_angle + 45, c_white, 1);	
-	}
 }).set_cooldown(20).icon_def(-1, 14, 90);
 #endregion
 #region WEAPON_ID.BOW[1]

@@ -44,8 +44,8 @@ can_weapon_use = true;
 weapon = weapon_get(WEAPON_ID.SWORD);
 weapon_depth = -1;
 stage = 0;
+use_sword = false;
 // ------> ####### <----- \\
-
 
 // -----> Functions <---- \\
 function attack() {
@@ -67,6 +67,7 @@ function attack() {
 	if (autouse ? keyboard_check(vk_right) : keyboard_check_pressed(vk_right)) { weapon_use(DIR.RIGHT); return; }
 	if (autouse ? keyboard_check(vk_up)    : keyboard_check_pressed(vk_up))    { weapon_use(DIR.UP);    return; }
 	if (autouse ? keyboard_check(vk_down)  : keyboard_check_pressed(vk_down))  { weapon_use(DIR.DOWN);  return; }
+	use_sword = false;
 }
 
 function weapon_use(_dir) {
@@ -80,6 +81,8 @@ function flip() {
 }
 
 function move() {
+	var is_sword = weapon == weapon_get(WEAPON_ID.SWORD);
+	use_sword = is_sword ? use_sword : false;
 	if (!can_move) return;
 	
 	var input_h = keyboard_check(ord("D")) - keyboard_check(ord("A"));
@@ -99,15 +102,14 @@ function move() {
 		speed_max = 2;
 	
 	if (use_dir == DIR.UP) {
-		sprite_index = spr_player_idle_back;
+		sprite_index = use_sword ? spr_player_use_sword_back : spr_player_idle_back;
 		if (input_h != 0 || input_v != 0) {
-			sprite_index = spr_player_run_back;
+			sprite_index = use_sword ? spr_player_use_sword_run_back : spr_player_run_back;
 		}
-	}
-	else {
-		sprite_index = spr_player_idle;
+	} else {
+		sprite_index = use_sword ? spr_player_use_sword : (is_sword ? spr_player_idle_sword : spr_player_idle);
 		if (input_h != 0 || input_v != 0) {
-			sprite_index = spr_player_run;
+			sprite_index = use_sword ? spr_player_use_sword_run : (is_sword ? spr_player_run_sword : spr_player_run);
 		}
 	}
 	
