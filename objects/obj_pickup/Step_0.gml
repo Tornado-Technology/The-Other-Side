@@ -3,13 +3,21 @@ depth = -bbox_bottom + wave(create_y, create_y + 7, 1, animation_offset);
 
 speed = approach(speed, 0, 0.05);
 
+var hp     = player_get_hp();
+var hp_max = player_get_hp_max();
+
 // Main
-if (collision_circle(x, y, distance, obj_player, false, false) && !is_picked) is_picked = true;
+if (collision_circle(x, y, distance, obj_player, false, false) && !is_picked) {
+	if (heal_check) {
+		if (hp < hp_max) {
+			is_picked = true;
+		}
+	} else {
+		is_picked = false;
+	}
+}
 
 if (is_picked) {
-	var hp     = player_get_hp();
-	var hp_max = player_get_hp_max();
-	
 	if (pickable) {
 		if (hp < hp_max || !heal_check) {
 			event_user(0); // Collision

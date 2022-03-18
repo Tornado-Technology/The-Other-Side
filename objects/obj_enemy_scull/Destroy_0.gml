@@ -1,5 +1,5 @@
 // Loot
-var count = choose(0, 1, 1, 3, 4, 12);
+var count = choose(0, 0, 0, 2, 4, 6);
 if (count > 0) { 
 	var inst = instance_create_depth(x, y, depth, obj_coin);
 	inst.count = count;

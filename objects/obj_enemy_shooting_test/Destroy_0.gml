@@ -9,8 +9,8 @@ if (count > 0) {
 }
 
 var rand = irandom_range(0, 100);
-if (rand <= 4) {
-	instance_create_depth(x, y, depth, choose(obj_heal_potion, obj_key));
+if (rand <= 2) {
+	instance_create_depth(x, y, depth, obj_key);
 }
 
 global.enemy_kills += 1;

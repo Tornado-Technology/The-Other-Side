@@ -170,6 +170,7 @@
     {"id":{"name":"obj_damage_zone","path":"objects/obj_damage_zone/obj_damage_zone.yy",},"order":2,},
     {"id":{"name":"__Config_CoinTypes","path":"scripts/__Config_CoinTypes/__Config_CoinTypes.yy",},"order":3,},
     {"id":{"name":"sfx_zombu","path":"sounds/sfx_zombu/sfx_zombu.yy",},"order":12,},
+    {"id":{"name":"spr_door_new_vert","path":"sprites/spr_door_new_vert/spr_door_new_vert.yy",},"order":5,},
     {"id":{"name":"spr_ui_bossbar_slime","path":"sprites/spr_ui_bossbar_slime/spr_ui_bossbar_slime.yy",},"order":0,},
     {"id":{"name":"spr_d_button","path":"sprites/spr_d_button/spr_d_button.yy",},"order":6,},
     {"id":{"name":"sfx_button","path":"sounds/sfx_button/sfx_button.yy",},"order":23,},

@@ -1,4 +1,4 @@
-if (!collision_circle(x, y, 35, obj_player, false, false) || is_disappear) exit;
+if (!collision_circle(x, y, 25, obj_player, false, false) || is_disappear) exit;
 
 var draw_x = x;
 var draw_y = y - 60;
