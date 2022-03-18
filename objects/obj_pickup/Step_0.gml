@@ -8,11 +8,10 @@ var hp_max = player_get_hp_max();
 
 // Main
 if (collision_circle(x, y, distance, obj_player, false, false) && !is_picked) {
-	if (heal_check) {
-		if (hp < hp_max) {
+	if (hp < hp_max || !heal_check) {
 			is_picked = true;
 		}
-	} else {
+	else {
 		is_picked = false;
 	}
 }

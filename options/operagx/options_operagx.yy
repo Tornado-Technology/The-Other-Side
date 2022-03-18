@@ -1,6 +1,6 @@
 {
-  "option_operagx_version": "0.0.0.1",
-  "option_operagx_next_version": "0.0.0.2",
+  "option_operagx_version": "0.0.0.3",
+  "option_operagx_next_version": "0.0.0.4",
   "option_operagx_game_name": "The Other Side",
   "option_operagx_interpolate_pixels": false,
   "option_operagx_scale": 0,
@@ -10,7 +10,7 @@
   "option_operagx_team_name": "marsilies studio",
   "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/23733529-6d78-40e6-ab80-002355d6534c/edit",
   "option_operagx_internalShareUrl": "https://gxc.gg/game/23733529-6d78-40e6-ab80-002355d6534c?track=48b5a46c-ac0c-4012-aeb9-5fdc441af23e",
-  "option_operagx_publicShareUrl": "",
+  "option_operagx_publicShareUrl": "https://gxc.gg/game/23733529-6d78-40e6-ab80-002355d6534c?track=48b5a46c-ac0c-4012-aeb9-5fdc441af23e",
   "resourceVersion": "1.0",
   "name": "operagx",
   "tags": [],

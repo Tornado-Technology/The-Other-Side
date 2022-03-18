@@ -62,7 +62,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1051.0,"y":585.0,"resourceVersion":"1.0","name":"inst_6E9EFB51","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":976.0,"y":544.0,"resourceVersion":"1.0","name":"inst_12872BE8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":544.0,"resourceVersion":"1.0","name":"inst_734DB97B","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_trader_pos","path":"objects/obj_trader_pos/obj_trader_pos.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":496.0,"resourceVersion":"1.0","name":"inst_19D644B6","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_bush","path":"objects/obj_bush/obj_bush.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":176.0,"y":160.0,"resourceVersion":"1.0","name":"inst_6D68445C","tags":[],"resourceType":"GMRInstance",},
@@ -1040,7 +1039,6 @@
     {"name":"inst_item_generator_room_day","path":"rooms/room_day/room_day.yy",},
     {"name":"inst_6A127C48","path":"rooms/room_day/room_day.yy",},
     {"name":"inst_1E1E951F","path":"rooms/room_day/room_day.yy",},
-    {"name":"inst_19D644B6","path":"rooms/room_day/room_day.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
