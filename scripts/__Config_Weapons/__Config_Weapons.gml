@@ -115,14 +115,13 @@ function(_player, _dir) {
 	var _x = _player.x;
 	
 	var inst = instance_create_depth(_x, _y, 0, obj_bulllet_shuriken);
-	inst.image_angle = _dir;
-	inst.direction   = _dir;
+	inst.direction = _dir;
 	
 	audio_play_sound(sfx_shuriken, 0, false);
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
-	_player.depth_sort = 1;
+	_player.weapon_depth = (draw_dir == DIR.UP ? -1 : 1);
 	
 	var draw_offset_x = 0;
 	var draw_offset_y = 0;
@@ -227,7 +226,7 @@ function(_player, _dir) {
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
-	_player.depth_sort = 1;
+	_player.weapon_depth = (draw_dir == DIR.UP ? -1 : 1);
 	
 	var draw_offset_x = 0;
 	var draw_offset_y = 0;
@@ -253,7 +252,7 @@ function(_player, _dir) {
 	
 }, function(_player, _dir) {
 	var draw_dir = _player.use_dir;
-	_player.depth_sort = 1;
+	_player.weapon_depth = (draw_dir == DIR.UP ? -1 : 1);
 	
 	var draw_offset_x = 0;
 	var draw_offset_y = 0;
@@ -269,7 +268,7 @@ function(_player, _dir) {
 }).set_cooldown(5).set_autouse(true).icon_def(-3, 4, 0);
 #endregion
 #region WEAPON_ID.GUN[9]
-global.weapons_array[WEAPON_ID.GUN] = new Weapon(spr_weapon_assault_rifle, "Assault Rifle", RARE_ID.GOLD, obj_assault_rifle, "RATATATA!",
+global.weapons_array[WEAPON_ID.GUN] = new Weapon(spr_weapon_assault_rifle, "Assault Rifle", obj_assault_rifle, RARE_ID.GOLD, "RATATATA!",
 function(_player, _dir) {
 	var _y = _player.y - _player.sprite_height / 2;
 	var _x = _player.x;

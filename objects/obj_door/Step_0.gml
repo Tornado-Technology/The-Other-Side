@@ -23,7 +23,7 @@ if (!is_disappear) {
 }
 
 if (obj_player.money >= cost) {
-	if (button_progress > 3) {
+	if (button_progress > 3 && !is_disappear) {
 		obj_player.money -= cost;
 		is_disappear = true;
 	}

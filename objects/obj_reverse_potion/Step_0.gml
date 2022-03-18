@@ -1,12 +1,15 @@
 event_inherited();
-
+if (!create) {
+	create = true;
+	if (direction >= 90) {
+		dir_sign = 1;
+	}
+}
 speed -= 0.02
 
-if (direction < 90)
-	direction -= 1;
-if (direction >= 90)
-	direction += 1;
-	
+var tang = 0.5;
+direction += dir_sign * tang;
+
 image_angle = direction;
 	
 if (speed <= 2) {

@@ -16,6 +16,11 @@ switch(tab) {
 		break;
 	
 	case MenuTabName.About:
+		draw_set_color(c_black);
+		draw_set_alpha(0.6);
+		draw_rectangle(0, 0, width, height, false);
+		draw_set_color(c_white);
+		draw_set_alpha(1);
 		draw_set_halign(fa_center);
 		draw_text_outline(width/2, height/6, "Now to play");
 		draw_set_halign(fa_left);
@@ -27,6 +32,11 @@ switch(tab) {
 		break;
 			
 	case MenuTabName.Control:
+		draw_set_color(c_black);
+		draw_set_alpha(0.6);
+		draw_rectangle(0, 0, width, height, false);
+		draw_set_color(c_white);
+		draw_set_alpha(1);
 		draw_set_halign(fa_center);
 		draw_text_outline(width/2, height/6, "Control");
 		draw_text_outline(width/3, height/2 - 45, "Move");

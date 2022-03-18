@@ -3,7 +3,7 @@ event_inherited();
 if (collision_circle(x, y, 1000, obj_player, false, false)) {
 	direction = approach(direction, point_direction(x, y, player_get_x(), player_get_y()), 10);
 	image_angle = direction;
-	if (collision_circle(x, y, 400, obj_player, false, false) && dash) {
+	if (collision_circle(x, y, 100, obj_player, false, false) && dash) {
 		motion_add(direction, 3.5);
 		dash = false;
 		alarm[0] = 180;

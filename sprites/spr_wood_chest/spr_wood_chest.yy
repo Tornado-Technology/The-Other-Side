@@ -97,8 +97,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Chests",
+    "path": "folders/Sprites/Chests.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_wood_chest",

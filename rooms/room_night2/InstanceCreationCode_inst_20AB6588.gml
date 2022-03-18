@@ -1,2 +1,2 @@
-time_min = 3*60;
-time_max = 6*60;
+time_min = 4 * 60;
+time_max = 7 * 60;

@@ -40,11 +40,13 @@ dir = DIR.RIGHT;
 use_dir = DIR.RIGHT;
 
 // Weapons
-can_weapon_use = true;
 weapon = weapon_get(WEAPON_ID.SWORD);
 weapon_depth = -1;
+
+can_weapon_use = true;
 stage = 0;
 use_sword = false;
+
 // ------> ####### <----- \\
 
 // -----> Functions <---- \\
@@ -81,7 +83,7 @@ function flip() {
 }
 
 function move() {
-	var is_sword = weapon == weapon_get(WEAPON_ID.SWORD);
+	var is_sword = weapon == weapon_get(WEAPON_ID.SWORD) && can_weapon_use;
 	use_sword = is_sword ? use_sword : false;
 	if (!can_move) return;
 	
@@ -106,7 +108,12 @@ function move() {
 		if (input_h != 0 || input_v != 0) {
 			sprite_index = use_sword ? spr_player_use_sword_run_back : spr_player_run_back;
 		}
-	} else {
+	} else if (use_dir == DIR.DOWN) {
+		sprite_index = use_sword ? spr_player_use_sword_down : (is_sword ? spr_player_idle_sword : spr_player_idle);;
+		if (input_h != 0 || input_v != 0) {
+			sprite_index = use_sword ? spr_player_use_sword_run_down : (is_sword ? spr_player_run_sword : spr_player_run);
+		}
+	} else {	
 		sprite_index = use_sword ? spr_player_use_sword : (is_sword ? spr_player_idle_sword : spr_player_idle);
 		if (input_h != 0 || input_v != 0) {
 			sprite_index = use_sword ? spr_player_use_sword_run : (is_sword ? spr_player_run_sword : spr_player_run);

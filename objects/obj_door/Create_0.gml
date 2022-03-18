@@ -17,3 +17,4 @@ repeat (4) {
 is_disappear = false;
 button_progress = 0;
 set_player_false = false;
+is_taken = false;

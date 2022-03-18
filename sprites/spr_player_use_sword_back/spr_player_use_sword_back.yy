@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "Sword",
+    "path": "folders/Sprites/Player/Sword.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_player_use_sword_back",

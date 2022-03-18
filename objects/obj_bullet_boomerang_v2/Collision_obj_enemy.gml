@@ -1,7 +1,7 @@
 if (other == balcklist) {
 	clear_blacklist--;
 	if (clear_blacklist <= 0) {
-		clear_blacklist = 60;
+		clear_blacklist = 20;
 		balcklist = noone;
 	}
 	exit;

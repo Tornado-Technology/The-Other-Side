@@ -1,4 +1,5 @@
 /// @desc Draw-step
+if (pause) exit;
 if (!ending) {
 	alpha = approach(alpha, 1, alpha_speed);
 	draw_speed_sfx = alpha >= 0.7;

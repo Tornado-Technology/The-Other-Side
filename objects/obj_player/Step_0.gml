@@ -1,8 +1,13 @@
 event_inherited();
 
+if (!can_move) {
+	speed_h = 0;
+	speed_v = 0;
+}
+
 if (hp <= 0 && is_draw) {
 	if (!instance_exists(obj_sfx_fade_2)) instance_create_depth(0, 0, 0, obj_sfx_fade_2);
-	visible = false;
+    visible = false;
 	exit;
 }
 

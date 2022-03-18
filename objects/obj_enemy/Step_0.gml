@@ -10,6 +10,6 @@ inv = approach(inv, 0, 1);
 image_blend = merge_color(c_white, c_red, inv / inv_max)
 
 if (slow)
-	speed_normal = speed_max / 2;
+	speed_normal = speed_max / 3;
 else
 	speed_normal = speed_max
