@@ -1,5 +1,5 @@
 {
-  "option_gameguid": "1d9c7e39-34df-4888-a1d8-a8496dd27911",
+  "option_gameguid": "e14b6b65-701f-4de3-9b9b-106402df585d",
   "option_gameid": "0",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
@@ -10,7 +10,7 @@
   "option_author": "",
   "option_collision_compatibility": true,
   "option_copy_on_write_enabled": false,
-  "option_lastchanged": "15 March 2022 14:07:00",
+  "option_lastchanged": "17 March 2022 16:31:22",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
   "option_template_icon": "template_icon.png",

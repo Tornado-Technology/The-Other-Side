@@ -38,7 +38,7 @@ if (state == "to_dash") {
 	dash_time = approach(dash_time, 0, 1);
 	if (dash_time == 0) {
 		create_bullets();
-		motion_add(point_direction(x, y, player_get_x(), player_get_y()), 15);
+		motion_add(point_direction(x, y, player_get_x(), player_get_y()), 10);
 		state = "dash";
 		dash_time = 100;
 	}
@@ -53,7 +53,7 @@ if (state == "dash") {
 	
 	if (shoot_time == 0) {
 		create_bullets();
-		shoot_time = 30;
+		shoot_time = 50;
 	}
 	
 	if (speed == 0) {
@@ -69,8 +69,7 @@ if (state == "idle") {
 	}
 	
 	if (wait_time == 0) {
-		create_bullets();
-		repeat(choose(0, 3, 7)) {
+		repeat(choose(0, 1, 2)) {
 			instance_create_depth(x, y, depth, choose(obj_enemy_slime, obj_enemy_slime_reverse));
 		}
 		wait_time = irandom_range(120, 240);

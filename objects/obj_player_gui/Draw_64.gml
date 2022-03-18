@@ -12,7 +12,10 @@ if (instance_exists(obj_time)) {
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_center);
 	draw_set_font(font_fight_stat);
-	draw_text_outline(width / 2, 3, "Day " + string(obj_time.day_num));
+	if (obj_time.night)
+		draw_text_outline(width / 2, 3, "Night " + string(obj_time.night_num));
+	else
+		draw_text_outline(width / 2, 3, "Day " + string(obj_time.day_num));
 	draw_text_outline(width / 2, 12, "Time: " + convert_to_time(obj_time.time));
 }
 
@@ -22,7 +25,6 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 draw_set_font(font_fight_stat);
 
-alpha_text = approach(alpha_text, 0, 0.007);
 draw_set_alpha(alpha_text);
 
 draw_text_outline(width / 2, 22, text_1, c_white);
@@ -54,6 +56,7 @@ if (weapon != noone) {
 	shader_reset();
 }
 
+draw_set_halign(fa_left);
 var money = string(obj_player.money);
 var keys  = string(obj_player.keys);
 var _fps = "Fps: " + string(fps_real);

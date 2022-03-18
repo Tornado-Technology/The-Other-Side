@@ -1,6 +1,6 @@
 event_inherited();
 
-name = "Pice of slime";
+name = "Pice of Slime";
 description = "You no longer take damage from puddles of slugs!";
 rare = RARE_ID.ELECTRUM;
 // Overwrite

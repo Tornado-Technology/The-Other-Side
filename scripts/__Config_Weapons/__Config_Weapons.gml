@@ -36,6 +36,7 @@ function(_player, _dir) { //Use
 	_player.use_sword = true;
 	inst = instance_create_depth(_x, _y, _player.depth, obj_damage);
 	inst.image_angle = _dir;
+	inst.direction = _dir;
 	audio_play_sound(sfx_sword, 0, false);
 	
 }, function(_player) { // Draw

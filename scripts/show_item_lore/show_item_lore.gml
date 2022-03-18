@@ -5,4 +5,5 @@ function show_item_lore(_id) {
 		obj_player_gui.text_1 = name;
 		obj_player_gui.text_2 = description;
 	}
+	with (obj_player_gui) alarm[0] = 80;
 }

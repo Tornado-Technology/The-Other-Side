@@ -3,3 +3,6 @@
 
 // Destroy this 
 time--; if (time <= 0) instance_destroy();
+
+image_alpha = time/10;
+damage = 100 * time/10;

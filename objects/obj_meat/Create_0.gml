@@ -1,4 +1,4 @@
 event_inherited();
 
 name = "Meat";
-description = "Healing on 1 HP";
+description = "Healing for 1 HP";

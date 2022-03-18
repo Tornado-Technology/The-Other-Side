@@ -11,3 +11,5 @@ is_open = true;
 player_remove_keys(1);
 create_sfx_ex(c_orange);
 image_speed = 1;
+
+audio_play_sound(sfx_chest, 0, false);

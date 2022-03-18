@@ -12,14 +12,14 @@ inv_max = 10;
 bar = 0;
 
 function create_bullets() {
-	repeat(30) {
+	repeat(20) {
 		var angle = random_range(0, 180);
 		var force = random_range(1, 3);
 		var inst = instance_create_depth(x, y, depth + 10, obj_bullet_slimeball);
 		with (inst) motion_add(angle, force);
 	}
 	
-	repeat(10) {
+	repeat(5) {
 		var angle = random_range(0, 180);
 		var force = random_range(0.5, 1);
 		var inst = instance_create_depth(x, y, depth + 10, obj_bullet_slimeball);
@@ -29,15 +29,15 @@ function create_bullets() {
 } 
 
 function create_bullets_final() {
-	repeat(3) {
-		repeat(40) {
+	repeat(2) {
+		repeat(20) {
 			var angle = random_range(0, 180);
 			var force = random_range(2, 4);
 			var inst = instance_create_depth(x, y, depth + 10, obj_bullet_slimeball);
 			with (inst) motion_add(angle, force);
 		}
 	
-		repeat(20) {
+		repeat(10) {
 			var angle = random_range(0, 180);
 			var force = random_range(1, 1.5);
 			var inst = instance_create_depth(x, y, depth + 10, obj_bullet_slimeball);

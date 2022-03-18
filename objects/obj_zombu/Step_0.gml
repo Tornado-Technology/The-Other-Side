@@ -1,4 +1,5 @@
 event_inherited();
+if (stop) exit;
 
 var x_player = player_get_x();
 var y_player = player_get_y();

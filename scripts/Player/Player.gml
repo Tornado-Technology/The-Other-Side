@@ -26,7 +26,6 @@ function player_add_hp(_value = 1) {
 
 function player_add_stabelizers(_value = 1) {
 	if (!instance_exists(obj_player)) return;
-	timer_add_time(240);
 	obj_player.stabelizers += _value;
 }
 

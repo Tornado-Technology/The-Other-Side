@@ -3,6 +3,6 @@ time_max = 480;
 alarm[0] = 1;
 spawing = true;
 
-radius = 200;
+radius = 230;
 
 entities = [obj_zombu];

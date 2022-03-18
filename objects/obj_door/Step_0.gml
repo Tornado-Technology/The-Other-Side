@@ -1,7 +1,9 @@
 depth_sort();
 
 if (is_disappear) {
-	image_alpha = approach(image_alpha, 0, 0.01);
+	if (!audio_is_playing(sfx_door_open))
+		audio_play_sound(sfx_door_open, 0, false);
+	image_alpha = approach(image_alpha, 0, 0.02);
 	if (image_alpha == 0) {
 		instance_destroy();
 	}
@@ -30,6 +32,7 @@ if (obj_player.money >= cost) {
 		var button = buttons[button_progress];
 	
 		if (keyboard_check_pressed(button.key)) {
+			audio_play_sound(sfx_button, 0, false);
 			button_progress++;
 		}
 	}

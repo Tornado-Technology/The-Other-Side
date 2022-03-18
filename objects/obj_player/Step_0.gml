@@ -27,3 +27,9 @@ image_yscale = lerp(image_yscale, 1, 0.2);
 
 x += speed_h;
 y += speed_v;
+
+if (!obj_time.night)
+if (stabelizers > 0) {
+	timer_add_time(stabelizers * 60 * 4);
+	stabelizers = 0;
+}

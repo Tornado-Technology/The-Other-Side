@@ -14,3 +14,5 @@ speed_normal = speed_max;
 slow = false;
 
 growled = false;
+
+stop = false;
