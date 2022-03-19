@@ -1,4 +1,5 @@
-var size = new Vector2(display_get_gui_width(), display_get_gui_height());
+var x_draw = camera_get_x();
+var y_draw = camera_get_y();
 
 if (is_faling && !ending) {
 	time += 30;
@@ -7,7 +8,8 @@ if (is_faling && !ending) {
 
 if (ending) {
 	time += 30;
-	offset_y = approach(offset_y, 300, 1) + wave_time(10, -10, 6, 0, time);;
+	offset_y = approach(offset_y, 300, 1) + wave_time(10, -10, 6, 0, time);
 }
 
-draw_sprite(sprite_index, image_index, size.x / 2, size.y / 2 + offset_y);
+draw_set_alpha(1);
+draw_sprite(sprite_index, image_index, x - x_draw, y - y_draw + offset_y);
