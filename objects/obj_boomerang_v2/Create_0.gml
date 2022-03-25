@@ -1,6 +1,6 @@
 event_inherited();
 
-name = "Boomerang";
+name = "Super Boomerang";
 description = "Self-targeted on multiple enemies";
 
 // overwrite

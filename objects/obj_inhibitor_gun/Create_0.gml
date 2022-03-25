@@ -1,7 +1,7 @@
 event_inherited();
 
-name = "Bow";
-description = "Brakes enemies and deals damage";
+name = "Inhibitor Gun";
+description = "Shooting particles";
 
 // overwrite
 item = WEAPON_ID.INHIBITOR_GUN;

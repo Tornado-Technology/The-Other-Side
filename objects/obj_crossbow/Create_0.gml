@@ -1,6 +1,6 @@
 event_inherited();
 
-name = "Bow";
+name = "Crossbow";
 description = "Shooting arrows faster";
 
 // overwrite

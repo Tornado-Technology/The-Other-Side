@@ -1,6 +1,6 @@
 event_inherited();
 
-name = "Shuriken";
+name = "Sword";
 description = "Standard edged weapon";
 
 // overwrite
